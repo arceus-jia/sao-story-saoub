@@ -1,5 +1,17 @@
 # story23
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Stacia Creation Myth
+
+
+### Rulid Village - Festival of Appreciation
+
+Kirito：Phew... To think things would get this lively. Felling the Gigas Cedar must be a big deal.  
+Kirito：I don't see Eugeo around... I wonder if he went off somewhere with some people.  
+Kirito：Hm?  
+
 ## 场景 novel.story23_1_1
 
 Selka：Okay, kids, time to head back.  
@@ -103,6 +115,35 @@ Selka：Normally, she is unarmed and dresses in a thin silk sheet.
 Kirito：Ah-hah.  
 Selka：A-hem... So, I'll start at the beginning.  
 
+## 场景 0003（未引用文本，按编号排列）
+
+Selka：In the beginning, there were only stars, no creatures. Only stars, shining endlessly.  
+Selka：For a very long time, the stars simply shined...until their lights gathered and became one.  
+Selka：The goddess Stacia was born from this one light.  
+Selka：That is why Stacia wears a white sheet, like the light, and she shines when she descends to us.  
+Kirito：A star...the sun creating a god... that's very common in world mythology, huh.  
+Selka：What did you say?  
+Kirito：Oh, uh, nothing. Sorry.  
+Selka：Please pay attention! Now...  
+Selka：Stacia spent many long nights alone, staring up at the stars.  
+Selka：But no more gods were born. Stacia's creation was a miracle.  
+Selka：Stacia was lonely, so she decided to create some companions.  
+Selka：Humans...made in her own image.  
+Kirito：Wait, so you're saying that humans were created before the other gods, like Solus and Terraria?  
+Selka：That's right. Mankind was Stacia's first creation.  
+Selka：That is why Stacia loves mankind, and mankind worships her in turn.  
+Kirito：Ah-hah. Interesting legend.  
+Selka：Stacia was very pleased with the humans she created.  
+Selka：She wasted no time talking with the humans and building a world with them.  
+Selka：But...things didn't go too well. The humans she created did not live very long.  
+Selka：The humans needed earth to live on. Can you imagine, living in the sky like that?  
+Kirito：No...we can't fly. So, are you saying we just popped into being in the middle of space?  
+Selka：That's right. But humans can't survive in space.  
+Selka：So Stacia used a piece of her body to create Terraria.  
+Selka：And Terraria created the land for humans to live on.  
+Kirito：Terraria, goddess of the land... Yeah, the name does suggest that.  
+Selka：That's why Terraria is so important. Without her, we could not live.  
+
 ## 场景 novel.story23_3_1
 
 Selka：Terraria created vegetation and animals for us to eat and be nourished by.  
@@ -123,6 +164,32 @@ Selka：Well...you still can. You'll come back here eventually, won't you?
 Selka：You're not going to stay in Centoria forever, are you?  
 Kirito：You're right... We will come back. With Alice.  
 Selka：Yes. You will. Promise me, Kirito...  
+
+## 场景 0004（未引用文本，按编号排列）
+
+Selka：Well... Back to the story!  
+Selka：Thanks to Terraria, we humans can stand on the land and live off of it.  
+Selka：But there were more problems. Mankind could not thrive under starlight alone.  
+Selka：Unlike foxes or owls, we can't see in the dark.  
+Kirito：True. You know, my takeaway from this story so far is, the human body is badly designed.  
+Selka：And so, Stacia created Solus from some of her light.  
+Selka：Solus is, in a way, light incarnate. Solus then cast herself into the sky.  
+Kirito：Ah-hah! At last, the world had light!  
+Selka：That's right. The land was light, and people could move about it as they pleased.  
+Selka：And with the sun shining on it, the land bore trees, flowers, and fruit.  
+Selka：These trees became forests, which became more forests, and mankind multiplied, too.  
+Kirito：So that's when the animals and plants were first born.  
+Selka：That's right. They were born by the blessings of Solus and Terraria.  
+Kirito：Are there any festivals to worship Solus?  
+Selka：Yes. The Summer Festival.  
+Selka：The Summer Festival honors both Stacia and Solus, so it gets pretty grand.  
+Selka：And Solus herself has a very wild personality, so we have to celebrate wildly to please her.  
+Kirito：Is that because...if the summer sun gets too hot, the crops will fail?  
+Selka：Yes. See? You're learning!  
+Selka：Terraria is gentle and peaceful, but Solus has a fiery side to her.  
+Selka：It's said that Stacia gave Terraria her soft side and Solus her savage side.  
+Kirito：Summer's sun can be pretty savage.  
+Selka：Not so much here, but I hear it's much more brutal in the south.  
 
 ## 场景 novel.story23_4_1
 
@@ -207,6 +274,11 @@ Selka：Oh, Kirito, you really are a glutton! But...thank you.
 Selka：Okay, let's get back to the story! I'll go get us a little snack.  
 Kirito：Ooh, thanks! I was just feeling a little peckish.  
 
+## 场景 0005（未引用文本，按编号排列）
+
+Kirito：Well...I think we should move Zink to the corner, to avoid trouble later on.  
+Kirito：He'll probably wake up in the morning.  
+
 ## 场景 novel.story23_6_1_1
 
 Selka：Here you go... Wait, I feel silly offering you the food that you brought back.  
@@ -244,6 +316,20 @@ Kirito：I feel like...I just aced a test.
 Selka：It's true. Humans need sleep. And we cannot sleep if the sun is up all the time.  
 Kirito：As much as I love my naps, I'd collapse without a good night's sleep.  
 
+## 场景 0006（未引用文本，按编号排列）
+
+Selka：Stacia heard mankind's prayers, and hid Solus away for half the day, to make room for night.  
+Selka：And thanks to the night, we humans had a time designated to relax our minds and bodies.  
+Selka：However, the night blocks off Solus. In other words, the night blocks the light from Stacia's body.  
+Kirito：I'm sensing something ominous here...  
+Selka：With Stacia absent, the unguarded night eventually developed a consciousness.  
+Selka：As the light of the stars came together to form Stacia, so did the darkness form Vecta.  
+Kirito：Ah-hah. At last Vecta makes his grand entrance. So the Lost Children of Vecta come from...  
+Selka：Yes. From Vecta.  
+Selka：Those who meet Vecta in the dark without Stacia's protection go missing or lose their memory.  
+Selka：So whenever people go missing or lose their memory, we say its Vecta's doing.  
+Kirito：Hmm...  
+
 ## 场景 novel.story23_6_1_2
 
 Selka：Sorry. The story fell off the rails a little. So...  
@@ -261,6 +347,16 @@ Kirito：You mean like...the Goblins?
 Selka：Yes. Goblins, Orcs, and many other races besides.  
 Selka：Also humans who were tricked by Vecta into betraying their own kind to join the forces of darkness.  
 
+## 场景 0006（未引用文本，按编号排列）
+
+Selka：And after many years, Vecta had gained vast amounts of power.  
+Selka：And then he, along with the dark tribes and human traitors, declared war on Stacia.  
+Kirito：And the wars began...  
+Selka：Stacia led an army of humans to resist him. And naturally, Terraria and Solus aided her.  
+Selka：No matter how much power Vecta amassed, he could not match Stacia, queen of all gods.  
+Selka：But Vecta's powers grow at night, when the darkness spreads far and wide.  
+Selka：And, conversely, Stacia's powers weaken during the night.  
+
 ## 场景 novel.story23_6_1_3
 
 Selka：So, the war was a stalemate. Countless lives were lost, and the land was ravaged.  
@@ -273,6 +369,14 @@ Selka：Yes. See? You're learning!
 Selka：Stacia dressed for battle and unleashed tremendous power upon the forces of darkness.  
 Selka：One tale of her power goes like this:  
 Selka：On that night, the army of darkness struck the village.  
+
+## 场景 0007（未引用文本，按编号排列）
+
+Selka：The damage from that surprise attack was greater than anything we could have imagined.  
+Selka：In this battle, one little girl took up a sword to fight, to protect her baby brother.  
+Selka：But her foe was a dark knight. No matter how fiercely she fought, she could never defeat him.  
+Selka：The knight sneered at her, disarmed her and went in for the kill.  
+Selka：The girl squeezed her eyes shut, thinking her end had come...but, a radiance shone from the sky.  
 
 ## 场景 novel.story23_7_1
 
@@ -309,104 +413,3 @@ Kirito：Want to come with me, Selka?
 Selka：Yes...I think I will.  
 Kirito：Then let's go! I hope there's still some good food left.  
 Selka：You still want to eat? Kirito, you are ridiculous...  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Stacia Creation Myth
-
-
-### Rulid Village - Festival of Appreciation
-
-Kirito：Phew... To think things would get this lively. Felling the Gigas Cedar must be a big deal.  
-Kirito：I don't see Eugeo around... I wonder if he went off somewhere with some people.  
-Kirito：Hm?  
-
-## 场景 0003（未引用文本，按编号排列）
-
-Selka：In the beginning, there were only stars, no creatures. Only stars, shining endlessly.  
-Selka：For a very long time, the stars simply shined...until their lights gathered and became one.  
-Selka：The goddess Stacia was born from this one light.  
-Selka：That is why Stacia wears a white sheet, like the light, and she shines when she descends to us.  
-Kirito：A star...the sun creating a god... that's very common in world mythology, huh.  
-Selka：What did you say?  
-Kirito：Oh, uh, nothing. Sorry.  
-Selka：Please pay attention! Now...  
-Selka：Stacia spent many long nights alone, staring up at the stars.  
-Selka：But no more gods were born. Stacia's creation was a miracle.  
-Selka：Stacia was lonely, so she decided to create some companions.  
-Selka：Humans...made in her own image.  
-Kirito：Wait, so you're saying that humans were created before the other gods, like Solus and Terraria?  
-Selka：That's right. Mankind was Stacia's first creation.  
-Selka：That is why Stacia loves mankind, and mankind worships her in turn.  
-Kirito：Ah-hah. Interesting legend.  
-Selka：Stacia was very pleased with the humans she created.  
-Selka：She wasted no time talking with the humans and building a world with them.  
-Selka：But...things didn't go too well. The humans she created did not live very long.  
-Selka：The humans needed earth to live on. Can you imagine, living in the sky like that?  
-Kirito：No...we can't fly. So, are you saying we just popped into being in the middle of space?  
-Selka：That's right. But humans can't survive in space.  
-Selka：So Stacia used a piece of her body to create Terraria.  
-Selka：And Terraria created the land for humans to live on.  
-Kirito：Terraria, goddess of the land... Yeah, the name does suggest that.  
-Selka：That's why Terraria is so important. Without her, we could not live.  
-
-## 场景 0004（未引用文本，按编号排列）
-
-Selka：Well... Back to the story!  
-Selka：Thanks to Terraria, we humans can stand on the land and live off of it.  
-Selka：But there were more problems. Mankind could not thrive under starlight alone.  
-Selka：Unlike foxes or owls, we can't see in the dark.  
-Kirito：True. You know, my takeaway from this story so far is, the human body is badly designed.  
-Selka：And so, Stacia created Solus from some of her light.  
-Selka：Solus is, in a way, light incarnate. Solus then cast herself into the sky.  
-Kirito：Ah-hah! At last, the world had light!  
-Selka：That's right. The land was light, and people could move about it as they pleased.  
-Selka：And with the sun shining on it, the land bore trees, flowers, and fruit.  
-Selka：These trees became forests, which became more forests, and mankind multiplied, too.  
-Kirito：So that's when the animals and plants were first born.  
-Selka：That's right. They were born by the blessings of Solus and Terraria.  
-Kirito：Are there any festivals to worship Solus?  
-Selka：Yes. The Summer Festival.  
-Selka：The Summer Festival honors both Stacia and Solus, so it gets pretty grand.  
-Selka：And Solus herself has a very wild personality, so we have to celebrate wildly to please her.  
-Kirito：Is that because...if the summer sun gets too hot, the crops will fail?  
-Selka：Yes. See? You're learning!  
-Selka：Terraria is gentle and peaceful, but Solus has a fiery side to her.  
-Selka：It's said that Stacia gave Terraria her soft side and Solus her savage side.  
-Kirito：Summer's sun can be pretty savage.  
-Selka：Not so much here, but I hear it's much more brutal in the south.  
-
-## 场景 0005（未引用文本，按编号排列）
-
-Kirito：Well...I think we should move Zink to the corner, to avoid trouble later on.  
-Kirito：He'll probably wake up in the morning.  
-
-## 场景 0006（未引用文本，按编号排列）
-
-Selka：Stacia heard mankind's prayers, and hid Solus away for half the day, to make room for night.  
-Selka：And thanks to the night, we humans had a time designated to relax our minds and bodies.  
-Selka：However, the night blocks off Solus. In other words, the night blocks the light from Stacia's body.  
-Kirito：I'm sensing something ominous here...  
-Selka：With Stacia absent, the unguarded night eventually developed a consciousness.  
-Selka：As the light of the stars came together to form Stacia, so did the darkness form Vecta.  
-Kirito：Ah-hah. At last Vecta makes his grand entrance. So the Lost Children of Vecta come from...  
-Selka：Yes. From Vecta.  
-Selka：Those who meet Vecta in the dark without Stacia's protection go missing or lose their memory.  
-Selka：So whenever people go missing or lose their memory, we say its Vecta's doing.  
-Kirito：Hmm...  
-Selka：And after many years, Vecta had gained vast amounts of power.  
-Selka：And then he, along with the dark tribes and human traitors, declared war on Stacia.  
-Kirito：And the wars began...  
-Selka：Stacia led an army of humans to resist him. And naturally, Terraria and Solus aided her.  
-Selka：No matter how much power Vecta amassed, he could not match Stacia, queen of all gods.  
-Selka：But Vecta's powers grow at night, when the darkness spreads far and wide.  
-Selka：And, conversely, Stacia's powers weaken during the night.  
-
-## 场景 0007（未引用文本，按编号排列）
-
-Selka：The damage from that surprise attack was greater than anything we could have imagined.  
-Selka：In this battle, one little girl took up a sword to fight, to protect her baby brother.  
-Selka：But her foe was a dark knight. No matter how fiercely she fought, she could never defeat him.  
-Selka：The knight sneered at her, disarmed her and went in for the kill.  
-Selka：The girl squeezed her eyes shut, thinking her end had come...but, a radiance shone from the sky.  

@@ -1,15 +1,34 @@
 # story42
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Eternal Longing
+
+
 ## 场景 novel.story42_1_0
 
 Fanatio：I'm back!  
 Bercouli：Sorry I'm late. I was the one who invited you.  
+
+## 场景 0001（未引用文本，按编号排列）
+
+Fanatio：Not at all, please come in.  
+
+## 场景 novel.story42_1_0
+
 Bercouli：I'm sorry I made you wait.  
 Fanatio：I was walking down memory lane, so the time just flew by.  
 Bercouli：Memory lane?  
 Fanatio：It's my first memory of meeting with you...sir.  
 Bercouli：...Was it that important?  
 Fanatio：Of course! To me, there's never been anything more important.  
+
+## 场景 0001（未引用文本，按编号排列）
+
+Administrator：Well then, what was it that you wanted to talk about?  
+Bercouli：About what I said before. I want to increase the number of knights.  
+Bercouli：You tasked me with protecting the Human Empire, but the Empire is too vast for me to handle this task alone.  
 
 ## 场景 novel.story42_1_1
 
@@ -24,6 +43,11 @@ Bercouli：The heavens... Wouldn't that take awhile?
 Administrator：Not at all. I have already honed in on someone who will make a fine companion to you.  
 Bercouli：...As long as that person is strong.  
 Administrator：Of course, I think you will be quiet happy.  
+
+## 场景 0002（未引用文本，按编号排列）
+
+Bercouli：This guy's finally gotten used to it...  
+Fanatio：Excuse me, Sir!  
 
 ## 场景 novel.story42_2_1
 
@@ -89,76 +113,6 @@ Fanatio：I don't deserve your praise, Sir...
 Bercouli：No. Your strict discipline as my number 2 shaped our knights into who they are today.  
 Bercouli：I truly owe a debt to you. Thank you, Fanatio.  
 
-## 场景 novel.story42_4_1
-
-Fanatio：Damn...!  
-Bercouli：We did everything we could for them.  
-Fanatio：Y-Yes, Sir...  
-Fanatio：But how can I sit idle? When I see families suffering like that...  
-Bercouli：Even if we made ourselves visible, we could not cure their illness.  
-Bercouli：Food is scarce, too. We can't give all the resources only to these people.  
-Fanatio：Urgh...!  
-Bercouli：Listen... I think you already know this.  
-Fanatio：I do, Sir... I just curse my own helplessness.  
-Fanatio：I am an Integrity Knight. I possess superhuman strength. But I can't save the sick...  
-Bercouli：Then we must focus on doing what we can do, Fanatio.  
-Fanatio：Yes, Sir! I swear, on my life, to protect the Human Empire!  
-Fanatio：So tragedies like this will never happen again.  
-
-## 场景 novel.story42_5_1
-
-Bercouli：At the time, I thought to myself.  
-Bercouli：That your will is much stronger than mine.  
-Bercouli：I've mentored many knights, but none of them cared about the Human Empire more than you.  
-Fanatio：I truly don't deserve such praise. You are the one who cares most for the Human Empire.  
-Fanatio：And, you are the strongest...  
-Fanatio：Naturally, the other knights don't come close to your level, in many ways.  
-Bercouli：There's more to strength than winning in sword fights.  
-Bercouli：I'm awful at training the other knights, but that's one of your strong points.  
-Fanatio：No, that's not true...You speak too highly of me.  
-Fanatio：All I did was... yell at them from the sidelines.  
-Bercouli：I'm talking about what I can't do.  
-Bercouli：Those eager to obey me don't need to be barked at.  
-Bercouli：I leave behind those who can't, but not you.  
-Bercouli：You dragged them up by their ears, forcing them to better themselves.  
-Bercouli：The Integrity Knights would not be as great without you.  
-Fanatio：......  
-Bercouli：Why is your face red?  
-Fanatio：W-With such undeserving praise... anyone in my position would blush!  
-Bercouli：Come, now. Your face is pretty. You should show it more.  
-Fanatio：C-Commander! P...Please! Stop teasing me!  
-Bercouli：But I'm not teasing you...  
-
-## 场景 novel.story42_6_1
-
-Fanatio：C-Commander...  
-Bercouli：No need to apologize. I'm flattered, Fanatio.  
-Fanatio：Y-You mean it?  
-Bercouli：Yes. I mean it. Over such a long period... you have always been there for me.  
-Bercouli：Why would your love for me make me feel upset?  
-Fanatio：Th-Thank you, Sir.  
-Bercouli：The humans and Integrity Knights are about to transform drastically. It's going to get messy.  
-Bercouli：So, before that happens, I must tell you...  
-Fanatio：Yes, Sir...  
-Bercouli：I love you, Fanatio. I've always loved you.  
-Fanatio：Commander...  
-Fanatio：I love you too! From the first day we met!  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Eternal Longing
-
-Fanatio：Not at all, please come in.  
-Administrator：Well then, what was it that you wanted to talk about?  
-Bercouli：About what I said before. I want to increase the number of knights.  
-Bercouli：You tasked me with protecting the Human Empire, but the Empire is too vast for me to handle this task alone.  
-
-## 场景 0002（未引用文本，按编号排列）
-
-Bercouli：This guy's finally gotten used to it...  
-Fanatio：Excuse me, Sir!  
-
 ## 场景 0003（未引用文本，按编号排列）
 
 Fanatio：Y-Yes, Sir...  
@@ -192,14 +146,63 @@ Child：Stay strong, Mother!
 Villager：The Goblins may be nowhere in sight. But the sickness...  
 Villager：If this keeps up, winter will kill them all.  
 
+## 场景 novel.story42_4_1
+
+Fanatio：Damn...!  
+Bercouli：We did everything we could for them.  
+Fanatio：Y-Yes, Sir...  
+Fanatio：But how can I sit idle? When I see families suffering like that...  
+Bercouli：Even if we made ourselves visible, we could not cure their illness.  
+Bercouli：Food is scarce, too. We can't give all the resources only to these people.  
+Fanatio：Urgh...!  
+Bercouli：Listen... I think you already know this.  
+Fanatio：I do, Sir... I just curse my own helplessness.  
+Fanatio：I am an Integrity Knight. I possess superhuman strength. But I can't save the sick...  
+Bercouli：Then we must focus on doing what we can do, Fanatio.  
+Fanatio：Yes, Sir! I swear, on my life, to protect the Human Empire!  
+Fanatio：So tragedies like this will never happen again.  
+
+## 场景 novel.story42_5_1
+
+Bercouli：At the time, I thought to myself.  
+Bercouli：That your will is much stronger than mine.  
+Bercouli：I've mentored many knights, but none of them cared about the Human Empire more than you.  
+Fanatio：I truly don't deserve such praise. You are the one who cares most for the Human Empire.  
+Fanatio：And, you are the strongest...  
+Fanatio：Naturally, the other knights don't come close to your level, in many ways.  
+Bercouli：There's more to strength than winning in sword fights.  
+Bercouli：I'm awful at training the other knights, but that's one of your strong points.  
+Fanatio：No, that's not true...You speak too highly of me.  
+Fanatio：All I did was... yell at them from the sidelines.  
+Bercouli：I'm talking about what I can't do.  
+Bercouli：Those eager to obey me don't need to be barked at.  
+
 ## 场景 0005（未引用文本，按编号排列）
 
 Bercouli：Take you, Alice, and Eydis. You didn't need my help to become stronger.  
 Fanatio：That’s because you have charisma...  
+
+## 场景 novel.story42_5_1
+
+Bercouli：I leave behind those who can't, but not you.  
+Bercouli：You dragged them up by their ears, forcing them to better themselves.  
+Bercouli：The Integrity Knights would not be as great without you.  
+Fanatio：......  
+Bercouli：Why is your face red?  
+Fanatio：W-With such undeserving praise... anyone in my position would blush!  
+
+## 场景 0005（未引用文本，按编号排列）
+
 Bercouli：Hahaha, you never change, do you? You're the same Fanatio I met so long ago.  
 Bercouli：Though it has been a while since you've let me see your face like this.  
 Fanatio：P-Please, stop teasing me!  
 Fanatio：If you keep pressing me like this, I...  
+
+## 场景 novel.story42_5_1
+
+Bercouli：Come, now. Your face is pretty. You should show it more.  
+Fanatio：C-Commander! P...Please! Stop teasing me!  
+Bercouli：But I'm not teasing you...  
 
 ## 场景 0006（未引用文本，按编号排列）
 
@@ -218,6 +221,24 @@ Bercouli：What part is that?
 Fanatio：These are my feelings for you.  
 Bercouli：Fanatio...  
 Fanatio：Forgive me, Commander.  
+
+## 场景 novel.story42_6_1
+
+Fanatio：C-Commander...  
+Bercouli：No need to apologize. I'm flattered, Fanatio.  
+Fanatio：Y-You mean it?  
+Bercouli：Yes. I mean it. Over such a long period... you have always been there for me.  
+Bercouli：Why would your love for me make me feel upset?  
+Fanatio：Th-Thank you, Sir.  
+Bercouli：The humans and Integrity Knights are about to transform drastically. It's going to get messy.  
+Bercouli：So, before that happens, I must tell you...  
+Fanatio：Yes, Sir...  
+Bercouli：I love you, Fanatio. I've always loved you.  
+Fanatio：Commander...  
+Fanatio：I love you too! From the first day we met!  
+
+## 场景 0006（未引用文本，按编号排列）
+
 Bercouli：Yes, I knew that... But I was scared.  
 Fanatio：Yes, I know. The thought of having a child with a limited lifespan also scares me.  
 Fanatio：But now...  

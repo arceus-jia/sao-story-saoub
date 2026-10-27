@@ -1,5 +1,11 @@
 # story26
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### The Bond Amongst Knights: Human World Part
+
+
 ## 场景 novel.story26_1_1
 
 Eydis：Argh. Another boring day. Why does the Great Gate only get one guard anyway?  
@@ -15,12 +21,6 @@ Eydis：Well, what can I do... It's my job. Let's go, Kirimai!
 Kirimai：Skreee!  
 Eydis：Glad to see you're always in good spirits. Let's go fishing after our shift is over!  
 Kirimai：Skree!  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### The Bond Amongst Knights: Human World Part
-
 
 ## 场景 0002（未引用文本，按编号排列）
 

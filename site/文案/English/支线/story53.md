@@ -1,5 +1,12 @@
 # story53
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Fearless Resistance
+
+Dark Knight：D-Damn...  
+
 ## 场景 novel.story53_1_1
 
 Bercouli：So that was the last one.  
@@ -10,6 +17,26 @@ Bercouli：Wait... Maybe they aren't fighting amongst themselves and are instead
 Bercouli：If that's the case, then we might need to guard other borders besides this one...  
 Bercouli：Great... Just what I need. More work.  
 
+## 场景 0001（未引用文本，按编号排列）
+
+Chudelkin：......  
+Bercouli：Hm?  
+Bercouli：Prime Senator, what are you doing?  
+Chudelkin：Heee!  
+Chudelkin：O-Oh...it's just you, Commander. You nearly gave me a heart attack!  
+Bercouli：Ah. Sorry about that.  
+Bercouli：So. What're you doing?  
+Chudelkin：W-Well, I...  
+Bercouli：No matter. I'm on my way to deliver some news to Her Eminence.  
+Bercouli：Pardon me.  
+Chudelkin：S-Stop! You mustn't go in there!  
+Chudelkin：As per Her Eminence's orders, none are to enter this room!  
+Bercouli：None are to enter?  
+Bercouli：Not her chambers on the top floor, but...this great hall?  
+Chudelkin：Yes, yes, weren't you listening?!  
+Bercouli：Hmm. How unusual of her. I wonder if she has a visitor.  
+Chudelkin：W-Well, I...  
+
 ## 场景 novel.story53_1_2
 
 Bercouli：Hm?  
@@ -17,6 +44,20 @@ Bercouli：Hm?
 Bercouli：(That's...the Pontifex's voice.)  
 -：...load test... ...limit...  
 Bercouli：(And now that's a man's voice... Wow, she really does have a visitor?)  
+
+## 场景 0001（未引用文本，按编号排列）
+
+Chudelkin：Number 1!!! Why are you eavesdropping???  
+Bercouli：I'm not eavesdropping. I just overheard a little.  
+Chudelkin：We call that eavesdropping! Just go away!  
+Bercouli：Fine, fine. I'll deliver my news to her later.  
+Chudelkin：Shoo! Shoo! Out of my sight!  
+
+## 场景 0002（未引用文本，按编号排列）
+
+Bercouli：Well, looks like I have some time to kill... Guess I'll take a bath.  
+Fanatio：Commander! You've returned!  
+Bercouli：Hi there, Fanatio. Yeah, I just got back.  
 
 ## 场景 novel.story53_2_1
 
@@ -67,6 +108,55 @@ Bercouli：Mmm...I think I overslept. Well, it has been a long time since I've h
 Bercouli：That Fanatio... Practicing with the Knights, eh?  
 Bercouli：Hehe. She's much more of a leader than I'll ever be.  
 Bercouli：I guess I'll make an appearance after my bath.  
+
+## 场景 0003（未引用文本，按编号排列）
+
+Chudelkin：Hey now, Bercouli! Just why are you slacking off?!  
+Bercouli：Hi, Prime Senator. You taking a bath, too?  
+Chudelkin：Of course not! I am asking you, why you are slacking off!!  
+Bercouli：I'm not slacking off, though. I still haven't delivered my report to the Pontifex yet.  
+Bercouli：So I can't leave the Cathedral, now can I? I'm on standby.  
+Chudelkin：G-Grrr...  
+Administrator：Have you no respect for mornings?  
+Chudelkin：W-W-W-Whose voice is this?!  
+Chudelkin：Y-Your Eminence?! F-F-Fancy you...gracing us... with your presence...here...  
+Bercouli：True, it is unusual to see you near the bath house. Have you finished your studies?  
+Chudelkin：Bow your head lower, boy! You are in the presence of Her Em...  
+Administrator：Chudelkin. Enough.  
+Chudelkin：Y-Yes, Your Eminence!!!  
+Administrator：Yes, I've finished. And I felt like getting some fresh air.  
+Bercouli：Fresh air? Even more unusual. I can escort you outside the Cathedral, if you'd like.  
+Administrator：I wouldn't mind that...  
+Chudelkin：Hey, now, Number 1! Where are your manners?!  
+Chudelkin：Your Eminence, you must be tired. Please, have a rest in your chambers!  
+Chudelkin：I couldn't live with myself if the worst happened to your esteemed health!  
+Chudelkin：If you wish, please allow me, your humble Chudelkin, to escort you to your room...  
+Administrator：Bercouli.  
+Bercouli：Aye.  
+Administrator：Come see me tonight. I'll open a fresh bottle of wine.  
+Chudelkin：Winnne?! Her Eminence... and the commander... drinking winnne?!  
+Bercouli：Oh, thanks, that sounds nice. I'll look forward to it.  
+Chudelkin：Y-Y-Your Eminence!!!  
+Administrator：What is it, Chudelkin?  
+Chudelkin：If you desire a dinner companion, please choose me, not that knight!!! I would be much more...  
+Administrator：Chudelkin. I'm inviting Bercouli.  
+Chudelkin：What??? U-Understood...  
+Administrator：This evening, come to my chambers at 9pm. I'll be resting until then.  
+Bercouli：Your Eminence, I have news of the Dark Territory. When do you want to hear it?  
+Administrator：Oh, yes. I'd forgotten... You can tell me about it later.  
+Bercouli：Understood. Well, see you tonight.  
+Administrator：Yes. Don't be late. Though I'm sure you'll have no problem with tardiness.  
+Bercouli：Yes, thanks to the Time-Splitting Sword you gave me, I always know what time it is.  
+Administrator：Indeed. Speak to you later.  
+Bercouli：......  
+Chudelkin：......  
+Bercouli：Are you all right, Prime Senator?  
+Chudelkin：Wha?!  
+Bercouli：Don't let yourself get too depressed...  
+Chudelkin：Sh-Shut up, youuu! Spare me your false sympathy!  
+Chudelkin：Grrr!!!  
+Bercouli：Easy, tiger... Well, don't worry. You'll get an invitation someday.  
+Chudelkin：Nnngh!!!  
 
 ## 场景 novel.story53_4_1
 
@@ -140,6 +230,15 @@ Dark general：You've been blessed with an extended life... Are you sure you wan
 Bercouli：No need to worry. I have no plans of throwing my life away yet.  
 Dark general：Fortune won't smile on you forever. This time, you're mine.  
 
+## 场景 0005（未引用文本，按编号排列）
+
+Dark general：Mmph! You're strong... How strong...can a man get?  
+Bercouli：Sorry about that.  
+Dark general：Heh! Why are you apologizing? You have surpassed me in strength.  
+Dark general：But that is all...  
+Bercouli：Yeah, you're right... I am not bound by time.  
+Bercouli：I feel guilty about that...  
+
 ## 场景 novel.story53_6_1
 
 Administrator：And you haven't felt it since?  
@@ -170,99 +269,6 @@ Administrator：I see...
 Administrator：You may leave now, Bercouli. We can discuss the Dark Territory's moves in the morning.  
 Bercouli：Yes, your Eminence.  
 Administrator：......  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Fearless Resistance
-
-Dark Knight：D-Damn...  
-Chudelkin：......  
-Bercouli：Hm?  
-Bercouli：Prime Senator, what are you doing?  
-Chudelkin：Heee!  
-Chudelkin：O-Oh...it's just you, Commander. You nearly gave me a heart attack!  
-Bercouli：Ah. Sorry about that.  
-Bercouli：So. What're you doing?  
-Chudelkin：W-Well, I...  
-Bercouli：No matter. I'm on my way to deliver some news to Her Eminence.  
-Bercouli：Pardon me.  
-Chudelkin：S-Stop! You mustn't go in there!  
-Chudelkin：As per Her Eminence's orders, none are to enter this room!  
-Bercouli：None are to enter?  
-Bercouli：Not her chambers on the top floor, but...this great hall?  
-Chudelkin：Yes, yes, weren't you listening?!  
-Bercouli：Hmm. How unusual of her. I wonder if she has a visitor.  
-Chudelkin：W-Well, I...  
-Chudelkin：Number 1!!! Why are you eavesdropping???  
-Bercouli：I'm not eavesdropping. I just overheard a little.  
-Chudelkin：We call that eavesdropping! Just go away!  
-Bercouli：Fine, fine. I'll deliver my news to her later.  
-Chudelkin：Shoo! Shoo! Out of my sight!  
-
-## 场景 0002（未引用文本，按编号排列）
-
-Bercouli：Well, looks like I have some time to kill... Guess I'll take a bath.  
-Fanatio：Commander! You've returned!  
-Bercouli：Hi there, Fanatio. Yeah, I just got back.  
-
-## 场景 0003（未引用文本，按编号排列）
-
-Chudelkin：Hey now, Bercouli! Just why are you slacking off?!  
-Bercouli：Hi, Prime Senator. You taking a bath, too?  
-Chudelkin：Of course not! I am asking you, why you are slacking off!!  
-Bercouli：I'm not slacking off, though. I still haven't delivered my report to the Pontifex yet.  
-Bercouli：So I can't leave the Cathedral, now can I? I'm on standby.  
-Chudelkin：G-Grrr...  
-Administrator：Have you no respect for mornings?  
-Chudelkin：W-W-W-Whose voice is this?!  
-Chudelkin：Y-Your Eminence?! F-F-Fancy you...gracing us... with your presence...here...  
-Bercouli：True, it is unusual to see you near the bath house. Have you finished your studies?  
-Chudelkin：Bow your head lower, boy! You are in the presence of Her Em...  
-Administrator：Chudelkin. Enough.  
-Chudelkin：Y-Yes, Your Eminence!!!  
-Administrator：Yes, I've finished. And I felt like getting some fresh air.  
-Bercouli：Fresh air? Even more unusual. I can escort you outside the Cathedral, if you'd like.  
-Administrator：I wouldn't mind that...  
-Chudelkin：Hey, now, Number 1! Where are your manners?!  
-Chudelkin：Your Eminence, you must be tired. Please, have a rest in your chambers!  
-Chudelkin：I couldn't live with myself if the worst happened to your esteemed health!  
-Chudelkin：If you wish, please allow me, your humble Chudelkin, to escort you to your room...  
-Administrator：Bercouli.  
-Bercouli：Aye.  
-Administrator：Come see me tonight. I'll open a fresh bottle of wine.  
-Chudelkin：Winnne?! Her Eminence... and the commander... drinking winnne?!  
-Bercouli：Oh, thanks, that sounds nice. I'll look forward to it.  
-Chudelkin：Y-Y-Your Eminence!!!  
-Administrator：What is it, Chudelkin?  
-Chudelkin：If you desire a dinner companion, please choose me, not that knight!!! I would be much more...  
-Administrator：Chudelkin. I'm inviting Bercouli.  
-Chudelkin：What??? U-Understood...  
-Administrator：This evening, come to my chambers at 9pm. I'll be resting until then.  
-Bercouli：Your Eminence, I have news of the Dark Territory. When do you want to hear it?  
-Administrator：Oh, yes. I'd forgotten... You can tell me about it later.  
-Bercouli：Understood. Well, see you tonight.  
-Administrator：Yes. Don't be late. Though I'm sure you'll have no problem with tardiness.  
-Bercouli：Yes, thanks to the Time-Splitting Sword you gave me, I always know what time it is.  
-Administrator：Indeed. Speak to you later.  
-Bercouli：......  
-Chudelkin：......  
-Bercouli：Are you all right, Prime Senator?  
-Chudelkin：Wha?!  
-Bercouli：Don't let yourself get too depressed...  
-Chudelkin：Sh-Shut up, youuu! Spare me your false sympathy!  
-Chudelkin：Grrr!!!  
-Bercouli：Easy, tiger... Well, don't worry. You'll get an invitation someday.  
-Chudelkin：Nnngh!!!  
-
-## 场景 0005（未引用文本，按编号排列）
-
-Dark general：Mmph! You're strong... How strong...can a man get?  
-Bercouli：Sorry about that.  
-Dark general：Heh! Why are you apologizing? You have surpassed me in strength.  
-Dark general：But that is all...  
-Bercouli：Yeah, you're right... I am not bound by time.  
-Bercouli：I feel guilty about that...  
 
 ## 场景 0006（未引用文本，按编号排列）
 

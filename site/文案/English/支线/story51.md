@@ -1,96 +1,5 @@
 # story51
 
-## 场景 novel.story51_2_1
-
-Sadore：......  
-Kirito：S-Sir?  
-Sadore：One year.  
-Kirito：Yes, sir?  
-Sadore：One year. Gimme a year, and this branch will be an impossibly good sword.  
-Sadore：It'll even surpass the weapons of the high-and-mighty Integrity Knights.  
-Eugeo：The I-Integrity Knights?  
-Kirito：Y-You mean it?! Can it really be that powerful?  
-Sadore：Ya doubt me?  
-Kirito：Oh, no, sir... Okay. Understood.  
-Kirito：Please, I would be honored if you made this into a sword!  
-Sadore：I accept the job. I promise I'll make ya a special sword for the ages.  
-Kirito：Thank you so much!  
-Eugeo：Good news, eh, Kirito?  
-Sadore：By the way, judging by yer uniforms...are ya students at the Swordcraft Academy?  
-Eugeo：Yes. We just enrolled, though...  
-Sadore：Then you'll need a sword, too. Do ya already have one?  
-Sadore：I could make ya one. Not as good as the sword from the Cedar, though...  
-Eugeo：Thank you. But I already have a sword.  
-Sadore：Ah-hah. Well, if ya have a family heirloom, that's best.  
-Eugeo：Oh, no. It's not an heirloom... I come from a poor farming family in Rulid.  
-Sadore：Yer from Rulid? Is there even a blacksmith in that village?  
-Eugeo：No, I found it in a cave. It's the "Blue Rose Sword"...  
-Kirito：This sword of yours is pretty special, too.  
-Sadore："Blue Rose Sword," ya say?! N-No way is that sword of legend real...  
-Sadore：Hey, young'un. Can I see yer sword?  
-Eugeo：Sure, I don't mind. But I don't have it with me now.  
-Eugeo：Can we come on the next Day of Rest?  
-Sadore：The next Day of Rest, huh? Guess it'll have ta be then.  
-Eugeo：Good. I'll bring it then.  
-Sadore：Thanks, kid.  
-
-## 场景 novel.story51_5_3
-
-Kirito：......  
-Eugeo：You having trouble sleeping?  
-Kirito：Eugeo... You're still awake?  
-Eugeo：That's what I'm asking you.  
-Eugeo：And I won't let you go to sleep until you tell me what's wrong.  
-Kirito：I was just...thinking about the past.  
-Eugeo：Really? So are your memories...?  
-Kirito：No, I haven't remembered everything. It's all still very hazy, too.  
-Kirito：But it's a little unnerving, having it happen all of a sudden.  
-Eugeo：I'm sorry... I keep forgetting, you're a "Lost Child of Vecta."  
-Eugeo：It's easy to forget since you're always so cheerful.  
-Eugeo：I'm sorry I didn't notice sooner.  
-Kirito：N-No, it's okay... I really am fine.  
-Eugeo：Okay... I won't press you any further.  
-Eugeo：But Kirito, remember this.  
-Kirito：What?  
-Eugeo：Ever since the day she...Alice... was taken away from us, I've had many sleepless nights.  
-Eugeo：But now I've turned my despair into hope...and I'm using it to propel me forward.  
-Eugeo：I was able to do this because you were there to guide me. I can sleep because you're with me.  
-Kirito：Eugeo...  
-Eugeo：I doubt someone like me will ever be a shining light to the world like you are.  
-Eugeo：But as long as we're together, I'm sure I can at least help illuminate our path.  
-Kirito：Oh, please, Eugeo. You give me plenty of hope and guidance.  
-Kirito：Thanks, Eugeo. I was being silly.  
-Kirito：I felt like it was me against the whole world... But you've always been there for me.  
-Eugeo：Yeah. And it'll stay that way forever.  
-Kirito：Yeah. Same here.  
-Eugeo：......  
-Kirito：Th...This feels weird now.  
-Eugeo：Yeah...  
-Kirito：Okay, let's swing our swords a little so we can sleep!  
-Eugeo：Huh?! In the middle of the night?  
-Eugeo：You know we'd get completely chewed out if we're caught.  
-Kirito：Don't worry. Even the teachers are asleep now.  
-Eugeo：Be that as it may... Oh, I can't say no to you.  
-Eugeo：You wouldn't take no for an answer anyway. Okay. I'll come practice with you.  
-Kirito：That's the spirit!  
-
-## 场景 novel.story51_6_1
-
-Kirito：I was right. No one's here.  
-Eugeo：Of course no one's here.  
-Eugeo：Everyone knows how badly they'll be punished if they're caught out here this late.  
-Kirito：But does the Taboo Index say, 'Thou shalt not go out at night' anywhere in it?  
-Eugeo：Well, no, not the Taboo Index...  
-Kirito：And even the school rules don't specify the earliest time you're allowed to get up in the morning.  
-Kirito：If someone catches us, we've got some good excuses.  
-Kirito：We'll just say "Early-morning practice!"  
-Eugeo：......  
-Kirito：See? The genius of it has rendered you speechless, right?  
-Eugeo：Nope... It's so stupid I'm at a loss for words.  
-Eugeo：But...I'm glad you're feeling better.  
-Kirito：Yeah. Thanks, buddy. It's all because of you. Now, help me fight better.  
-Eugeo：As you wish, Kirito.  
-
 ## 场景 0001（未引用文本，按编号排列）
 
 
@@ -146,6 +55,40 @@ Kirito：......
 Eugeo：......  
 Sadore：But wait... Then again, I could...  
 Kirito：......  
+
+## 场景 novel.story51_2_1
+
+Sadore：......  
+Kirito：S-Sir?  
+Sadore：One year.  
+Kirito：Yes, sir?  
+Sadore：One year. Gimme a year, and this branch will be an impossibly good sword.  
+Sadore：It'll even surpass the weapons of the high-and-mighty Integrity Knights.  
+Eugeo：The I-Integrity Knights?  
+Kirito：Y-You mean it?! Can it really be that powerful?  
+Sadore：Ya doubt me?  
+Kirito：Oh, no, sir... Okay. Understood.  
+Kirito：Please, I would be honored if you made this into a sword!  
+Sadore：I accept the job. I promise I'll make ya a special sword for the ages.  
+Kirito：Thank you so much!  
+Eugeo：Good news, eh, Kirito?  
+Sadore：By the way, judging by yer uniforms...are ya students at the Swordcraft Academy?  
+Eugeo：Yes. We just enrolled, though...  
+Sadore：Then you'll need a sword, too. Do ya already have one?  
+Sadore：I could make ya one. Not as good as the sword from the Cedar, though...  
+Eugeo：Thank you. But I already have a sword.  
+Sadore：Ah-hah. Well, if ya have a family heirloom, that's best.  
+Eugeo：Oh, no. It's not an heirloom... I come from a poor farming family in Rulid.  
+Sadore：Yer from Rulid? Is there even a blacksmith in that village?  
+Eugeo：No, I found it in a cave. It's the "Blue Rose Sword"...  
+Kirito：This sword of yours is pretty special, too.  
+Sadore："Blue Rose Sword," ya say?! N-No way is that sword of legend real...  
+Sadore：Hey, young'un. Can I see yer sword?  
+Eugeo：Sure, I don't mind. But I don't have it with me now.  
+Eugeo：Can we come on the next Day of Rest?  
+Sadore：The next Day of Rest, huh? Guess it'll have ta be then.  
+Eugeo：Good. I'll bring it then.  
+Sadore：Thanks, kid.  
 
 ## 场景 0003（未引用文本，按编号排列）
 
@@ -247,6 +190,63 @@ Kirito：No... It's nothing.
 Eugeo：Are you sure?! If something's worrying you, I could...  
 Kirito：Thanks, Eugeo. But I'm fine, really.  
 Eugeo：Wait, Kirito! Sheesh, what's wrong with you...?  
+
+## 场景 novel.story51_5_3
+
+Kirito：......  
+Eugeo：You having trouble sleeping?  
+Kirito：Eugeo... You're still awake?  
+Eugeo：That's what I'm asking you.  
+Eugeo：And I won't let you go to sleep until you tell me what's wrong.  
+Kirito：I was just...thinking about the past.  
+Eugeo：Really? So are your memories...?  
+Kirito：No, I haven't remembered everything. It's all still very hazy, too.  
+Kirito：But it's a little unnerving, having it happen all of a sudden.  
+Eugeo：I'm sorry... I keep forgetting, you're a "Lost Child of Vecta."  
+Eugeo：It's easy to forget since you're always so cheerful.  
+Eugeo：I'm sorry I didn't notice sooner.  
+Kirito：N-No, it's okay... I really am fine.  
+Eugeo：Okay... I won't press you any further.  
+Eugeo：But Kirito, remember this.  
+Kirito：What?  
+Eugeo：Ever since the day she...Alice... was taken away from us, I've had many sleepless nights.  
+Eugeo：But now I've turned my despair into hope...and I'm using it to propel me forward.  
+Eugeo：I was able to do this because you were there to guide me. I can sleep because you're with me.  
+Kirito：Eugeo...  
+Eugeo：I doubt someone like me will ever be a shining light to the world like you are.  
+Eugeo：But as long as we're together, I'm sure I can at least help illuminate our path.  
+Kirito：Oh, please, Eugeo. You give me plenty of hope and guidance.  
+Kirito：Thanks, Eugeo. I was being silly.  
+Kirito：I felt like it was me against the whole world... But you've always been there for me.  
+Eugeo：Yeah. And it'll stay that way forever.  
+Kirito：Yeah. Same here.  
+Eugeo：......  
+Kirito：Th...This feels weird now.  
+Eugeo：Yeah...  
+Kirito：Okay, let's swing our swords a little so we can sleep!  
+Eugeo：Huh?! In the middle of the night?  
+Eugeo：You know we'd get completely chewed out if we're caught.  
+Kirito：Don't worry. Even the teachers are asleep now.  
+Eugeo：Be that as it may... Oh, I can't say no to you.  
+Eugeo：You wouldn't take no for an answer anyway. Okay. I'll come practice with you.  
+Kirito：That's the spirit!  
+
+## 场景 novel.story51_6_1
+
+Kirito：I was right. No one's here.  
+Eugeo：Of course no one's here.  
+Eugeo：Everyone knows how badly they'll be punished if they're caught out here this late.  
+Kirito：But does the Taboo Index say, 'Thou shalt not go out at night' anywhere in it?  
+Eugeo：Well, no, not the Taboo Index...  
+Kirito：And even the school rules don't specify the earliest time you're allowed to get up in the morning.  
+Kirito：If someone catches us, we've got some good excuses.  
+Kirito：We'll just say "Early-morning practice!"  
+Eugeo：......  
+Kirito：See? The genius of it has rendered you speechless, right?  
+Eugeo：Nope... It's so stupid I'm at a loss for words.  
+Eugeo：But...I'm glad you're feeling better.  
+Kirito：Yeah. Thanks, buddy. It's all because of you. Now, help me fight better.  
+Eugeo：As you wish, Kirito.  
 
 ## 场景 0006（未引用文本，按编号排列）
 

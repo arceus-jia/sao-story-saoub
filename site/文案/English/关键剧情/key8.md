@@ -1,25 +1,5 @@
 # key8
 
-## 场景 novel.key8_3_4
-
-Dyne：We can't let them beat us and gloat. We should just log out and...  
-Sinon：But we can't log out. We can't run away.  
-Dyne：Dude, it's just a game! If we charge at them, we'll just be slaughtered!  
-Sinon：Then be slaughtered! At least take a risk for once and face death, since it's "just a game"!  
-
-## 场景 novel.key8_4_1
-
-Kirito：Apparently, she first acquired Hecate entirely by chance.  
-Kirito：She was on a solo expedition, when she fell into some rubble, and that's where she found it.  
-Kirito：But my theory is that Sinon didn't find Hecate. Hecate summoned Sinon to her.  
-Kirito：Even though it was in VR...no, because it was in VR, lucky encounters like this can happen.  
-Kirito：Encounters with people, with places, with AI... And with weapons.  
-Kirito：From the way Sinon tells the story, fate brought Hecate to her. I am inclined to agree with her.  
-Sinon：From this distance... the enemy attack won't reach me?!  
-Sinon：I'm barely in range myself...  
-Sinon：But if I shoot every last bullet where they're vulnerable...  
-Sinon：I can do this... I think I can do this!  
-
 ## 场景 0001（未引用文本，按编号排列）
 
 
@@ -57,9 +37,32 @@ Kirito：How in the world could you defeat such an opponent? That was a sight I 
 ## 场景 0003（未引用文本，按编号排列）
 
 Dyne：I think we'll have to give up.   
+
+## 场景 novel.key8_3_4
+
+Dyne：We can't let them beat us and gloat. We should just log out and...  
+Sinon：But we can't log out. We can't run away.  
+Dyne：Dude, it's just a game! If we charge at them, we'll just be slaughtered!  
+Sinon：Then be slaughtered! At least take a risk for once and face death, since it's "just a game"!  
+
+## 场景 0003（未引用文本，按编号排列）
+
 Kirito：After Sinon's morale boost, her team split into two and disrupted the enemy ranks.  
 Kirito：Everyone except Sinon died, but in the end, a bullet from Hecate shot from atop the buildings...  
 Kirito：Hecate isn't just a gun. It's Sinon's one and only partner.  
+
+## 场景 novel.key8_4_1
+
+Kirito：Apparently, she first acquired Hecate entirely by chance.  
+Kirito：She was on a solo expedition, when she fell into some rubble, and that's where she found it.  
+Kirito：But my theory is that Sinon didn't find Hecate. Hecate summoned Sinon to her.  
+Kirito：Even though it was in VR...no, because it was in VR, lucky encounters like this can happen.  
+Kirito：Encounters with people, with places, with AI... And with weapons.  
+Kirito：From the way Sinon tells the story, fate brought Hecate to her. I am inclined to agree with her.  
+Sinon：From this distance... the enemy attack won't reach me?!  
+Sinon：I'm barely in range myself...  
+Sinon：But if I shoot every last bullet where they're vulnerable...  
+Sinon：I can do this... I think I can do this!  
 
 ## 场景 0004（未引用文本，按编号排列）
 

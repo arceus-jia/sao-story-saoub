@@ -1,5 +1,11 @@
 # story50
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Think Hard and Your Wish Will Come True
+
+
 ## 场景 novel.story50_1_1
 
 Mary：......  
@@ -82,6 +88,12 @@ Villager：I honestly don't get your logic...
 Eydis：Well, I'm off!  
 Mary：Good luck! And be careful, seriously!  
 Eydis：Yes, ma'am!  
+
+## 场景 0002（未引用文本，按编号排列）
+
+Eydis：It’s been a week since I left... I've not come this far east before.  
+Eydis：I should be passing by an inn soon, if what I heard was right...  
+Eydis：Oh! Is that it?! This village...kinda looks gloomy.  
 
 ## 场景 novel.story50_3_1
 
@@ -280,15 +292,3 @@ Eydis：Then there's no problem! I'm fine with just bread.
 Mary：I can't let you do that. We'll share the soup.  
 Eydis：Yippee! Your soup is the best in the world!  
 Mary：Hehehe. Oh, Eydis, I'm not your mom.  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Think Hard and Your Wish Will Come True
-
-
-## 场景 0002（未引用文本，按编号排列）
-
-Eydis：It’s been a week since I left... I've not come this far east before.  
-Eydis：I should be passing by an inn soon, if what I heard was right...  
-Eydis：Oh! Is that it?! This village...kinda looks gloomy.  

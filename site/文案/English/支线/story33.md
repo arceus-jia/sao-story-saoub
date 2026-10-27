@@ -1,5 +1,11 @@
 # story33
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### The Custom Called Love, Wrapped in Sweet Scents
+
+
 ## 场景 novel.story33_1_1
 
 Kirito：Hi, Eugeo! Here already?  
@@ -70,6 +76,15 @@ Eugeo：Among the nobles,  it looks like there's a custom where people dress up 
 Kirito：I see. Meaning, it has nothing to do with us, right?  
 Eugeo：I mean, no ones actually come and invited you to go, right? Neither you or me.  
 Kirito：Yeah…  I mean, Sortiliena’s a noble, but all she thinks about is the sword.  She wouldn’t invite us.  
+
+## 场景 0002（未引用文本，按编号排列）
+
+Kirito：Ugh... It's freezing today.  
+Sortiliena：I find practicing on cold days like this is very motivating, don't you?  
+Kirito：Y-Yes...  
+Sortiliena：Well, I'll lay off the whip today for your sake. How about a sword duel?  
+Kirito：I'd love that! The whip hurts especially when it's cold.  
+Sortiliena：Kirito, don't be so weak. Now, ready yourself!  
 
 ## 场景 novel.story33_2_2
 
@@ -197,6 +212,13 @@ Eugeo：I said I'm used to your antics, remember? Come on, let's finish up befor
 Kirito：Sure thing! I'm so glad I have a reliable partner on my side!  
 Eugeo：Don't push your luck...  
 
+## 场景 0005（未引用文本，按编号排列）
+
+Eugeo：Kirito...  
+Kirito：Yeah, I know.  
+Eugeo：Watch out, Kirito. There's a lot of them!  
+Kirito：You watch out too, Eugeo!  
+
 ## 场景 novel.story33_5_2
 
 Kirito：Okay, that's all of them, right?  
@@ -289,6 +311,13 @@ Sortiliena：Yes, please.
 Kirito：Down the hatch! Chomp!  
 Sortiliena：So...how is it?  
 Kirito：Yum! This is delicious, Liena!  
+
+## 场景 0007（未引用文本，按编号排列）
+
+Kirito：Chomp, chomp, chomp...  
+
+## 场景 novel.story33_7_1
+
 Sortiliena：Whoa, not so fast. You'll choke and die.  
 Sortiliena：Hehe...I see. So you really do like it.  
 Kirito：Yesss. It's the best!  
@@ -329,29 +358,3 @@ Sortiliena：By the next Day of Rest, find a tea that will pair well with walnut
 Kirito：Primary Trainee Kirito is up to the task! I shall return with the tastiest of teas!  
 Sortiliena：Very well! Hehe...I can't wait.  
 Kirito：Me too, Liena!  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### The Custom Called Love, Wrapped in Sweet Scents
-
-
-## 场景 0002（未引用文本，按编号排列）
-
-Kirito：Ugh... It's freezing today.  
-Sortiliena：I find practicing on cold days like this is very motivating, don't you?  
-Kirito：Y-Yes...  
-Sortiliena：Well, I'll lay off the whip today for your sake. How about a sword duel?  
-Kirito：I'd love that! The whip hurts especially when it's cold.  
-Sortiliena：Kirito, don't be so weak. Now, ready yourself!  
-
-## 场景 0005（未引用文本，按编号排列）
-
-Eugeo：Kirito...  
-Kirito：Yeah, I know.  
-Eugeo：Watch out, Kirito. There's a lot of them!  
-Kirito：You watch out too, Eugeo!  
-
-## 场景 0007（未引用文本，按编号排列）
-
-Kirito：Chomp, chomp, chomp...  

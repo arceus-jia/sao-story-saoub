@@ -1,5 +1,21 @@
 # key11
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### SAO: The End of the World
+
+Kirito：Let's end this now.  
+Kirito：After I was unable to save Eugeo's soul, his sacrifice helped me live on.  
+Kirito：As I hold Cardinal in my arms, I feel her body grow cold.  
+Kirito：Administrator defeated me. I have nothing left to live for.  
+Kirito：My heart is broken...  
+Administrator：I hope we meet again on the other side, boy.  
+Kirito：The silver blade descends on my throat. But before it pierces my skin...  
+Kirito：A heavily-wounded Alice steps between the blade and my neck.  
+Kirito：This scene is all too familiar. I experienced it before.  
+Kirito：When my stupid heart was broken, Asuna...  
+
 ## 场景 novel.key11_2_1
 
 Heathcliff：Kirito, you deserve a reward for unmasking my true identity.  
@@ -26,22 +42,6 @@ Kirito：Are you playing me?!
 ## 场景 novel.key11_2_2_3
 
 Kirito：Asuna...I can't...  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### SAO: The End of the World
-
-Kirito：Let's end this now.  
-Kirito：After I was unable to save Eugeo's soul, his sacrifice helped me live on.  
-Kirito：As I hold Cardinal in my arms, I feel her body grow cold.  
-Kirito：Administrator defeated me. I have nothing left to live for.  
-Kirito：My heart is broken...  
-Administrator：I hope we meet again on the other side, boy.  
-Kirito：The silver blade descends on my throat. But before it pierces my skin...  
-Kirito：A heavily-wounded Alice steps between the blade and my neck.  
-Kirito：This scene is all too familiar. I experienced it before.  
-Kirito：When my stupid heart was broken, Asuna...  
 
 ## 场景 0002（未引用文本，按编号排列）
 

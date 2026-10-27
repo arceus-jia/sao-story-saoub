@@ -1,5 +1,17 @@
 # story21
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Rose Garden Knight: Part 2
+
+Eldrie：So, this is the Human Empire? Rather majestic.  
+Eldrie：However, having no memories is inconvenient. The Pontifex said it was a necessary measure, but...  
+Eldrie：Well, no matter.  
+Eldrie：If my sword is needed, then I cannot refuse.  
+Eldrie：Humph. The strong man's burden, I suppose.  
+Bercouli：So, you are the 31st Integrity Knight?  
+
 ## 场景 novel.story21_1_1_1
 
 Eldrie：Yes. I am Eldrie. I was just given the new name, Synthesis Thirty-One.  
@@ -18,6 +30,10 @@ Eldrie：Thank you, Alice. I see. A mere jest, eh?
 Bercouli：Jest, my foot. You defeated me in mock-combat the other day.  
 Alice：That was... just luck.  
 Eldrie：Wh-What did you say? Did this little girl truly best the Commander in combat?  
+
+## 场景 0001（未引用文本，按编号排列）
+
+Eydis：Ooh! Did some new blood arrive?!  
 
 ## 场景 novel.story21_1_1_2
 
@@ -75,6 +91,12 @@ Eydis：Well, if we must, we must. I don't particularly care.
 Eldrie：I too agree. I would rather not wound you in vain.  
 Eydis：I'd like to see you try!  
 
+## 场景 0002（未引用文本，按编号排列）
+
+Eldrie：You dare push me down?! But not nearly hard enough!  
+Eydis：Hey, not bad for a rookie!  
+Eydis：Looks like I'll have to use...  
+
 ## 场景 novel.story21_3_1
 
 Bercouli：That's enough!  
@@ -100,6 +122,17 @@ Eydis：Hey, what do you mean, "at the very least"? You say that like the rest o
 Eldrie：My apologies, sir, but may I take my leave? I wish to reflect on a few matters.  
 Alice：Eldrie, are you okay?  
 Eldrie：I just want to be alone. If you will excuse me.  
+
+## 场景 0003（未引用文本，按编号排列）
+
+Eldrie：......  
+Eldrie：The task was beyond me. That I...would lose to a woman like that...!  
+Eldrie：And what's more, the girl Alice is said to be even stronger in battle than Eydis.  
+Eldrie：I have never felt so humiliated.  
+Eldrie：Mmf?! Another headache? It must be...because I'm not yet accustomed to the Human Empire.  
+Eldrie：It died down quickly... But I suppose I shouldn't try to remember anything.  
+Eldrie：Anyway, I cannot lose again. My pride as an Integrity Knight...no, as a man, will not allow it.  
+Eldrie：I must hone my skills. That is the only way.  
 
 ## 场景 novel.story21_5_1
 
@@ -153,6 +186,17 @@ Alice：Understood.
 Alice：Then let us have a standard duel.  
 Eldrie：I will not suffer defeat like last time!  
 
+## 场景 0006（未引用文本，按编号排列）
+
+Eldrie：I still have far to go... But I have improved since the last fight!  
+Alice：Indeed...your sword skills have sharpened since the last duel. I'm proud of you, Eldrie.  
+Alice：If you keep training at this rate, you will surely stand at the top of the knights soon.  
+Eldrie：If I keep training? No need! I'm ready right now to...  
+Alice：Too slow!  
+Eldrie：What?!  
+Eldrie：Ugh...  
+Alice：You swung your sword too broadly at the end. You shouldn't let your guard down.  
+
 ## 场景 novel.story21_6_3
 
 Eldrie：I...I didn't see it. I was blind to your final swing.  
@@ -172,6 +216,52 @@ Eldrie：No, this must be because my body is not yet used to this world. How els
 Eldrie：I must hone my skills further, so that I won't have to suffer such humiliation again.  
 Eldrie：Just you wait, little girl!  
 
+## 场景 0009（未引用文本，按编号排列）
+
+Eldrie：I didn't see the little gir... er, Alice around today.  
+Eldrie：Perfect.  
+Eldrie：All this time I've been training away from the eyes of that little girl…  
+Eldrie：And even that wasn't enough…!  But today I can train to my heart's content!   
+Eldrie：Once my body is used to this world, victory shall be mine. I will challenge her again, and win!  
+Eldrie：No one will pass through here.  
+Eldrie：I don't want anyone to see me sneaking around at night, practicing my craft.  
+???：Oh...  
+Eldrie：Mmf! Is someone there?  
+Alice：Oh, why...why did this have to...  
+Eldrie：A-Alice?!  
+Eldrie：I don't think she saw me, but, what is Alice doing out here?  
+Alice：Oh, Yukikari...why did you have to go so soon?  
+Eldrie：Yukikari... That's right, I heard she died recently. But she was quite old.  
+Alice：Y-Yukikari...oh...  
+Eldrie：But it's a rather meager tombstone to be mourning over.  
+Eldrie：I never heard anything of a dragon cemetery in the rose garden... Wait, did Alice bury her herself?  
+Alice：Oh...oh...  
+Eldrie：Why is she weeping so over a dragon?  
+Eldrie：Is she really mentally fit to battle the Dark Knights?  
+Eldrie：Fighting on in spite of your own wounds or fallen allies, that is what it means to be a knight.  
+Eldrie：And it's a beast she's crying over, what's more. What a waste of tears.  
+Eldrie：Humph, I knew it.  
+Eldrie：She may be as powerful as Commander Bercouli, but she is still just a little girl under it all.  
+Eldrie：I could never lose to such an opponent. So I was right. My body is merely unused to this world.  
+Alice：Oh...oh, Yukikari...  
+Eldrie：To cry so shamelessly as this, she really isn't fit to be a kni...  
+Alice：Waaah!!!  
+Eldrie：......  
+Eldrie：Wh-What's happening? Is it raining? No... Tears? I'm crying?!  
+Eldrie：Why?! Why would I cry?!  
+Eldrie：A dragon died. Nothing to cry over! If I cry over such nonsense, I am a failure as a knight!  
+Eldrie：So, why?  
+Alice：Yukikari, thank you for everything.  
+Eldrie：Is it...her? Did watching her cry...make me cry?  
+Eldrie：Why? I have the feeling I've witnessed a similar scene before.  
+Eldrie：I saw a woman...crying... She was consumed with grief...  
+Eldrie：Is this...my...memory?!  
+Eldrie：Impossible... Memories from heaven are all confiscated by the High Pontifex.  
+Eldrie：But this memory... Yes... I had to protect her...at any cost...so I...  
+Eldrie：Huh?!  
+Alice：Wh-Who's there?  
+Eldrie：Blast! I can't let her see me!  
+
 ## 场景 novel.story21_9_3
 
 Eldrie：Phew. I should be safe out here. I think I got away without being seen.  
@@ -183,6 +273,15 @@ Eldrie：Is that who she truly is? A frail little girl who sobs over the death o
 Eldrie：If that is the case, then an Integrity Knight's mission must be a heavy burden for her.  
 Eldrie：If war breaks out, not only her life, but the lives of all her friends will be in danger.  
 Eldrie：Will her fragile heart survive?  
+
+## 场景 0009（未引用文本，按编号排列）
+
+Eldrie：......  
+Eldrie：N-No! Just thinking about it is making me cry again!  
+Eldrie：......  
+Eldrie：She must be protected. She does not have the temperament to stand on the battlefield.  
+Eldrie：She is the very type of person that a knight like me must protect.  
+Eldrie：That's it! That must be why I was sent here from Heaven!  
 
 ## 场景 novel.story21_11_1
 
@@ -202,6 +301,16 @@ Eldrie：Thank you, Alice!
 
 Eldrie：May the best knight win!  
 Alice：I'm ready any time, Eldrie!  
+
+## 场景 0012（未引用文本，按编号排列）
+
+Eldrie：Haaah!  
+Alice：Such spirit... It's like the forces of Hell are driving him!  
+Eldrie：Alice! You're going down...  
+Alice：But your mind is cluttered! It's showing in your strikes.  
+Alice：And it will lead to your defeat!  
+Eldrie：What?!  
+Alice：It's over, Eldrie.  
 
 ## 场景 novel.story21_12_3
 
@@ -311,106 +420,3 @@ Alice：I'm going to see Uncle! I will talk to you both later!
 Alice：Goodbye!  
 Eldrie：P-Please, Lady Alice, wait!  
 Eydis：Don't go, Alice!  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Rose Garden Knight: Part 2
-
-Eldrie：So, this is the Human Empire? Rather majestic.  
-Eldrie：However, having no memories is inconvenient. The Pontifex said it was a necessary measure, but...  
-Eldrie：Well, no matter.  
-Eldrie：If my sword is needed, then I cannot refuse.  
-Eldrie：Humph. The strong man's burden, I suppose.  
-Bercouli：So, you are the 31st Integrity Knight?  
-Eydis：Ooh! Did some new blood arrive?!  
-
-## 场景 0002（未引用文本，按编号排列）
-
-Eldrie：You dare push me down?! But not nearly hard enough!  
-Eydis：Hey, not bad for a rookie!  
-Eydis：Looks like I'll have to use...  
-
-## 场景 0003（未引用文本，按编号排列）
-
-Eldrie：......  
-Eldrie：The task was beyond me. That I...would lose to a woman like that...!  
-Eldrie：And what's more, the girl Alice is said to be even stronger in battle than Eydis.  
-Eldrie：I have never felt so humiliated.  
-Eldrie：Mmf?! Another headache? It must be...because I'm not yet accustomed to the Human Empire.  
-Eldrie：It died down quickly... But I suppose I shouldn't try to remember anything.  
-Eldrie：Anyway, I cannot lose again. My pride as an Integrity Knight...no, as a man, will not allow it.  
-Eldrie：I must hone my skills. That is the only way.  
-
-## 场景 0006（未引用文本，按编号排列）
-
-Eldrie：I still have far to go... But I have improved since the last fight!  
-Alice：Indeed...your sword skills have sharpened since the last duel. I'm proud of you, Eldrie.  
-Alice：If you keep training at this rate, you will surely stand at the top of the knights soon.  
-Eldrie：If I keep training? No need! I'm ready right now to...  
-Alice：Too slow!  
-Eldrie：What?!  
-Eldrie：Ugh...  
-Alice：You swung your sword too broadly at the end. You shouldn't let your guard down.  
-
-## 场景 0009（未引用文本，按编号排列）
-
-Eldrie：I didn't see the little gir... er, Alice around today.  
-Eldrie：Perfect.  
-Eldrie：All this time I've been training away from the eyes of that little girl…  
-Eldrie：And even that wasn't enough…!  But today I can train to my heart's content!   
-Eldrie：Once my body is used to this world, victory shall be mine. I will challenge her again, and win!  
-Eldrie：No one will pass through here.  
-Eldrie：I don't want anyone to see me sneaking around at night, practicing my craft.  
-???：Oh...  
-Eldrie：Mmf! Is someone there?  
-Alice：Oh, why...why did this have to...  
-Eldrie：A-Alice?!  
-Eldrie：I don't think she saw me, but, what is Alice doing out here?  
-Alice：Oh, Yukikari...why did you have to go so soon?  
-Eldrie：Yukikari... That's right, I heard she died recently. But she was quite old.  
-Alice：Y-Yukikari...oh...  
-Eldrie：But it's a rather meager tombstone to be mourning over.  
-Eldrie：I never heard anything of a dragon cemetery in the rose garden... Wait, did Alice bury her herself?  
-Alice：Oh...oh...  
-Eldrie：Why is she weeping so over a dragon?  
-Eldrie：Is she really mentally fit to battle the Dark Knights?  
-Eldrie：Fighting on in spite of your own wounds or fallen allies, that is what it means to be a knight.  
-Eldrie：And it's a beast she's crying over, what's more. What a waste of tears.  
-Eldrie：Humph, I knew it.  
-Eldrie：She may be as powerful as Commander Bercouli, but she is still just a little girl under it all.  
-Eldrie：I could never lose to such an opponent. So I was right. My body is merely unused to this world.  
-Alice：Oh...oh, Yukikari...  
-Eldrie：To cry so shamelessly as this, she really isn't fit to be a kni...  
-Alice：Waaah!!!  
-Eldrie：......  
-Eldrie：Wh-What's happening? Is it raining? No... Tears? I'm crying?!  
-Eldrie：Why?! Why would I cry?!  
-Eldrie：A dragon died. Nothing to cry over! If I cry over such nonsense, I am a failure as a knight!  
-Eldrie：So, why?  
-Alice：Yukikari, thank you for everything.  
-Eldrie：Is it...her? Did watching her cry...make me cry?  
-Eldrie：Why? I have the feeling I've witnessed a similar scene before.  
-Eldrie：I saw a woman...crying... She was consumed with grief...  
-Eldrie：Is this...my...memory?!  
-Eldrie：Impossible... Memories from heaven are all confiscated by the High Pontifex.  
-Eldrie：But this memory... Yes... I had to protect her...at any cost...so I...  
-Eldrie：Huh?!  
-Alice：Wh-Who's there?  
-Eldrie：Blast! I can't let her see me!  
-Eldrie：......  
-Eldrie：N-No! Just thinking about it is making me cry again!  
-Eldrie：......  
-Eldrie：She must be protected. She does not have the temperament to stand on the battlefield.  
-Eldrie：She is the very type of person that a knight like me must protect.  
-Eldrie：That's it! That must be why I was sent here from Heaven!  
-
-## 场景 0012（未引用文本，按编号排列）
-
-Eldrie：Haaah!  
-Alice：Such spirit... It's like the forces of Hell are driving him!  
-Eldrie：Alice! You're going down...  
-Alice：But your mind is cluttered! It's showing in your strikes.  
-Alice：And it will lead to your defeat!  
-Eldrie：What?!  
-Alice：It's over, Eldrie.  

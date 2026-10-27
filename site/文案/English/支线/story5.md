@@ -1,5 +1,11 @@
 # story5
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### After the Incident with Tiese and Ronie
+
+
 ## 场景 novel.story5_1_1
 
 
@@ -29,6 +35,13 @@ Tiese：Wait. There's somewhere else I need to go to first.
 Ronie：Where's that?  
 Tiese：I want to get Eugeo's sword.  
 Tiese：He and Kirito were sent straight to a cell yesterday.  
+
+## 场景 0001（未引用文本，按编号排列）
+
+Tiese：So he probably doesn't have his sowrd. It seemed so precious to him.  
+
+## 场景 novel.story5_1_1
+
 Ronie：That's right! Kirito loves his black sword, too. Want to go fetch them?  
 Azurika：Where are you going? We have forbidden excursions today.  
 Tiese：M-Ms. Azurika...  
@@ -141,10 +154,3 @@ Azurika：Good. Be sure to keep up with your sword training.
 Azurika：Your sword skills may help resuce those boys someday.  
 Tiese：Yes, ma'am!  
 Ronie：The Aincrad Style will make us more powerful by the day!  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### After the Incident with Tiese and Ronie
-
-Tiese：So he probably doesn't have his sowrd. It seemed so precious to him.  

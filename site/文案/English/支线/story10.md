@@ -1,5 +1,11 @@
 # story10
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Apprentice Nun Alice
+
+
 ## 场景 novel.story10_1_1
 
 Nun：Ok, let's end here for the day. You've made great progress, Alice.  
@@ -17,6 +23,38 @@ Alice：Eugeo and I had so much fun eating and dancing together at the festivals
 Alice：Eugeo will surely be at the Summer Festival tomorrow.  
 Nun：Why are you dawdling? Back to your room at once.  
 
+## 场景 0001（未引用文本，按编号排列）
+
+Alice：Teacher...may I go to the Summer Festival?  
+Nun：What? Of course not!  
+Nun：Have you forgotten the first rule? You may not go outside the Cathedral during your training.  
+Alice：But you said it's prohibited "as a general rule," right?  
+Alice：So, aren't there exceptions? The Summer Festival is special, so it must be an exception.  
+Nun：You're being silly... The Summer Festival is no exception!  
+Alice：Then what is an exception? When will I be allowed to go outside?  
+Nun：Insufferable girl... Must she always question everything I say?  
+Chudelkin：Why are you bickering in the haaall?! You should already be in your room by now!  
+Nun：P-Prime Senator! This trainee won't shut up about the Summer Festival...  
+Chudelkin：You againnn?! My! You are a rebellious, wicked little girl!  
+Alice：I'm not rebelling. I'm merely explaining the difference between "general rules" and “exceptions."  
+Chudelkin：Shut up, shut up, shut up! Don't you dare talk back to meee!  
+Chudelkin：As punishment, you will be locked in your room tomorrow!  
+Alice：What?! But tomorrow is a day of rest...  
+Chudelkin：You deserve it for defying me!  
+Chudelkin：I forbid you from taking even one step outside your room tomorrow!  
+Nun：With all due respect sir, that's a bit extreme.  
+Chudelkin：What is this insolence?! Do you wish to suffer the same punishment as this whelp?!  
+Nun：N-never mind, Prime Senator... Well, if you'll excuse me.  
+Chudelkin：Humph! You go back to your room as well!  
+Chudelkin：And come tomorrow, not a step outside your door! Understood?  
+Alice：Understood... I won't set foot out my door tomorrow. I promise.  
+Chudelkin：Ho! Ho! Ho! You are wise to fear me, my girl!  
+Chudelkin：A promise is a promise! If you break it...ho! Ho! Ho!  
+Alice：I swear to the goddess Stacia to keep my promise.  
+Chudelkin：If you're going that far, you should swear to the High Pontifex instead!  
+Chudelkin：Well, no matter... I'm keeping my eye on you.  
+Alice：And I won't go outside. Not by the door...  
+
 ## 场景 novel.story10_2_1
 
 Alice：Hey, can I borrow that wooden box?  
@@ -29,6 +67,21 @@ Alice：Thank you!
 Alice：I feel a bit guilty, but I have no choice.  
 Alice：I wasn't lying when I said I was using it for "art." I'm going to be an escape artist.  
 Alice：Okay. Back to my room to get ready!  
+
+## 场景 0002（未引用文本，按编号排列）
+
+
+### Alice's Room
+
+Alice：I'll set the box by the window, and...yeah. That's a good place.  
+Alice：But it's still a bit out of reach.  
+Alice：Gods, why did they have to put a window up so high?  
+Alice：Solus' rays can't reach me from all the way up there.  
+Alice：I know, my bed! I'll stack my bed on the box.  
+Alice：Now I can go to the Summer Festival tomorrow!  
+Alice：The Prime Senator will be furious,   
+Alice：but I'm not using the door, so I'm keeping my promise.  
+Alice：I can't wait for the Festival.  
 
 ## 场景 novel.story10_2_2
 
@@ -98,6 +151,21 @@ Alice：Wait for me, Eugeo... I'll come back to you soon.
 Alice：Okay, Alice. Cheer up! Don't waste your day at the Festival with a frown on your face.  
 Alice：First up...those honey pies!  
 
+## 场景 0004（未引用文本，按编号排列）
+
+Chudelkin：Insufferable braaat! Where have you been?!  
+Alice：Where? The Summer Festival.  
+Chudelkin：Y-y-you slipped out?! How dare you! I commanded you to stay in your room!  
+Chudelkin：I told you I would punish you if you broke your promise...  
+Chudelkin：Say your prayers, kid!  
+Alice：But I didn't break my promise. You said I mustn't "set foot out the door."  
+Alice：I left out the window instead.  
+Alice：You didn't forbid me from leaving the Cathedral.  
+Chudelkin：You pedantic little so-and-so! Arguing semantics won't...  
+Alice：Well, it's curfew time, so I'd better go to my room. Goodnight, Prime Senator.  
+Chudelkin：Mmmf! This isn't over yet, you insufferable brat!  
+Alice：Hehehe. Operation successful!  
+
 ## 场景 novel.story10_4_1
 
 
@@ -116,68 +184,3 @@ Alice：Eugeo...I'll finally get to see you again.
 Alice：Hehe. I wonder if he'll cry when I come home?  
 Alice：I'll probably cry, too. But I won't be ashamed.  
 Alice：Oh, tomorrow can't come soon enough!  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Apprentice Nun Alice
-
-Alice：Teacher...may I go to the Summer Festival?  
-Nun：What? Of course not!  
-Nun：Have you forgotten the first rule? You may not go outside the Cathedral during your training.  
-Alice：But you said it's prohibited "as a general rule," right?  
-Alice：So, aren't there exceptions? The Summer Festival is special, so it must be an exception.  
-Nun：You're being silly... The Summer Festival is no exception!  
-Alice：Then what is an exception? When will I be allowed to go outside?  
-Nun：Insufferable girl... Must she always question everything I say?  
-Chudelkin：Why are you bickering in the haaall?! You should already be in your room by now!  
-Nun：P-Prime Senator! This trainee won't shut up about the Summer Festival...  
-Chudelkin：You againnn?! My! You are a rebellious, wicked little girl!  
-Alice：I'm not rebelling. I'm merely explaining the difference between "general rules" and “exceptions."  
-Chudelkin：Shut up, shut up, shut up! Don't you dare talk back to meee!  
-Chudelkin：As punishment, you will be locked in your room tomorrow!  
-Alice：What?! But tomorrow is a day of rest...  
-Chudelkin：You deserve it for defying me!  
-Chudelkin：I forbid you from taking even one step outside your room tomorrow!  
-Nun：With all due respect sir, that's a bit extreme.  
-Chudelkin：What is this insolence?! Do you wish to suffer the same punishment as this whelp?!  
-Nun：N-never mind, Prime Senator... Well, if you'll excuse me.  
-Chudelkin：Humph! You go back to your room as well!  
-Chudelkin：And come tomorrow, not a step outside your door! Understood?  
-Alice：Understood... I won't set foot out my door tomorrow. I promise.  
-Chudelkin：Ho! Ho! Ho! You are wise to fear me, my girl!  
-Chudelkin：A promise is a promise! If you break it...ho! Ho! Ho!  
-Alice：I swear to the goddess Stacia to keep my promise.  
-Chudelkin：If you're going that far, you should swear to the High Pontifex instead!  
-Chudelkin：Well, no matter... I'm keeping my eye on you.  
-Alice：And I won't go outside. Not by the door...  
-
-## 场景 0002（未引用文本，按编号排列）
-
-
-### Alice's Room
-
-Alice：I'll set the box by the window, and...yeah. That's a good place.  
-Alice：But it's still a bit out of reach.  
-Alice：Gods, why did they have to put a window up so high?  
-Alice：Solus' rays can't reach me from all the way up there.  
-Alice：I know, my bed! I'll stack my bed on the box.  
-Alice：Now I can go to the Summer Festival tomorrow!  
-Alice：The Prime Senator will be furious,   
-Alice：but I'm not using the door, so I'm keeping my promise.  
-Alice：I can't wait for the Festival.  
-
-## 场景 0004（未引用文本，按编号排列）
-
-Chudelkin：Insufferable braaat! Where have you been?!  
-Alice：Where? The Summer Festival.  
-Chudelkin：Y-y-you slipped out?! How dare you! I commanded you to stay in your room!  
-Chudelkin：I told you I would punish you if you broke your promise...  
-Chudelkin：Say your prayers, kid!  
-Alice：But I didn't break my promise. You said I mustn't "set foot out the door."  
-Alice：I left out the window instead.  
-Alice：You didn't forbid me from leaving the Cathedral.  
-Chudelkin：You pedantic little so-and-so! Arguing semantics won't...  
-Alice：Well, it's curfew time, so I'd better go to my room. Goodnight, Prime Senator.  
-Chudelkin：Mmmf! This isn't over yet, you insufferable brat!  
-Alice：Hehehe. Operation successful!  

@@ -5,6 +5,15 @@
 
 ### ALO Swilvane - Leafa's House
 
+
+## 场景 0001（未引用文本，按编号排列）
+
+
+### SAO: Aria of a Starless Night
+
+
+## 场景 novel.key2_1_1
+
 Leafa：Asuna, have you tried contacting Professor Kojiro?  
 Asuna：Yeah, I shot her an email before coming here.  
 Silica：Not sure she'll answer...  
@@ -16,34 +25,7 @@ Asuna：I will do whatever it takes to save Kirito. I have to. Kirito is my...
 Asuna：The day  
 Asuna：I put on the NerveGear on a whim and switched it on, my life was forever changed.  
 
-## 场景 novel.key2_3_1
-
-Kirito：Our targets are the Ruin Kobold Sentinels,  
-Kirito：the boss’s entourage.  
-Asuna：But that means we can't attack the boss.  
-Kirito：Well, our job is important too.  
-Kirito：Two people isn't enough for a Pot and Switch strategy, though.  
-Asuna：Switch...what? What's pot?  
-Kirito：Whoa, wait a minute... You don't know about Switching?  
-Asuna：I'll never forget the look on Kirito's face then.  
-Asuna：Even I cringe thinking about it now.  
-
-## 场景 novel.key2_5_3
-
-Leafa：Asuna, are you okay? If you're feeling ill, maybe you should...  
-Silica：I don't blame you.  
-Silica：I'm worried about Kirito as it is. I can't imagine your pain...  
-Lisbeth：Want to rest a little?  
-Asuna：No... I'll be okay. I was just thinking about the past.  
-Asuna：Oh! I just got an email.  
-Sinon：Did Professor Kojiro reply to you?  
-Asuna：Yeah, looks like it. Thank god she wrote back...  
-Asuna：Wait for me, Kirito!  
-
 ## 场景 0001（未引用文本，按编号排列）
-
-
-### SAO: Aria of a Starless Night
 
 Asuna：We can't escape until we beat the game.  
 Asuna：And if that wasn't bad enough, deaths in the SAO world equated to deaths in the real world.  
@@ -75,6 +57,18 @@ Asuna：Kirito's words were rather blunt...
 Asuna：But for some reason, I sensed a pain and remorse in him greater than anyone else.  
 Asuna：After that, I'd go visit Kirito, or take baths...  
 Asuna：I think it was that incident that first attracted me to Kirito.  
+
+## 场景 novel.key2_3_1
+
+Kirito：Our targets are the Ruin Kobold Sentinels,  
+Kirito：the boss’s entourage.  
+Asuna：But that means we can't attack the boss.  
+Kirito：Well, our job is important too.  
+Kirito：Two people isn't enough for a Pot and Switch strategy, though.  
+Asuna：Switch...what? What's pot?  
+Kirito：Whoa, wait a minute... You don't know about Switching?  
+Asuna：I'll never forget the look on Kirito's face then.  
+Asuna：Even I cringe thinking about it now.  
 
 ## 场景 0003（未引用文本，按编号排列）
 
@@ -138,6 +132,21 @@ Asuna：Everyone ganged up on Kirito, cursing him and accusing him. But, he didn
 Asuna：But I knew the truth.  
 Asuna：I knew that you were martyring yourself. You took all the blame, to protect the other beta testers.  
 Asuna：That's why I chose to be with you.  
+
+## 场景 novel.key2_5_3
+
+Leafa：Asuna, are you okay? If you're feeling ill, maybe you should...  
+Silica：I don't blame you.  
+Silica：I'm worried about Kirito as it is. I can't imagine your pain...  
+Lisbeth：Want to rest a little?  
+Asuna：No... I'll be okay. I was just thinking about the past.  
+Asuna：Oh! I just got an email.  
+Sinon：Did Professor Kojiro reply to you?  
+Asuna：Yeah, looks like it. Thank god she wrote back...  
+Asuna：Wait for me, Kirito!  
+
+## 场景 0005（未引用文本，按编号排列）
+
 
 ### The End
 

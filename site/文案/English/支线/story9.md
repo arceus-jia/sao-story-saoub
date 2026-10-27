@@ -25,6 +25,11 @@ Fanatio：But I've heard some of the Dark forces are crafty. Which means he migh
 Fanatio：Sir Bercouli, forgive me! You ordered me to wait, but I am breaking that order!  
 Fanatio：Your Fanatio is coming to your aid!  
 
+## 场景 0002（未引用文本，按编号排列）
+
+Goblin：Look! More Iums are brazenly coming at us!  
+Goblin：Hehehe, shoot 'em down! You are mine now!  
+
 ## 场景 novel.story9_2_1_1
 
 Fanatio：Impertinent Goblins! I will never let you best me!  
@@ -121,8 +126,3 @@ Fanatio：I need only keep pushing my opponents. Not letting them pull back.
 Fanatio：If I can gain perfect weapon control over my sword, I will be worthy to fight beside you.  
 Fanatio：Just the two of us... Fighting...  
 Fanatio：N-no! I...I can't let my feelings controlme. I need to become stronger!  
-
-## 场景 0002（未引用文本，按编号排列）
-
-Goblin：Look! More Iums are brazenly coming at us!  
-Goblin：Hehehe, shoot 'em down! You are mine now!  

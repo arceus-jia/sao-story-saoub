@@ -1,5 +1,27 @@
 # story6
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Rose Garden Knight: Part 1
+
+Sortiliena：I am North Centoria’s Swordcraft Academy’s First Sword, Soltirina Serult.  
+Sortiliena：Pleasure to make your acquaintance.  
+Eldrie：I am Eldrie Woolsburg of the Norlangarth Knight Order.  
+Eldrie：Since you’re from Swordcraft Academy, you must be a user of the High-Norkian style.  
+Sortiliena：You’re mistaken. I used the Serlut style... And the Aincrad style.  
+Eldrie：Oh? It’s rare to meet a swordsman of a different style.  
+Eldrie：Nor have I heard of the Aincrad style before.  
+Eldrie：I can’t wait.  
+Sortiliena：Then, I shall give you a taste of it!  
+Umpire：Fight!  
+Eldrie：That skill...  
+Sortiliena：I said I fight using a mix of both styles.  
+Eldrie：I must say, you have more in you than I expected.  
+Eldrie：Now!  
+Sortiliena：Gah!  
+Umpire：Match set!  
+
 ## 场景 novel.story6_1_3
 
 Sortiliena：I have lost... But I still represent the honorable Norlangarth knights with pride.  
@@ -18,6 +40,13 @@ Sortiliena：Your wish will surely come true when you become an Integrity Knight
 Sortiliena：Because next year, a fighter who's trained in Aincrad style longer than I will win the tournament.  
 Eldrie：Heh. Well, after hearing that, now I really can't be defeated.  
 Eldrie：I look forward to meeting this person at the Axiom Church.  
+
+## 场景 0002（未引用文本，按编号排列）
+
+Umpire：Match set! Your champion: Eldrie Woolsburg!  
+Eldrie：Whew... Mission #1 accomplished, I guess.  
+Eldrie：But Liena in the first match was my strongest opponent.  
+Eldrie：I can't lose. I must win and become an Integrity Knight...  
 
 ## 场景 novel.story6_3_1
 
@@ -51,74 +80,6 @@ Almera：I will stay here and ask Stacia to protect you.
 Eldrie：Now that's a tremendous help.  
 Eldrie：With both you and Stacia by my side, I cannot lose.  
 Eldrie：Well, goodbye!  
-
-## 场景 novel.story6_8_3
-
-Imperial Knight A：Eldrie, you did it! Your father will be so proud.  
-Imperial Knight B：This calls for celebration! Let's drink all night, Eldrie!  
-Eldrie：Sorry, but I'll have to decline. Let's celebrate some other time.  
-Imperial Knight B：Huh? Some other time?!  
-Imperial Knight A：What, you've got plans?  
-Eldrie：Yes. There is a place I must go.  
-
-## 场景 novel.story6_9_1_1
-
-Eldrie：Hi, Mother. I'm back!  
-Almera：Hi, Eldrie. You're home early!  
-Eldrie：I did it, Mother! I won the Unity Tournament!  
-Almera：I know. I could tell the moment I saw your face.  
-Almera：Congratulations, Eldrie! You really have worked so hard for this.  
-Almera：Your Father will be so proud. "That's my boy!" he'll say.  
-Eldrie：Could be...  
-Eldrie：But your approval is all I need, Mother.  
-Eldrie：I'll become an Integrity Knight, and I'll cure your illness.  
-Almera：Hehe. Don't retreat into the future like that. Let's celebrate your victory first.  
-
-## 场景 novel.story6_9_1_2
-
-Eschdor：So you actually won. Well done, Eldrie.  
-Eldrie：Thank you, Father.  
-Eschdor：I wanted you to join the army and continue my legacy...  
-Eschdor：But with the honorable Calling of being an Integrity Knight... I cannot complain.  
-Almera：But once you're an Integrity Knight, we won't be able to talk like this anymore.  
-Eldrie：That's not true, Mother. I will still be your Eldrie. Nothing will change.  
-Eldrie：Though treking out to the Dark Territory will mean seeing you less...  
-Almera：Be careful out there. You're always welcome here.  
-Eschdor：That's ridiculous, Almera.  
-Eschdor：An Integrity Knight must devote mind, body, and soul to the Axiom Church.  
-Eschdor：He cannot go home without permission.  
-Eldrie：Father is right. But I think I might get the occasional day off.  
-Almera：Good. I'll cook all your favorite foods!  
-Eldrie：I can't wait.  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Rose Garden Knight: Part 1
-
-Sortiliena：I am North Centoria’s Swordcraft Academy’s First Sword, Soltirina Serult.  
-Sortiliena：Pleasure to make your acquaintance.  
-Eldrie：I am Eldrie Woolsburg of the Norlangarth Knight Order.  
-Eldrie：Since you’re from Swordcraft Academy, you must be a user of the High-Norkian style.  
-Sortiliena：You’re mistaken. I used the Serlut style... And the Aincrad style.  
-Eldrie：Oh? It’s rare to meet a swordsman of a different style.  
-Eldrie：Nor have I heard of the Aincrad style before.  
-Eldrie：I can’t wait.  
-Sortiliena：Then, I shall give you a taste of it!  
-Umpire：Fight!  
-Eldrie：That skill...  
-Sortiliena：I said I fight using a mix of both styles.  
-Eldrie：I must say, you have more in you than I expected.  
-Eldrie：Now!  
-Sortiliena：Gah!  
-Umpire：Match set!  
-
-## 场景 0002（未引用文本，按编号排列）
-
-Umpire：Match set! Your champion: Eldrie Woolsburg!  
-Eldrie：Whew... Mission #1 accomplished, I guess.  
-Eldrie：But Liena in the first match was my strongest opponent.  
-Eldrie：I can't lose. I must win and become an Integrity Knight...  
 
 ## 场景 0006（未引用文本，按编号排列）
 
@@ -163,6 +124,45 @@ Southern Empire Swordsman：You'll pay!
 Umpire：Match set! Your winner: Eldrie Woolsburg!  
 Eldrie：Ahhh... Phew... I did it, Mother!  
 Eldrie：Now I can deliver the news to her with pride.  
+
+## 场景 novel.story6_8_3
+
+Imperial Knight A：Eldrie, you did it! Your father will be so proud.  
+Imperial Knight B：This calls for celebration! Let's drink all night, Eldrie!  
+Eldrie：Sorry, but I'll have to decline. Let's celebrate some other time.  
+Imperial Knight B：Huh? Some other time?!  
+Imperial Knight A：What, you've got plans?  
+Eldrie：Yes. There is a place I must go.  
+
+## 场景 novel.story6_9_1_1
+
+Eldrie：Hi, Mother. I'm back!  
+Almera：Hi, Eldrie. You're home early!  
+Eldrie：I did it, Mother! I won the Unity Tournament!  
+Almera：I know. I could tell the moment I saw your face.  
+Almera：Congratulations, Eldrie! You really have worked so hard for this.  
+Almera：Your Father will be so proud. "That's my boy!" he'll say.  
+Eldrie：Could be...  
+Eldrie：But your approval is all I need, Mother.  
+Eldrie：I'll become an Integrity Knight, and I'll cure your illness.  
+Almera：Hehe. Don't retreat into the future like that. Let's celebrate your victory first.  
+
+## 场景 novel.story6_9_1_2
+
+Eschdor：So you actually won. Well done, Eldrie.  
+Eldrie：Thank you, Father.  
+Eschdor：I wanted you to join the army and continue my legacy...  
+Eschdor：But with the honorable Calling of being an Integrity Knight... I cannot complain.  
+Almera：But once you're an Integrity Knight, we won't be able to talk like this anymore.  
+Eldrie：That's not true, Mother. I will still be your Eldrie. Nothing will change.  
+Eldrie：Though treking out to the Dark Territory will mean seeing you less...  
+Almera：Be careful out there. You're always welcome here.  
+Eschdor：That's ridiculous, Almera.  
+Eschdor：An Integrity Knight must devote mind, body, and soul to the Axiom Church.  
+Eschdor：He cannot go home without permission.  
+Eldrie：Father is right. But I think I might get the occasional day off.  
+Almera：Good. I'll cook all your favorite foods!  
+Eldrie：I can't wait.  
 
 ## 场景 0009（未引用文本，按编号排列）
 

@@ -1,5 +1,11 @@
 # story13
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Decision
+
+
 ## 场景 novel.story13_1_2
 
 Kirito：Good, Eugeo. Your Aincrad style has improved a lot.  
@@ -41,6 +47,11 @@ Kirito：Then that's settled! We'll use practice swords, but in all other ways, 
 Kirito：You okay with that?  
 Eugeo：Yes.  
 
+## 场景 0002（未引用文本，按编号排列）
+
+Kirito：Ngh! At this rate...  
+Kirito：Too slow!  
+
 ## 场景 novel.story13_2_3
 
 Eugeo：Oof...I...I yield!  
@@ -72,17 +83,6 @@ Eugeo：I never want to repeat my cowardly inactions that day! I will save Alice
 Kirito：Good...that was more convincing.  
 Kirito：But I'm being serious. If you lose this duel, we're through.  
 Eugeo：Fine. Bring it on. I will win, and I will rescue Alice!  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Decision
-
-
-## 场景 0002（未引用文本，按编号排列）
-
-Kirito：Ngh! At this rate...  
-Kirito：Too slow!  
 
 ## 场景 0003（未引用文本，按编号排列）
 

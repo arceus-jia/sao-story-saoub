@@ -21,14 +21,6 @@ Eugeo：Travelers are so rare that few people make innkeeping their Calling.
 Kirito：Yeah, I figured as much. Oh well! Let's find a place to camp.  
 Eugeo：The forest is our best bet.  
 
-## 场景 novel.story1_2_1
-
-Kirito：Whoa, it's pouring! We should get under a tree...  
-Eugeo：No, Kirito. Trees get struck by lightning.  
-Kirito：Oh! So it's the same in this world, too.  
-Eugeo："In this world?" Kirito, did you remember something?  
-Kirito：Oops! Uh, never mind... I just had a feeling...  
-
 ## 场景 novel.story1_2_2_1_field
 
 Kirito：I just had a thought. When we get to Zakkaria, will we be able to join the guard right away?  
@@ -64,6 +56,20 @@ Eugeo：You have a point, but I'm still anxious...
 Kirito：Don't worry. We'll manage to find a way to feed ourselves.  
 Kirito：More people means more jobs, right?  
 Eugeo：You really are an optimist.  
+
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Departure from Rulid Village
+
+
+## 场景 novel.story1_2_1
+
+Kirito：Whoa, it's pouring! We should get under a tree...  
+Eugeo：No, Kirito. Trees get struck by lightning.  
+Kirito：Oh! So it's the same in this world, too.  
+Eugeo："In this world?" Kirito, did you remember something?  
+Kirito：Oops! Uh, never mind... I just had a feeling...  
 
 ## 场景 novel.story1_2_4_1
 
@@ -106,6 +112,13 @@ Kirito：Eugeo...
 Eugeo：You noticed it, too? Wolves are outside...  
 Kirito：Yeah. A lot of them, too.  
 
+## 场景 0003（未引用文本，按编号排列）
+
+Kirito：Doesn't look like they came to get out of the rain.  
+Red Wolf：Raaar!  
+Eugeo：They're coming, Kirito!  
+Kirito：I'm ready!  
+
 ## 场景 novel.story1_3_2_1
 
 Eugeo：Mmf! I can't get a hit in!  
@@ -133,6 +146,13 @@ Eugeo：Hehe. Come to think of it, did we even sleep at all?
 Kirito：Oh...There’s a few hours until dawn. Let’s get some sleep.  
 Eugeo：Good idea. Night, Kirito.  
 
+## 场景 0004（未引用文本，按编号排列）
+
+Kirito：What a lovely day. The sky always looks bluest after a storm, huh?  
+Eugeo：There is that proverb about "the clear after the storm," but look. Literally no clouds.  
+Kirito：If you're looking for a sign, I'd rather go with this blue sky.  
+Eugeo：Yeah. Me too.  
+
 ## 场景 novel.story1_4_1
 
 Kirito：Whoa?!  
@@ -142,25 +162,8 @@ Kirito：Did something fall in my hair? Huh...guess it was nothing.
 Eugeo：Are you okay, Kirito?  
 Kirito：Yeah. It was just my imagination. Now. Let's go to Zakkaria!  
 
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Departure from Rulid Village
-
-
-## 场景 0003（未引用文本，按编号排列）
-
-Kirito：Doesn't look like they came to get out of the rain.  
-Red Wolf：Raaar!  
-Eugeo：They're coming, Kirito!  
-Kirito：I'm ready!  
-
 ## 场景 0004（未引用文本，按编号排列）
 
-Kirito：What a lovely day. The sky always looks bluest after a storm, huh?  
-Eugeo：There is that proverb about "the clear after the storm," but look. Literally no clouds.  
-Kirito：If you're looking for a sign, I'd rather go with this blue sky.  
-Eugeo：Yeah. Me too.  
 
 ### The end
 

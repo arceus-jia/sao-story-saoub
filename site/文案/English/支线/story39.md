@@ -1,5 +1,30 @@
 # story39
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Eydis's War of Underworld - Solitude of War -
+
+Garitta：Lower your center of gravity.  
+Garitta：Don't get distracted by the idea of cutting them all at once. Knock them over one by one.  
+Alice：Okay!  
+Garitta：And here is Alice!  
+Alice：Thank you for today...  Garitta...   
+Alice：...  
+Alice：!  
+Alice：Who's there!!  
+Eydis：It's me, Alice.  
+Alice：Eydis!!  
+Eydis：Long time no see.  
+Alice：How did you know I was here?  
+Alice：Could it be, that you come here to kill Kirito? Or to bring me back?  
+Eydis：Neither. I just came to check up on you, honest!  
+Eydis：I'm glad to see you're well.  
+Eydis：Well enough to swing a log around, that is.  
+Alice：Ah...!  
+Alice：Don't tease me, Eydis!  
+Eydis：Haa...Haa... Haa...  
+
 ## 场景 novel.story39_2_1
 
 Alice：But how did you know I was here? I didn't tell anyone.  
@@ -93,31 +118,6 @@ Eydis：If I'm not back by sunrise, contact the Commander and receive his orders
 Guard B：Yes, ma'am!  
 Eydis：Well, see ya later.  
 Guard B：Aye! Godspeed!  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Eydis's War of Underworld - Solitude of War -
-
-Garitta：Lower your center of gravity.  
-Garitta：Don't get distracted by the idea of cutting them all at once. Knock them over one by one.  
-Alice：Okay!  
-Garitta：And here is Alice!  
-Alice：Thank you for today...  Garitta...   
-Alice：...  
-Alice：!  
-Alice：Who's there!!  
-Eydis：It's me, Alice.  
-Alice：Eydis!!  
-Eydis：Long time no see.  
-Alice：How did you know I was here?  
-Alice：Could it be, that you come here to kill Kirito? Or to bring me back?  
-Eydis：Neither. I just came to check up on you, honest!  
-Eydis：I'm glad to see you're well.  
-Eydis：Well enough to swing a log around, that is.  
-Alice：Ah...!  
-Alice：Don't tease me, Eydis!  
-Eydis：Haa...Haa... Haa...  
 
 ## 场景 0004（未引用文本，按编号排列）
 

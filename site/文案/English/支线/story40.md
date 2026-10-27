@@ -1,5 +1,22 @@
 # story40
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Gathering of Swordsmen
+
+Bercouli：What's wrong? You're better than this.  
+Bercouli：Coming at me at the same time isn't a bad idea, though...  
+Bercouli：Hah!  
+Bercouli：Overreaching brute force breeds hesitation.  
+Bercouli：You won't die for nothing!  
+Bercouli：What?!  
+Ronie：Fly Straight! Discharge!  
+Bercouli：Damn...  
+Bercouli：This is still far from perfect.  
+Bercouli：But...  
+Bercouli：Well, looks like I can take you with me.  
+
 ## 场景 novel.story40_2_1
 
 Azurika：I am at your service, Sir Bercouli. What is your bidding?  
@@ -119,6 +136,26 @@ Tiese：Like, Ronie against me?
 Bercouli：No. You will duel against me. With practice swords, of course.  
 Tiese：Huh?!  
 
+## 场景 0003（未引用文本，按编号排列）
+
+Ronie：Duel with...an Integrity Knight?  
+Bercouli：If I come at you with a sword, strike back. Don't worry about breaking the Taboo Index.  
+Ronie：B-But Sir...  
+Tiese：We aren't even close to...  
+Bercouli：We are headed to war. Our enemy attacks with the intention of killing us.  
+Bercouli：If you're scared stupid by me, there's no way you'll be able to fight in a real war.  
+Bercouli：If you won't duel me, you can't come with me.  
+Ronie：......  
+Tiese：Ronie...let's do it.  
+Ronie：Yeah...let's go save our mentors.  
+Ronie：We accept, Sir!  
+Tiese：We accept, Sir!  
+Bercouli：Good. That's the spirit. I'll take some practice swords.  
+Azurika：Here you go, Sir.  
+Bercouli：It's been a while since I've used a wooden sword... Well, come at me with all you've got!  
+Ronie：Yes, sir!  
+Tiese：Here I come!  
+
 ## 场景 novel.story40_4_1
 
 Tiese：Wh-Why?  
@@ -137,6 +174,42 @@ Bercouli：Next time, don't hold back with your attack! That will produce differ
 Ronie：Yes, Sir!  
 Bercouli：Well, then, prepare for battle.  
 Tiese：Yes, Sir!  
+
+## 场景 0004（未引用文本，按编号排列）
+
+Ronie：We did it, Tiese!  
+Tiese：Yes!  
+Bercouli：So those girls...they're Eugeo's and Kirito's pages?  
+Azurika：Yes. Though they're more like little sisters to them now.  
+Azurika：They weren't together for long, but the four bonded quickly.  
+Bercouli：I see...  
+Bercouli：Those boys were blessed... from above and below.  
+Azurika：Yes. They truly were amazing swordsmen.  
+
+## 场景 0005（未引用文本，按编号排列）
+
+Frenica：How did it go?  
+Frenica：Tiese! Ronie!  
+Ronie：They accepted us!  
+Frenica：Congratulations, you two!  
+Ronie：Thanks!  
+Tiese：Thanks...  
+Frenica：I really am proud of you both. Meanwhile, I'm a failure...  
+Tiese：That isn't true!  
+Ronie：She's right! It was really our selfish whims that tipped the scales.  
+Frenica：But...I want to help, too.  
+Frenica：That's right... Sacred Arts...  
+Ronie：Sacred Arts?  
+Frenica：Yes. If there's war, we will need healers on the front lines.  
+Ronie：Yeah.  
+Frenica：So, could I come along with the healers?  
+Tiese：Right, Frenica's good at Sacred Arts!  
+Ronie：But are you sure you're okay? Going to war and all...  
+Frenica：I want to help Kirito and Eugeo, too. So...I want to come with you.  
+Frenica：I'll go ask Ms. Azurica!  
+Ronie：In that case, let's go together!  
+Tiese：Yes, let's go!  
+Frenica：Thanks, Ronie, Tiese.  
 
 ## 场景 novel.story40_6_1
 
@@ -181,79 +254,6 @@ Tiese：Same goes for me, Ronie. Without you, I never would have joined such a p
 Tiese：I'm sure it was the same for our mentors. They're much stronger together.  
 Ronie：True. They made it this far because they had each other's backs.  
 Tiese：So I'm sure we'll see them again. But let's focus on surviving this war first!  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Gathering of Swordsmen
-
-Bercouli：What's wrong? You're better than this.  
-Bercouli：Coming at me at the same time isn't a bad idea, though...  
-Bercouli：Hah!  
-Bercouli：Overreaching brute force breeds hesitation.  
-Bercouli：You won't die for nothing!  
-Bercouli：What?!  
-Ronie：Fly Straight! Discharge!  
-Bercouli：Damn...  
-Bercouli：This is still far from perfect.  
-Bercouli：But...  
-Bercouli：Well, looks like I can take you with me.  
-
-## 场景 0003（未引用文本，按编号排列）
-
-Ronie：Duel with...an Integrity Knight?  
-Bercouli：If I come at you with a sword, strike back. Don't worry about breaking the Taboo Index.  
-Ronie：B-But Sir...  
-Tiese：We aren't even close to...  
-Bercouli：We are headed to war. Our enemy attacks with the intention of killing us.  
-Bercouli：If you're scared stupid by me, there's no way you'll be able to fight in a real war.  
-Bercouli：If you won't duel me, you can't come with me.  
-Ronie：......  
-Tiese：Ronie...let's do it.  
-Ronie：Yeah...let's go save our mentors.  
-Ronie：We accept, Sir!  
-Tiese：We accept, Sir!  
-Bercouli：Good. That's the spirit. I'll take some practice swords.  
-Azurika：Here you go, Sir.  
-Bercouli：It's been a while since I've used a wooden sword... Well, come at me with all you've got!  
-Ronie：Yes, sir!  
-Tiese：Here I come!  
-
-## 场景 0004（未引用文本，按编号排列）
-
-Ronie：We did it, Tiese!  
-Tiese：Yes!  
-Bercouli：So those girls...they're Eugeo's and Kirito's pages?  
-Azurika：Yes. Though they're more like little sisters to them now.  
-Azurika：They weren't together for long, but the four bonded quickly.  
-Bercouli：I see...  
-Bercouli：Those boys were blessed... from above and below.  
-Azurika：Yes. They truly were amazing swordsmen.  
-
-## 场景 0005（未引用文本，按编号排列）
-
-Frenica：How did it go?  
-Frenica：Tiese! Ronie!  
-Ronie：They accepted us!  
-Frenica：Congratulations, you two!  
-Ronie：Thanks!  
-Tiese：Thanks...  
-Frenica：I really am proud of you both. Meanwhile, I'm a failure...  
-Tiese：That isn't true!  
-Ronie：She's right! It was really our selfish whims that tipped the scales.  
-Frenica：But...I want to help, too.  
-Frenica：That's right... Sacred Arts...  
-Ronie：Sacred Arts?  
-Frenica：Yes. If there's war, we will need healers on the front lines.  
-Ronie：Yeah.  
-Frenica：So, could I come along with the healers?  
-Tiese：Right, Frenica's good at Sacred Arts!  
-Ronie：But are you sure you're okay? Going to war and all...  
-Frenica：I want to help Kirito and Eugeo, too. So...I want to come with you.  
-Frenica：I'll go ask Ms. Azurica!  
-Ronie：In that case, let's go together!  
-Tiese：Yes, let's go!  
-Frenica：Thanks, Ronie, Tiese.  
 
 ## 场景 0007（未引用文本，按编号排列）
 

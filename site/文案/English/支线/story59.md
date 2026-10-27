@@ -1,5 +1,22 @@
 # story59
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Reconciliation and Engagement
+
+Iskahn：So, you're Kirito...  
+Kirito：Yeah. And you must be Iskahn, Chief of the Pugilists Guild.  
+Iskahn：Wow, what a spindly guy you are. I'm surprised you were able to take out the emperor.  
+Deusolbert：What're you trying to say, pugilist?  
+Sheyta：I think he's praising Kirito.  
+Fanatio：Huh?! Sheyta...?  
+Sheyta：That's just his own unique way of praising people.  
+Iskahn：Hey! Nobody asked you.  
+Eydis：Hmm... Interesting. The plot thickens.  
+Fanatio：What do you mean, Eydis? Did you have some sort of revelation?  
+Eydis：Nope. Forget I said anything.  
+
 ## 场景 novel.story59_1_1
 
 Iskahn：Anyway, we owe you our gratitude. Leafa, the green swordswoman, she's your little sister, right?  
@@ -64,23 +81,6 @@ Iskahn：I'm done dealing with puppets.
 Fanatio：How dare you... Kirito is the one who defeated the emperor!  
 Kirito：It's okay, Fanatio. It'll be easier to do the negotiations this way.  
 Iskahn：That's the spirit! Okay, gimme everything you've got!  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Reconciliation and Engagement
-
-Iskahn：So, you're Kirito...  
-Kirito：Yeah. And you must be Iskahn, Chief of the Pugilists Guild.  
-Iskahn：Wow, what a spindly guy you are. I'm surprised you were able to take out the emperor.  
-Deusolbert：What're you trying to say, pugilist?  
-Sheyta：I think he's praising Kirito.  
-Fanatio：Huh?! Sheyta...?  
-Sheyta：That's just his own unique way of praising people.  
-Iskahn：Hey! Nobody asked you.  
-Eydis：Hmm... Interesting. The plot thickens.  
-Fanatio：What do you mean, Eydis? Did you have some sort of revelation?  
-Eydis：Nope. Forget I said anything.  
 
 ## 场景 0003（未引用文本，按编号排列）
 

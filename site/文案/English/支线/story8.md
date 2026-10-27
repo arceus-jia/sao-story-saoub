@@ -1,5 +1,11 @@
 # story8
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### The Tenth Integrity Knight
+
+
 ## 场景 novel.story8_1_1
 
 Kirito：She’s still not awake...  
@@ -17,6 +23,16 @@ Eydis：Is that... Alice over there?
 Kirito：Y-yeah. There was an incident and she got hurt...  
 Eydis：Silence.  
 Eydis：For the crime of laying a hand on Alice... I’ll have you pay with your blood!  
+
+## 场景 0001（未引用文本，按编号排列）
+
+Eydis：I will avenge Alice!  
+Kirito：Again, Alice isn't dead! She's just wounded...  
+Eydis：I don’t need your excuses!  
+Eydis：System Call  Generate Thermal Element!  
+Eydis：Burn to death! Form Element, Arrow Shape...  
+Kirito：D-don't! If I dodge that, you'll hit Alice!  
+Eydis：Huh?  
 
 ## 场景 novel.story8_1_2_1
 
@@ -39,6 +55,12 @@ Kirito：Thank me?
 Eydis：I need more time to complete my Perfect Weapon Control.  
 Eydis：And talking to you gave me just enough time!  
 
+## 场景 0001（未引用文本，按编号排列）
+
+Eydis：Enhance Armament!  
+Eydis：Hyaaaaah!  
+Kirito：Guah!  
+
 ## 场景 novel.story8_1_2_2
 
 Kirito：What was that?  
@@ -49,6 +71,25 @@ Kirito：Keh...!
 Kirito：I’ve got no choice but to fight!  
 Eydis：Smart decision. However...  
 Eydis：You shouldn't underestimate an Integrity Knight.  
+
+## 场景 0001（未引用文本，按编号排列）
+
+Eydis：System call!  
+Eydis：Generate Metallic Element! Form Element Shield Shape!  
+Kirito：Gwaaaah!  
+Eydis：Defensive scared arts won’t be enough to stop me.  
+Eydis：Now, prepare yourself.  
+Kirito：I can't attack or block... What should I do...  
+Eydis：Even you know when to stop and submit to a painless death.  
+Kirito：Think... She can slash through my sword, but not my body...  
+Kirito：That's it!  
+Eydis：What are you mumbling? Come, prepare to die!  
+Kirito：How about...this?!  
+Eydis：You used your arm... as a shield...  
+Kirito：Your sword can't go through my body. So, body it is.  
+Eydis：A...are you insane?! No ordinary man would...  
+Kirito：Exactly. I'm not an ordinary man!  
+Eydis：ah!  
 
 ## 场景 novel.story8_1_3
 
@@ -102,35 +143,3 @@ Eydis：I won’t accept it if you cause her more harm. Um...
 Kirito：Kirito. My name’s Kirito.  
 Eydis：Kirito. You better protect Alice!  
 Kirito：Yeah... I promise I will, Eydis.  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### The Tenth Integrity Knight
-
-Eydis：I will avenge Alice!  
-Kirito：Again, Alice isn't dead! She's just wounded...  
-Eydis：I don’t need your excuses!  
-Eydis：System Call  Generate Thermal Element!  
-Eydis：Burn to death! Form Element, Arrow Shape...  
-Kirito：D-don't! If I dodge that, you'll hit Alice!  
-Eydis：Huh?  
-Eydis：Enhance Armament!  
-Eydis：Hyaaaaah!  
-Kirito：Guah!  
-Eydis：System call!  
-Eydis：Generate Metallic Element! Form Element Shield Shape!  
-Kirito：Gwaaaah!  
-Eydis：Defensive scared arts won’t be enough to stop me.  
-Eydis：Now, prepare yourself.  
-Kirito：I can't attack or block... What should I do...  
-Eydis：Even you know when to stop and submit to a painless death.  
-Kirito：Think... She can slash through my sword, but not my body...  
-Kirito：That's it!  
-Eydis：What are you mumbling? Come, prepare to die!  
-Kirito：How about...this?!  
-Eydis：You used your arm... as a shield...  
-Kirito：Your sword can't go through my body. So, body it is.  
-Eydis：A...are you insane?! No ordinary man would...  
-Kirito：Exactly. I'm not an ordinary man!  
-Eydis：ah!  

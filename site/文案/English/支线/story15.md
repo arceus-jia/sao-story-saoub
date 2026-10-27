@@ -1,5 +1,35 @@
 # story15
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Quinella
+
+Quinella：Wow! There’s so much sweet bread this morning!  
+Quinella：Good morning.  
+Quinella's Mother：Yes, Quinella.  
+Quinella's Mother：That’s because it’s your birthday today, Quinella.  
+Quinella：Hey, can I eat all of these?  
+Quinella's Mother：You may... But you might have an upset tummy later.  
+Quinella：Oh yeah...  
+Quinella's Mother：Take it with you. Then you can have it for lunch.  
+Quinella：Yeah! I’ll do that!  
+Quinella：Hey mommy, what kind of Calling will I be receiving?  
+Quinella's Mother：That question again?  
+Quinella：But I want to know!  
+Quinella's Mother：And I said that I haven't heard either. How many times have I told you?  
+Quinella's Mother：Plus, today’s the day we find out.  
+Quinella：But I need to know!  
+Quinella：If I know what my Calling is, then I can prepare myself!  
+Quinella's Mother：I’m sure your father will give a Calling most suitable for you.  
+Quinella's Mother：So hurry up and finish your meal.  
+Quinella：Yes mommy!  
+Quinella's Father：Today, my daughter Quinella has turned ten. In accordance to the laws, she shall receive her Calling.  
+Villager A：Oh, he's here.  
+Quinella's Father：Her Calling is...  
+Quinella's Father：Training in the Sacred Arts.  
+Quinella：Training...? In the Sacred Arts?  
+
 ## 场景 novel.story15_1_2
 
 Quinella's Father：Quiet! Everyone, hush!  
@@ -34,63 +64,6 @@ Quinella's Father：That's right. You will stay home forever, just like this.
 Quinella's Father：Forever...just like this.  
 Quinella：Yes, Father!  
 
-## 场景 novel.story15_2_1
-
-Quinella：S-y-s-t-e-m-c-a-l-l...  
-Quinella：We say "system call" whenever we want to warm up something.  
-Quinella：Also, "Generate" and "Element"...  
-Quinella：Which means "Luminous" must mean to shine!  
-Quinella：So that's how it works... You can substitute words to get many different results.  
-Quinella：Wow...now this is fun!  
-
-## 场景 novel.story15_2_4
-
-Quinella's Father：Quinella, how much progress have you made in the Sacred Arts?  
-Quinella：Not much.  
-Quinella's Father：Now, don't be so secretive. Checking up on your progress is my job.  
-Quinella's Father：How much progress have you...  
-Quinella：Training in the Sacred Arts takes a lot of time!  
-Quinella：I experiment, little by little, test out different combinations, and I still fail sometimes.  
-Quinella：Which means multiple tests are my only option.  
-Quinella's Father：Oh, I'm...sorry...  
-Quinella：So leave me alone. I'll let you know when I have a breakthrough.  
-Quinella's Father：O-okay.  
-Quinella：Shouldn't you be leaving, Father? The bell will ring soon.  
-Quinella's Father：Is it that late already? Well, I guess I'll leave.  
-Quinella：Ahhh... Here I am, training all night without sleeping.  
-Quinella：Though I haven't told Mother or Father about "Thermal Arrow."  
-Quinella：Well, I'll sleep until evening.  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Quinella
-
-Quinella：Wow! There’s so much sweet bread this morning!  
-Quinella：Good morning.  
-Quinella's Mother：Yes, Quinella.  
-Quinella's Mother：That’s because it’s your birthday today, Quinella.  
-Quinella：Hey, can I eat all of these?  
-Quinella's Mother：You may... But you might have an upset tummy later.  
-Quinella：Oh yeah...  
-Quinella's Mother：Take it with you. Then you can have it for lunch.  
-Quinella：Yeah! I’ll do that!  
-Quinella：Hey mommy, what kind of Calling will I be receiving?  
-Quinella's Mother：That question again?  
-Quinella：But I want to know!  
-Quinella's Mother：And I said that I haven't heard either. How many times have I told you?  
-Quinella's Mother：Plus, today’s the day we find out.  
-Quinella：But I need to know!  
-Quinella：If I know what my Calling is, then I can prepare myself!  
-Quinella's Mother：I’m sure your father will give a Calling most suitable for you.  
-Quinella's Mother：So hurry up and finish your meal.  
-Quinella：Yes mommy!  
-Quinella's Father：Today, my daughter Quinella has turned ten. In accordance to the laws, she shall receive her Calling.  
-Villager A：Oh, he's here.  
-Quinella's Father：Her Calling is...  
-Quinella's Father：Training in the Sacred Arts.  
-Quinella：Training...? In the Sacred Arts?  
-
 ## 场景 0002（未引用文本，按编号排列）
 
 Quinella：System call!  
@@ -104,6 +77,18 @@ Quinella：System Call! Generate Luminous Element! Adhere!
 Quinella：Just lighting it over and over isn't much fun.  
 Quinella：That's right! Father said I should also "experiment" with the Sacred Arts!  
 Quinella：I'll start by writing down all the spells I know.  
+
+## 场景 novel.story15_2_1
+
+Quinella：S-y-s-t-e-m-c-a-l-l...  
+Quinella：We say "system call" whenever we want to warm up something.  
+Quinella：Also, "Generate" and "Element"...  
+Quinella：Which means "Luminous" must mean to shine!  
+Quinella：So that's how it works... You can substitute words to get many different results.  
+Quinella：Wow...now this is fun!  
+
+## 场景 0002（未引用文本，按编号排列）
+
 Quinella：Cake is f-o-o-d. Meat is also f-o-o-d, which means anything you eat is "food."  
 Quinella：You can eat cow flesh, but when flesh is alive, it's "animal."  
 Quinella：But if it's reduced to meat, it's just "food."  
@@ -162,6 +147,24 @@ Quinella：Form Element, Arrow Shape!
 Quinella：Yeah, it got a little stronger.  
 Quinella：Phew...  
 Quinella：Solus will be up soon. I should get home and rest.  
+
+## 场景 novel.story15_2_4
+
+Quinella's Father：Quinella, how much progress have you made in the Sacred Arts?  
+Quinella：Not much.  
+Quinella's Father：Now, don't be so secretive. Checking up on your progress is my job.  
+Quinella's Father：How much progress have you...  
+Quinella：Training in the Sacred Arts takes a lot of time!  
+Quinella：I experiment, little by little, test out different combinations, and I still fail sometimes.  
+Quinella：Which means multiple tests are my only option.  
+Quinella's Father：Oh, I'm...sorry...  
+Quinella：So leave me alone. I'll let you know when I have a breakthrough.  
+Quinella's Father：O-okay.  
+Quinella：Shouldn't you be leaving, Father? The bell will ring soon.  
+Quinella's Father：Is it that late already? Well, I guess I'll leave.  
+Quinella：Ahhh... Here I am, training all night without sleeping.  
+Quinella：Though I haven't told Mother or Father about "Thermal Arrow."  
+Quinella：Well, I'll sleep until evening.  
 
 ## 场景 0003（未引用文本，按编号排列）
 

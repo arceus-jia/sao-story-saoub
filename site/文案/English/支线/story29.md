@@ -1,5 +1,11 @@
 # story29
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### The Integrity Knight’s Return To Post
+
+
 ## 场景 novel.story29_1_1
 
 ???：Hi, Alice!  Oh, how I've missed you!  
@@ -20,9 +26,6 @@ Eydis：I'd love for you to come along! You make even dull meetings fun!
 Alice：Then, let us go.  
 
 ## 场景 0001（未引用文本，按编号排列）
-
-
-### The Integrity Knight’s Return To Post
 
 Eydis：Phew, it's finally over! Why is Fanatio such a workhorse?  
 Alice：She probably wants to do the Commander proud in his absence.  

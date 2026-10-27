@@ -1,21 +1,5 @@
 # story14
 
-## 场景 novel.story14_3_2
-
-Eugeo：Thank you for the training, Golgorosso! I will see you tomorrow!  
-Golgorosso：Sure thing. Oh, wait. One more thing before you go.  
-Eugeo：Yes?  
-Golgorosso：This applies to "Storm Wave," too but none of the moves I teach should be shared with Kirito.  
-Eugeo：Huh? Why not?  
-Golgorosso：Isn't your "current" goal to defeat Kirito?  
-Eugeo：Yes, but...  
-Golgorosso：Then don't show him.  
-Golgorosso：He taught you what you know, right? So there must be moves he hasn't taught you.  
-Golgorosso：So you need some aces up your sleeve against him.  
-Eugeo：Aces...up my sleeve?  
-Golgorosso：Just knowing you have a secret move will give you a confidence that will improve your fighting.  
-Eugeo：Understood... So I'll be prepared when the day comes, right?  
-
 ## 场景 0001（未引用文本，按编号排列）
 
 
@@ -122,3 +106,19 @@ Eugeo：Sure!
 Golgorosso：Your ability to practice the same move, over and over. That is the source of your strength.  
 Eugeo：Well, I'm neither smart, nor skilled...so repetition is the only way I can learn.  
 Golgorosso：Heh... Well, you'll get stronger. Much stronger than me.  
+
+## 场景 novel.story14_3_2
+
+Eugeo：Thank you for the training, Golgorosso! I will see you tomorrow!  
+Golgorosso：Sure thing. Oh, wait. One more thing before you go.  
+Eugeo：Yes?  
+Golgorosso：This applies to "Storm Wave," too but none of the moves I teach should be shared with Kirito.  
+Eugeo：Huh? Why not?  
+Golgorosso：Isn't your "current" goal to defeat Kirito?  
+Eugeo：Yes, but...  
+Golgorosso：Then don't show him.  
+Golgorosso：He taught you what you know, right? So there must be moves he hasn't taught you.  
+Golgorosso：So you need some aces up your sleeve against him.  
+Eugeo：Aces...up my sleeve?  
+Golgorosso：Just knowing you have a secret move will give you a confidence that will improve your fighting.  
+Eugeo：Understood... So I'll be prepared when the day comes, right?  

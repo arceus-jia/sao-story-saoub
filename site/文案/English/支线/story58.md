@@ -1,49 +1,5 @@
 # story58
 
-## 场景 novel.story58_4_2
-
-Alice：Maybe we should get out now.  
-Eydis：Oh, wait a minute, Alice! The back of your neck is still dirty.  
-Alice：Huh, really?! Thanks for telling me.  
-Alice：Let me just wash that...  
-Eydis：I'll wash it for you!  
-Alice：Huh?!  
-Eydis：Washing the back of the neck is hard, right? Let your Big Sis take care of it!  
-Alice：I-I'm fine, thanks! I'm not a child. I can bathe myself...  
-Eydis：Don't be so shy. This is what big sisters are for!  
-Alice：No, no, it isn't! I sense you are teeming with impure thoughts right now...!  
-Eydis：Oh please, no I'm not! This is just sisterly love!  
-Alice：And you're not my sister! P-Please, stop!  
-Eydis：Aw, come on. Be a good sport!  
-Alice：E-Eydis, as much as I respect you, you're crossing a line...  
-Eydis：O-Okay! Wow, Alice, I've never seen your eyes so serious!  
-Alice：......  
-Eydis：Hey, I get it, okay? Come on. Just a little bit...  
-Alice：This is what I mean when I say your thoughts are impure!  
-Eydis：Okay, after you're all clean, you should soak in the warm water for a while longer.  
-Eydis：You got a little sweaty just now.  
-Alice：And whose fault is that?!  
-
-## 场景 novel.story58_6_1
-
-Eydis：Argh... What a bothersome senator.  
-Alice：Indeed. But was it really okay that we didn't deliver our report?  
-Eydis：As long as we report to her tomorrow, we'll be fine. He just wants to take all the credit.  
-Alice：Does he...?  
-Eydis：Well, let's get that dinner.  
-Alice：Wait...Eydis, do you have some time to spare before that?  
-Eydis：Huh? Ooh, what's this? You wanna take another bath with me?  
-Alice：No! Goodness, Eydis, how obsessed with baths can you be...?  
-Alice：I want to visit our dragons. It's nice and all that the other Knights are seeing to them, but...  
-Alice：I must tend to Amayori personally. This was her first mission.  
-Eydis：I get it. We did work them harder than usual today. I'd better feed Kirimai the choicest fish.  
-Eydis：Hehe. Oh, Alice... I really do love that about you.  
-Eydis：Good girl.  
-Alice：Oh! There I go again...  
-Alice：......  
-Eydis：Well, shall we go see our girls?  
-Alice：Yes! Sit tight, Amayori!  
-
 ## 场景 0001（未引用文本，按编号排列）
 
 
@@ -212,6 +168,30 @@ Eydis：Awww, really? Well...it's a nice thought!
 Alice：We were both summoned at different times, though. So I don't think it's possible.  
 Eydis：Hmmm...  
 
+## 场景 novel.story58_4_2
+
+Alice：Maybe we should get out now.  
+Eydis：Oh, wait a minute, Alice! The back of your neck is still dirty.  
+Alice：Huh, really?! Thanks for telling me.  
+Alice：Let me just wash that...  
+Eydis：I'll wash it for you!  
+Alice：Huh?!  
+Eydis：Washing the back of the neck is hard, right? Let your Big Sis take care of it!  
+Alice：I-I'm fine, thanks! I'm not a child. I can bathe myself...  
+Eydis：Don't be so shy. This is what big sisters are for!  
+Alice：No, no, it isn't! I sense you are teeming with impure thoughts right now...!  
+Eydis：Oh please, no I'm not! This is just sisterly love!  
+Alice：And you're not my sister! P-Please, stop!  
+Eydis：Aw, come on. Be a good sport!  
+Alice：E-Eydis, as much as I respect you, you're crossing a line...  
+Eydis：O-Okay! Wow, Alice, I've never seen your eyes so serious!  
+Alice：......  
+Eydis：Hey, I get it, okay? Come on. Just a little bit...  
+Alice：This is what I mean when I say your thoughts are impure!  
+Eydis：Okay, after you're all clean, you should soak in the warm water for a while longer.  
+Eydis：You got a little sweaty just now.  
+Alice：And whose fault is that?!  
+
 ## 场景 0005（未引用文本，按编号排列）
 
 Chudelkin：Stupid girls! Did you two bathe all night?!  
@@ -244,3 +224,23 @@ Bercouli：Well... I guess you have your own set of troubles, My Lord Prime Sena
 Chudelkin：Number One! I would have much fewer troubles if you could keep your subordinates in line...  
 Bercouli：Whoa, now he's coming at me. Maybe I should also retreat.  
 Chudelkin：Hey, now! Where do you think you're going?! I'm not finished with youuu!  
+
+## 场景 novel.story58_6_1
+
+Eydis：Argh... What a bothersome senator.  
+Alice：Indeed. But was it really okay that we didn't deliver our report?  
+Eydis：As long as we report to her tomorrow, we'll be fine. He just wants to take all the credit.  
+Alice：Does he...?  
+Eydis：Well, let's get that dinner.  
+Alice：Wait...Eydis, do you have some time to spare before that?  
+Eydis：Huh? Ooh, what's this? You wanna take another bath with me?  
+Alice：No! Goodness, Eydis, how obsessed with baths can you be...?  
+Alice：I want to visit our dragons. It's nice and all that the other Knights are seeing to them, but...  
+Alice：I must tend to Amayori personally. This was her first mission.  
+Eydis：I get it. We did work them harder than usual today. I'd better feed Kirimai the choicest fish.  
+Eydis：Hehe. Oh, Alice... I really do love that about you.  
+Eydis：Good girl.  
+Alice：Oh! There I go again...  
+Alice：......  
+Eydis：Well, shall we go see our girls?  
+Alice：Yes! Sit tight, Amayori!  

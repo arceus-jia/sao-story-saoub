@@ -1,5 +1,34 @@
 # story61
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Uprising in the Four Empires
+
+Fizel：Annnd we made it! We made it, right Kirito?  
+Deusolbert：It's time for the council to start. You're both late.  
+Fizel：Nooo, but we made it! You know, it's that thing Kirito says a lot.  
+Linel：From Kirito's actions, we deduced that "made it" is Sacred Tongue for expressing a timely arrival.   
+Kirito：Haha... Have I really been using "made it" that much?  
+Deusolbert：The council convenes at a set time. Everyone needs to arrive before this time.  
+Deusolbert：It's a rule that I'd like not only you girls, but the swordsman delegate as well, to follow.  
+Kirito：Yes, sir... I'll be more careful from now on.  
+Linel：But we made it on time. Why the hostile behavior?  
+Fizel：Yes, why? We made it on time. That's all that matters!  
+Fanatio：Enough, you two. Everyone's here, yes?  
+Fanatio：Then let's begin. Swordsman Delegate, go ahead.  
+Kirito：Alright. I want to discuss how we should deal with the emperors of the Four Empires.  
+Nergius：There isn't much to discuss, it would seem.  
+Entokia：He's right. They don't appear to be open to any sort of negotiation.  
+Kirito：I know, talks with the emperors have broken down, without room for compromise on either side.  
+Kirito：We went to speak with Emperor Cruiga Norlangarth of the Norlangarth Empire.  
+Kirito：In sum, these are all of the policies proposed by the Human Unification Council, my lord.  
+Kirito：The disbanded Imperial Guard will be reincorporated into the Human Empire Army and...  
+Cruiga：Hahaha...  
+Deusolbert：Show some respect. Our delegate is speaking to you.  
+Cruiga：Pardon. It's just that I find your quaint chattering so humorous.  
+Kirito：Humorous?!  
+
 ## 场景 novel.story61_1_2
 
 Cruiga：I stalled a little so that your Integrity Knight there could save face.  
@@ -45,35 +74,6 @@ Kirito：But...
 Deusolbert：We'll take our leave. But we will return in time for further talks.  
 Cruiga：No, such an opportunity will never come. For all eternity.  
 Deusolbert：......  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Uprising in the Four Empires
-
-Fizel：Annnd we made it! We made it, right Kirito?  
-Deusolbert：It's time for the council to start. You're both late.  
-Fizel：Nooo, but we made it! You know, it's that thing Kirito says a lot.  
-Linel：From Kirito's actions, we deduced that "made it" is Sacred Tongue for expressing a timely arrival.   
-Kirito：Haha... Have I really been using "made it" that much?  
-Deusolbert：The council convenes at a set time. Everyone needs to arrive before this time.  
-Deusolbert：It's a rule that I'd like not only you girls, but the swordsman delegate as well, to follow.  
-Kirito：Yes, sir... I'll be more careful from now on.  
-Linel：But we made it on time. Why the hostile behavior?  
-Fizel：Yes, why? We made it on time. That's all that matters!  
-Fanatio：Enough, you two. Everyone's here, yes?  
-Fanatio：Then let's begin. Swordsman Delegate, go ahead.  
-Kirito：Alright. I want to discuss how we should deal with the emperors of the Four Empires.  
-Nergius：There isn't much to discuss, it would seem.  
-Entokia：He's right. They don't appear to be open to any sort of negotiation.  
-Kirito：I know, talks with the emperors have broken down, without room for compromise on either side.  
-Kirito：We went to speak with Emperor Cruiga Norlangarth of the Norlangarth Empire.  
-Kirito：In sum, these are all of the policies proposed by the Human Unification Council, my lord.  
-Kirito：The disbanded Imperial Guard will be reincorporated into the Human Empire Army and...  
-Cruiga：Hahaha...  
-Deusolbert：Show some respect. Our delegate is speaking to you.  
-Cruiga：Pardon. It's just that I find your quaint chattering so humorous.  
-Kirito：Humorous?!  
 
 ## 场景 0002（未引用文本，按编号排列）
 

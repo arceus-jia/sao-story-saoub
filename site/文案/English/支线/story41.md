@@ -1,5 +1,16 @@
 # story41
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Eydis's War of Underworld - Shadows of War -
+
+Eydis：Eldrie, thank you. You protected Alice.  
+Eydis：But weren't you too reckless? That sort of thing is a task for your elders...  
+Eydis：Knowing you, you're probably still watching over Alice, even in death.  
+Eydis：Knowing you, even in death, I’m sure it’s all “Lady Alice this, Lady Alice that,” right?  
+Eydis：So, please... Please keep taking care of Alice.  
+
 ## 场景 novel.story41_2_1
 
 Renly：Sir Bercouli! Something is flying towards us from the southwest!  
@@ -14,6 +25,18 @@ Renly：Y-Yes, Sir...
 Bercouli：That's...odd. Very well, cancel the order to brace for an attack for now.  
 Bercouli：Take me to where I can see this enemy.  
 Renly：Understood, Sir!  
+
+## 场景 0002（未引用文本，按编号排列）
+
+Renly：This way, Sir!  
+Bercouli：Let me see...hm? Oh. It's her.  
+Renly：Um, are you sure it's not an enemy?  
+Bercouli：Yes, don't worry. That's no enemy. It's Eydis.  
+Renly：Lady Eydis...? But I thought she was stationed on guard at the Great Gate.  
+Bercouli：She's probably got a good reason for coming here.  
+Bercouli：Renly, could you get her dragon some food and water? They seem to be in a hurry.  
+Renly：Aye!  
+Bercouli：Now I understand why Hoshigami was being so quiet. He recognized a comrade.  
 
 ## 场景 novel.story41_2_2
 
@@ -31,6 +54,49 @@ Eydis：Stop stalling and answer me!
 Bercouli：How about I tell you over a nice meal? Aren't you hungry?  
 Eydis：Hungry? Oh, now that you mention it...  
 Bercouli：I'll get us dinner right away. Also, I'll need an update on the conditions on your end.  
+
+## 场景 0003（未引用文本，按编号排列）
+
+Eydis：Oh. So Eldrie and Dakira...  
+Bercouli：They both went down bravely. It was because of them that Fanatio and Alice survived.  
+Eydis：They both went bravely... That's comforting to hear.  
+Eydis：I always thought Dakira was cute. And what a waste for her to cover her face with that mask.  
+Eydis：Well, she did worship Fanatio. Almost to a fault.  
+Bercouli：True. She did.  
+Eydis：I never spoke to her much, but I would have loved to.  
+Bercouli：Fanatio seems to have taken her death quite badly.  
+Bercouli：She was fond of Dakira, in a way. And this girl that she loved... died protecting her.  
+Eydis：I think she could use some comforting from her Commander. Right?  
+Bercouli：Well, I'm not...  
+Eydis：Eldrie was an annoying fool. But he did seem to genuinely care for Alice.  
+Eydis：And in spite of it all, I enjoyed my interactions with him.  
+Bercouli：The two of you always filled the Cathedral with clamor.  
+Bercouli：Alice was tired of it from time to time, though.  
+Eydis：Well, that's because Eldrie gave her a hard time. Then I had to console her!  
+Bercouli：I'm sure Eldrie would have told that story differently, if I’d asked him.  
+Eydis：He always obsessed over Alice, never considering how he might be annoying others.  
+Eydis：But, his final moments were noble. That grandstanding fool...  
+Bercouli：Yes. Not only did he save Alice, he saved the rest of us Knights, and the Human Empire's army, too.  
+Bercouli：We could never thank him enough.  
+Bercouli：I'm bitter that we don't have time to give them proper burials.  
+Eydis：Oh, they haven't been buried? That's a shame.  
+Bercouli：Yeah.  
+
+## 场景 0004（未引用文本，按编号排列）
+
+Eydis：And...what was all that light from the sky? It didn't look too ominous to me.  
+Bercouli：Oh, yes. That was divine intervention. Our lives were saved.  
+Bercouli：That light was from a young lady named Asuna, descending into our world.  
+Eydis：A woman... descended into our world?  
+Bercouli：As soon as she landed, she split the earth, swallowing up the enemy.  
+Eydis：She "split the earth"...? Commander, that's hard to believe, even for me.  
+Bercouli：If I hadn't seen it myself, I wouldn't believe it either.  
+Bercouli：But it did happen. And because it happened, we are all alive today.  
+Eydis：Then is she truly...a goddess? No, it can't be...  
+Bercouli："Goddess" is neither the right nor wrong word to describe her. She is not from this world.  
+Bercouli：She came from another world, an outside world, to save Kirito.  
+Bercouli：Crossing worlds to save someone, even if it's someone you love, that is no ordinary feat.  
+Eydis：Kirito's sweetheart... an outside world... Oh... So that's it...  
 
 ## 场景 novel.story41_4_1
 
@@ -68,6 +134,20 @@ Bercouli：Eydis...
 Eydis：If you tell me where he is, I'll go to him and give him a proper farewell.  
 Bercouli：Well, thank you. I'm sure Eldrie will be pleased.  
 Eydis：He'll just have to forgive me for not being Alice! Well, Commander, see you later.  
+
+## 场景 0004（未引用文本，按编号排列）
+
+Eydis：Be careful out there...  
+Bercouli：You too, Eydis.  
+
+## 场景 0005（未引用文本，按编号排列）
+
+Eydis：Hm? What's that?  
+Eydis：You're really good at hiding. But you can't fool me!  
+Man：Well spotted!  
+Man：What?!  
+Eydis：Sorry, but I don't have time to entertain you.  
+Eydis：Oh dear. Now there's a bunch of creeps.  
 
 ## 场景 novel.story41_6_1_1
 
@@ -121,83 +201,6 @@ Fizel：Hey, who're you callin' a "racket"?!
 Linel：You're loud yourself, Eydis. You...come from the South, correct?  
 Fizel：Ooh! I've got a question for you!  
 Eydis：Fine, fine. Just keep it short!  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Eydis's War of Underworld - Shadows of War -
-
-Eydis：Eldrie, thank you. You protected Alice.  
-Eydis：But weren't you too reckless? That sort of thing is a task for your elders...  
-Eydis：Knowing you, you're probably still watching over Alice, even in death.  
-Eydis：Knowing you, even in death, I’m sure it’s all “Lady Alice this, Lady Alice that,” right?  
-Eydis：So, please... Please keep taking care of Alice.  
-
-## 场景 0002（未引用文本，按编号排列）
-
-Renly：This way, Sir!  
-Bercouli：Let me see...hm? Oh. It's her.  
-Renly：Um, are you sure it's not an enemy?  
-Bercouli：Yes, don't worry. That's no enemy. It's Eydis.  
-Renly：Lady Eydis...? But I thought she was stationed on guard at the Great Gate.  
-Bercouli：She's probably got a good reason for coming here.  
-Bercouli：Renly, could you get her dragon some food and water? They seem to be in a hurry.  
-Renly：Aye!  
-Bercouli：Now I understand why Hoshigami was being so quiet. He recognized a comrade.  
-
-## 场景 0003（未引用文本，按编号排列）
-
-Eydis：Oh. So Eldrie and Dakira...  
-Bercouli：They both went down bravely. It was because of them that Fanatio and Alice survived.  
-Eydis：They both went bravely... That's comforting to hear.  
-Eydis：I always thought Dakira was cute. And what a waste for her to cover her face with that mask.  
-Eydis：Well, she did worship Fanatio. Almost to a fault.  
-Bercouli：True. She did.  
-Eydis：I never spoke to her much, but I would have loved to.  
-Bercouli：Fanatio seems to have taken her death quite badly.  
-Bercouli：She was fond of Dakira, in a way. And this girl that she loved... died protecting her.  
-Eydis：I think she could use some comforting from her Commander. Right?  
-Bercouli：Well, I'm not...  
-Eydis：Eldrie was an annoying fool. But he did seem to genuinely care for Alice.  
-Eydis：And in spite of it all, I enjoyed my interactions with him.  
-Bercouli：The two of you always filled the Cathedral with clamor.  
-Bercouli：Alice was tired of it from time to time, though.  
-Eydis：Well, that's because Eldrie gave her a hard time. Then I had to console her!  
-Bercouli：I'm sure Eldrie would have told that story differently, if I’d asked him.  
-Eydis：He always obsessed over Alice, never considering how he might be annoying others.  
-Eydis：But, his final moments were noble. That grandstanding fool...  
-Bercouli：Yes. Not only did he save Alice, he saved the rest of us Knights, and the Human Empire's army, too.  
-Bercouli：We could never thank him enough.  
-Bercouli：I'm bitter that we don't have time to give them proper burials.  
-Eydis：Oh, they haven't been buried? That's a shame.  
-Bercouli：Yeah.  
-
-## 场景 0004（未引用文本，按编号排列）
-
-Eydis：And...what was all that light from the sky? It didn't look too ominous to me.  
-Bercouli：Oh, yes. That was divine intervention. Our lives were saved.  
-Bercouli：That light was from a young lady named Asuna, descending into our world.  
-Eydis：A woman... descended into our world?  
-Bercouli：As soon as she landed, she split the earth, swallowing up the enemy.  
-Eydis：She "split the earth"...? Commander, that's hard to believe, even for me.  
-Bercouli：If I hadn't seen it myself, I wouldn't believe it either.  
-Bercouli：But it did happen. And because it happened, we are all alive today.  
-Eydis：Then is she truly...a goddess? No, it can't be...  
-Bercouli："Goddess" is neither the right nor wrong word to describe her. She is not from this world.  
-Bercouli：She came from another world, an outside world, to save Kirito.  
-Bercouli：Crossing worlds to save someone, even if it's someone you love, that is no ordinary feat.  
-Eydis：Kirito's sweetheart... an outside world... Oh... So that's it...  
-Eydis：Be careful out there...  
-Bercouli：You too, Eydis.  
-
-## 场景 0005（未引用文本，按编号排列）
-
-Eydis：Hm? What's that?  
-Eydis：You're really good at hiding. But you can't fool me!  
-Man：Well spotted!  
-Man：What?!  
-Eydis：Sorry, but I don't have time to entertain you.  
-Eydis：Oh dear. Now there's a bunch of creeps.  
 
 ## 场景 0007（未引用文本，按编号排列）
 

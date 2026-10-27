@@ -1,5 +1,11 @@
 # story22
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Wanting to Know True Strength
+
+
 ## 场景 novel.story22_1_1
 
 Fizel：Hey, Nel, want to take a bath?  
@@ -7,6 +13,55 @@ Linel：Another bath?
 Fizel：Sure. Why not? There's nothing else to do.  
 Linel：Well, I do enjoy a good bath. Alright, let's go.  
 Fizel：Yay! Thanks, Nel.  
+
+## 场景 0001（未引用文本，按编号排列）
+
+Linel：Bubble, bubble...  
+Fizel：Ooh, this bath feel so good!  
+Linel：Agreed. And sharing this big bath with just you feels quite luxurious.  
+Fizel：Hey, Nel, want to race again? To that wall over there.  
+Linel：Again? But you always win, Zel, since you're a better swimmer.  
+Linel：But I'm bad at swimming in hot water. My limbs won't move the way I'm used to.  
+Linel：Or we could see who can stay under the longest. You don't have to move.  
+Fizel：But holding my breath hurts! And I hate hurting.  
+Fizel：Plus, if I die while not breathing, I may come back to life unable to speak or move.  
+Linel：Just come out before you die.  
+Fizel：But then you'll win!  
+Linel：Okay, then...let's just relax.  
+Fizel：Okaaay. Fine.  
+Linel：Bubble, bubble...  
+Fizel：Bubble, bubble...  
+Linel：Baths are nice. But every day?  
+Fizel：Yes, it does get boring. This is our fourth bath today already.  
+Linel：It can't be helped. We're being punished for insulting an Integrity Knight.  
+Fizel：At least we don't have to do our training.  
+Linel：Yes, that is a plus.  
+Fizel：I wish we could go out for a bit. It's getting warm, and the flowers are blooming.  
+Linel：But there are roses in the rose garden.  
+Fizel：I'm sick of roses and the four holy flowers. I want some variety.  
+Linel：Good point...  
+Fizel：It's not fair! The Integrity Knights get to come and go as they please, every day!  
+Linel：But that sounds like a hassle. I hear they're preparing for war or something like that.  
+Linel：Do you think we can really win in a war against the Dark Territory?  
+Linel：I mean, even the great Administrator was defeated.  
+Fizel：Good point. I never imagined that she could lose a fight.  
+Fizel：And yet, the ones to defeat her were those two. They were just prison escapees, not dark knights.  
+Linel：Kirito and Eugeo... They seemed like nice, normal boys to me.  
+Linel：Yes. I can't believe they defeated the Lady Administrator.  
+Fizel：While we're on the subject, I was shocked when they defeated Fanatio, too!  
+Fizel：And I heard when they fought Bercouli, it was a draw.  
+Linel：Huh? Really?! A tie, against that great knight commander?  
+Linel：I mean, they used some sneaky tactic like, "I'll slash you, but not slash you."  
+Fizel：Well, it's all just rumors.  
+Fizel：But they had to defeat Bercouli in order to face off against Lady Administrator.  
+Linel：True. But Kirito became a shell of a man after the fight.  
+Fizel：Yeah, I heard Alice took him away somewhere.  
+Linel：Yeah.  
+Fizel：......  
+Linel：Where do you think they are now?  
+Fizel：Maybe Centoria? Unless they went even further away.  
+Fizel：We won't see them again, huh?  
+Linel：Probably...not.  
 
 ## 场景 novel.story22_2_1
 
@@ -168,129 +223,6 @@ Linel：When Fanatio almost died, Kirito looked so sad. Even though she was his 
 Fizel：Yeah. True. He defeated her and would be able to live on. But he wasn't happy about it.  
 Linel：If we were in his position, we would have cheered and taken our enemy's head.  
 
-## 场景 novel.story22_5_2
-
-Fizel：Remember that day?  
-Linel：Yeah. We got sick of studying pretty quick.  
-Fizel：Well, it lasted two years! That's way too long.  
-Linel：But...we never figured it out. Where Eugeo's and Kirito's strength came from.  
-Fizel：Yeah... Also, and this is a secret, but...  
-Fizel：Whenever I think about those boys... For some reason, my heart flutters strangely.  
-Fizel：It's like, if I think about them, I can't do anything else, so I always avoided it.  
-Linel：Wow...me too, Zel.  
-Linel：Just remembering the things they said or did...it makes me so irritated!  
-Linel：Whenever I'm going to sleep or taking a bath alone, the irritation just gets bigger.  
-Fizel：It probably won't go away... until we see Kirito again.  
-Linel：Yeah... Probably...the irritation will just keep getting worse.  
-Fizel：Oh! But if we go to war... Kirito isn't out there.  
-Fizel：And I heard Eugeo died.  
-Linel：But...Bercouli said they don't have enough knights.  
-Linel：Which means, maybe they'll call Alice and she'll join the fight?  
-Linel：Then maybe Kirito will be with her.  
-Fizel：Ooh! I get it! Yeah. Alice will definitely show up!  
-Fizel：Yeah... Okay, let's go! Let's go to war together!  
-Linel：Yes. I am sure you and I will make it out okay, Zel.  
-Linel：We can kill many dark knights, and then become proper Integrity Knights!  
-Fizel：Wooo! Yes, now I'm really excited about it!  
-
-## 场景 novel.story22_6_1
-
-Bercouli：Have you two made up your minds?  
-Fizel：Yes. We talked it over and...  
-Linel：We will join the fight in the Dark Territory.  
-Fanatio：Good! So it’s decided!  
-Eldrie：Humph.  
-Fanatio：What made you decide to join the fight?  
-Linel：Well, we're not quite sure.  
-Fizel：We're not sure, so we're gonna fight! Then we can figure it out!  
-Eldrie：What kind of reasoning is that? Couldn't it be, to save mankind, or something noble like that?  
-Fanatio：Hehe. Their way of thinking was probably influenced by Kirito.  
-Fanatio：He changed how you see things too, didn't he, Eldrie?  
-Eldrie：I could never be influenced by traitors such as them!  
-Eldrie：I was opposed to the Lady Alice running off with him to begin with.  
-Fizel：I knew it! You're jealous!  
-Eldrie：Sh-Shut up! I am merely worried about Lady Alice's well being.  
-Linel：So, um...before we go to war, I actually have a request.  
-Bercouli：Hm? What is it?  
-Fizel：Will you come with us, Uncle?  
-Bercouli：What. Got something interesting to show me?  
-Eldrie：Sir Bercouli!  
-Bercouli：Oh, let me have a little fun. So. Where are we going?  
-Linel：Well...  
-
-## 场景 novel.story22_7_1
-
-Bercouli：I see. You have a point. Combat on the battlefield does require special armaments.  
-Bercouli：Choose whichever weapons you want.  
-Eldrie：Sir, are you sure? The must be managed carefully.  
-Fanatio：Eldrie, with Lady Administrator is gone, Sir Bercouli is in charge of the Cathedral.  
-Fanatio：Which means, all they need is permission from Bercouli.  
-Bercouli：Besides, we don't have time to concern ourselves over formalities like weapons management.  
-Bercouli：If we don't act quickly, the Human Empire itself might vanish.  
-Eldrie：Aye! I apologize for speaking out of turn, sir!  
-Bercouli：No, don't apologize. Feel free to speak out when you notice anything might be amiss.  
-Bercouli：Now, you girls...  
-Bercouli：It appears your weapon usage authority levels are quite high.  
-Bercouli：So choose weapons that match your high levels.  
-Fizel：Of course we will! I'll find something nice and sharp!  
-Linel：Also...I'd like armor, if possible. Something light and sturdy.  
-Bercouli：Done. I will prepare the perfect armor for you.  
-Linel：Thank you, sir.  
-Linel：Things are looking up, Zel.  
-Fizel：Yes, truly. Well, Nel, let's find us some weapons!  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Wanting to Know True Strength
-
-Linel：Bubble, bubble...  
-Fizel：Ooh, this bath feel so good!  
-Linel：Agreed. And sharing this big bath with just you feels quite luxurious.  
-Fizel：Hey, Nel, want to race again? To that wall over there.  
-Linel：Again? But you always win, Zel, since you're a better swimmer.  
-Linel：But I'm bad at swimming in hot water. My limbs won't move the way I'm used to.  
-Linel：Or we could see who can stay under the longest. You don't have to move.  
-Fizel：But holding my breath hurts! And I hate hurting.  
-Fizel：Plus, if I die while not breathing, I may come back to life unable to speak or move.  
-Linel：Just come out before you die.  
-Fizel：But then you'll win!  
-Linel：Okay, then...let's just relax.  
-Fizel：Okaaay. Fine.  
-Linel：Bubble, bubble...  
-Fizel：Bubble, bubble...  
-Linel：Baths are nice. But every day?  
-Fizel：Yes, it does get boring. This is our fourth bath today already.  
-Linel：It can't be helped. We're being punished for insulting an Integrity Knight.  
-Fizel：At least we don't have to do our training.  
-Linel：Yes, that is a plus.  
-Fizel：I wish we could go out for a bit. It's getting warm, and the flowers are blooming.  
-Linel：But there are roses in the rose garden.  
-Fizel：I'm sick of roses and the four holy flowers. I want some variety.  
-Linel：Good point...  
-Fizel：It's not fair! The Integrity Knights get to come and go as they please, every day!  
-Linel：But that sounds like a hassle. I hear they're preparing for war or something like that.  
-Linel：Do you think we can really win in a war against the Dark Territory?  
-Linel：I mean, even the great Administrator was defeated.  
-Fizel：Good point. I never imagined that she could lose a fight.  
-Fizel：And yet, the ones to defeat her were those two. They were just prison escapees, not dark knights.  
-Linel：Kirito and Eugeo... They seemed like nice, normal boys to me.  
-Linel：Yes. I can't believe they defeated the Lady Administrator.  
-Fizel：While we're on the subject, I was shocked when they defeated Fanatio, too!  
-Fizel：And I heard when they fought Bercouli, it was a draw.  
-Linel：Huh? Really?! A tie, against that great knight commander?  
-Linel：I mean, they used some sneaky tactic like, "I'll slash you, but not slash you."  
-Fizel：Well, it's all just rumors.  
-Fizel：But they had to defeat Bercouli in order to face off against Lady Administrator.  
-Linel：True. But Kirito became a shell of a man after the fight.  
-Fizel：Yeah, I heard Alice took him away somewhere.  
-Linel：Yeah.  
-Fizel：......  
-Linel：Where do you think they are now?  
-Fizel：Maybe Centoria? Unless they went even further away.  
-Fizel：We won't see them again, huh?  
-Linel：Probably...not.  
-
 ## 场景 0005（未引用文本，按编号排列）
 
 Chudelkin：Good grief. What useless children! Should have disposed of them immediately.  
@@ -372,6 +304,56 @@ Administrator：Do you think you can do that?
 Fizel：Of course! I'll study all day if it means I can become an Integrity Knight!  
 Linel：Me too!  
 
+## 场景 novel.story22_5_2
+
+Fizel：Remember that day?  
+Linel：Yeah. We got sick of studying pretty quick.  
+Fizel：Well, it lasted two years! That's way too long.  
+Linel：But...we never figured it out. Where Eugeo's and Kirito's strength came from.  
+Fizel：Yeah... Also, and this is a secret, but...  
+Fizel：Whenever I think about those boys... For some reason, my heart flutters strangely.  
+Fizel：It's like, if I think about them, I can't do anything else, so I always avoided it.  
+Linel：Wow...me too, Zel.  
+Linel：Just remembering the things they said or did...it makes me so irritated!  
+Linel：Whenever I'm going to sleep or taking a bath alone, the irritation just gets bigger.  
+Fizel：It probably won't go away... until we see Kirito again.  
+Linel：Yeah... Probably...the irritation will just keep getting worse.  
+Fizel：Oh! But if we go to war... Kirito isn't out there.  
+Fizel：And I heard Eugeo died.  
+Linel：But...Bercouli said they don't have enough knights.  
+Linel：Which means, maybe they'll call Alice and she'll join the fight?  
+Linel：Then maybe Kirito will be with her.  
+Fizel：Ooh! I get it! Yeah. Alice will definitely show up!  
+Fizel：Yeah... Okay, let's go! Let's go to war together!  
+Linel：Yes. I am sure you and I will make it out okay, Zel.  
+Linel：We can kill many dark knights, and then become proper Integrity Knights!  
+Fizel：Wooo! Yes, now I'm really excited about it!  
+
+## 场景 novel.story22_6_1
+
+Bercouli：Have you two made up your minds?  
+Fizel：Yes. We talked it over and...  
+Linel：We will join the fight in the Dark Territory.  
+Fanatio：Good! So it’s decided!  
+Eldrie：Humph.  
+Fanatio：What made you decide to join the fight?  
+Linel：Well, we're not quite sure.  
+Fizel：We're not sure, so we're gonna fight! Then we can figure it out!  
+Eldrie：What kind of reasoning is that? Couldn't it be, to save mankind, or something noble like that?  
+Fanatio：Hehe. Their way of thinking was probably influenced by Kirito.  
+Fanatio：He changed how you see things too, didn't he, Eldrie?  
+Eldrie：I could never be influenced by traitors such as them!  
+Eldrie：I was opposed to the Lady Alice running off with him to begin with.  
+Fizel：I knew it! You're jealous!  
+Eldrie：Sh-Shut up! I am merely worried about Lady Alice's well being.  
+Linel：So, um...before we go to war, I actually have a request.  
+Bercouli：Hm? What is it?  
+Fizel：Will you come with us, Uncle?  
+Bercouli：What. Got something interesting to show me?  
+Eldrie：Sir Bercouli!  
+Bercouli：Oh, let me have a little fun. So. Where are we going?  
+Linel：Well...  
+
 ## 场景 0008（未引用文本，按编号排列）
 
 Bercouli：I see. The armory.  
@@ -379,3 +361,24 @@ Fanatio：But don't you girls already have weapons? You know, the green ones you
 Linel：Ruberyl's poisoned steel, yes? But, you see...  
 Fizel：It's just a hunch, but...we think we can't use them anymore.  
 Linel：So, please give us new weapons. Weapons for war.  
+
+## 场景 novel.story22_7_1
+
+Bercouli：I see. You have a point. Combat on the battlefield does require special armaments.  
+Bercouli：Choose whichever weapons you want.  
+Eldrie：Sir, are you sure? The must be managed carefully.  
+Fanatio：Eldrie, with Lady Administrator is gone, Sir Bercouli is in charge of the Cathedral.  
+Fanatio：Which means, all they need is permission from Bercouli.  
+Bercouli：Besides, we don't have time to concern ourselves over formalities like weapons management.  
+Bercouli：If we don't act quickly, the Human Empire itself might vanish.  
+Eldrie：Aye! I apologize for speaking out of turn, sir!  
+Bercouli：No, don't apologize. Feel free to speak out when you notice anything might be amiss.  
+Bercouli：Now, you girls...  
+Bercouli：It appears your weapon usage authority levels are quite high.  
+Bercouli：So choose weapons that match your high levels.  
+Fizel：Of course we will! I'll find something nice and sharp!  
+Linel：Also...I'd like armor, if possible. Something light and sturdy.  
+Bercouli：Done. I will prepare the perfect armor for you.  
+Linel：Thank you, sir.  
+Linel：Things are looking up, Zel.  
+Fizel：Yes, truly. Well, Nel, let's find us some weapons!  

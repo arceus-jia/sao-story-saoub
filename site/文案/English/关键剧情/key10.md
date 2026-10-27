@@ -1,27 +1,5 @@
 # key10
 
-## 场景 novel.key10_1_1
-
-Heathcliff：Fight with dual-wielding, if you will. If you defeat me, you may take Asuna with you.  
-Heathcliff：But if you lose, then you will join the Knights of the Blood.  
-Kirito：For Asuna and I to form a party, she needed to take a break from the Knights of the Blood.  
-Kirito：But in order for her to do that, I had to duel Heathcliff and win.  
-Kirito：Objectively speaking, I had no obligation to comply.  
-Kirito：If Asuna's will to leave was strong enough, she could just leave. No one could stop her.  
-Kirito：But...  
-Kirito：Okay.  
-Kirito：If you want to settle this with swords, I'm game. Let's duel it out.  
-Kirito：Like Heathcliff, I was intoxicated by settling disputes by the sword.  
-
-## 场景 novel.key10_2_1_1
-
-Heathcliff：What amazing reaction time!  
-Kirito：No, you're too rigid!  
-
-## 场景 novel.key10_2_1_2
-
-Asuna：Kirito!  
-
 ## 场景 0001（未引用文本，按编号排列）
 
 
@@ -38,11 +16,39 @@ Kirito：What a strong will he has. This must be a result of his leadership and 
 Kirito：As I look at him, I'm reminded of someone I met in SAO...  
 Kirito：They're completely different in physical appearance and in creed.  
 Kirito：But in terms of strength of will, Heathcliff certainly holds his own against Bercouli.  
+
+## 场景 novel.key10_1_1
+
+Heathcliff：Fight with dual-wielding, if you will. If you defeat me, you may take Asuna with you.  
+Heathcliff：But if you lose, then you will join the Knights of the Blood.  
+Kirito：For Asuna and I to form a party, she needed to take a break from the Knights of the Blood.  
+Kirito：But in order for her to do that, I had to duel Heathcliff and win.  
+Kirito：Objectively speaking, I had no obligation to comply.  
+Kirito：If Asuna's will to leave was strong enough, she could just leave. No one could stop her.  
+Kirito：But...  
+Kirito：Okay.  
+Kirito：If you want to settle this with swords, I'm game. Let's duel it out.  
+Kirito：Like Heathcliff, I was intoxicated by settling disputes by the sword.  
+
+## 场景 0001（未引用文本，按编号排列）
+
 Kirito：At the very least, I was then.  
+
+## 场景 novel.key10_2_1_1
+
+Heathcliff：What amazing reaction time!  
+Kirito：No, you're too rigid!  
 
 ## 场景 0002（未引用文本，按编号排列）
 
 Kirito：A shield attack?!  
+
+## 场景 novel.key10_2_1_2
+
+Asuna：Kirito!  
+
+## 场景 0002（未引用文本，按编号排列）
+
 Kirito：Raaah!  
 Heathcliff：Oof?!  
 Kirito：I cast off my defenses and let my Starburst Stream fly,   

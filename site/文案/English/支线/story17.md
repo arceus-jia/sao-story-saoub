@@ -1,5 +1,11 @@
 # story17
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Cardinal and Charlotte
+
+
 ## 场景 novel.story17_1_1
 
 Cardinal：...I have to make my move. Time’s running out.  
@@ -15,7 +21,21 @@ Cardinal：Did I laugh just now? It's been ages since I laughed...
 Eugeo：Mmm... I didn't sleep well.  
 Eugeo：No surprise, since that was my first night in a stable... At least I wasn't too cold.  
 Eugeo：Meanwhile, look at Kirito.  
+
+## 场景 0001（未引用文本，按编号排列）
+
+Kirito：Zzz...  
+
+## 场景 novel.story17_1_2
+
 Eugeo：How can you sleep, in our situation? You're super-human.  
+
+## 场景 0001（未引用文本，按编号排列）
+
+Eugeo：Kirito, wake up. It's morning.  
+
+## 场景 novel.story17_1_2
+
 Kirito：Mmm...'morning, Eugeo. Ahhh.  
 Eugeo：Haha. That's a big yawn. You were out like a brick. You must have slept well.  
 Kirito：I sure did. Straw is a lot more comfortable than I thought.  
@@ -27,61 +47,8 @@ Eugeo：I'm not sure that will work... We don't have any money.
 Kirito：Well, let's at least ask. If we get a no, we can go from there.  
 Eugeo：You really are carefree.  
 
-## 场景 novel.story17_4_2
-
-Kirito：Teline! Telure! Where are you?  
-Eugeo：I don't see them here. They might have gone in deeper.  
-Kirito：They seemed really excited.  
-Eugeo：If they went in too deep because they were excited... It’s our fault. We put ideas in their heads.  
-Kirito：Stay calm, Eugeo!   
-Kirito：We need to focus on finding them first. We can play the blame game later!  
-Eugeo：You're right, Kirito. Let's go further inside.  
-Kirito：No, wait...I hear voices. Or is it...growling?  
-
-## 场景 novel.story17_4_6
-
-Kirito：Okay. They're all gone.  
-Eugeo：But where are Teline and Telure?! Don't tell me they...  
-Kirito：No, I don't see torn clothes. If they were attacked, there would be signs of it.  
-Kirito：Maybe they're deeper...hm?  
-Eugeo：What's wrong, Kirito?  
-Kirito：I just felt a tug on my brain... Could they be...this way?  
-Eugeo：Did you find a clue?  
-Kirito：No...I just get the sense that they're over there. Let's go!  
-Eugeo：Kirito, wait!  
-
-## 场景 novel.story17_5_2
-
-Cardinal：Humph. You really gave me a scare there.   
-Cardinal：And Charlotte did play quite the prank.  
-Cardinal：I forbade her from direct contact time and time again... Well, what can you do?  
-Cardinal：I suppose I can overlook this incident.  
-Cardinal：But I am impressed by how the boys earned that family's trust.   
-Cardinal：They are indeed amusing.  
-Cardinal：And I saw a very rare scene: a mother's embrace.  
-Cardinal：Well, I suppose it isn't that rare. That is how humans should treat one another.  
-Cardinal：I suppose this just shows how out of touch I am now...  
-Cardinal：Humph...I'm not acting like myself. Let's get back to work.  
-Cardinal：That image just put more pressure on my memory storage. I can't extend it any longer.  
-Cardinal：What should I erase this time... I want to save the actions those boys took today.  
-Cardinal：The best candidates to delete are memories from the past.  
-Cardinal：All that remains are...how to braid hair,  
-Cardinal：I can get by without knowing how to braid my hair.  
-Cardinal：...  
-Cardinal：I could always cut my hair. Then I wouldn't need to secure it.  
-Cardinal：No...I won't do that. Even though my growth is stunted, my body is the same as other humans.  
-Cardinal：Nail and hair growth is like a chronic disease.  
-Cardinal：So it is not a pointless memory. Long hair is a bother if one does not know how to braid it.  
-Cardinal：Yes...so... I will save this memory. Along with the memory of my mother.  
-Cardinal：My memories were overwritten, but it’s like they’ve been a part of me since I was young...  
-
 ## 场景 0001（未引用文本，按编号排列）
 
-
-### Cardinal and Charlotte
-
-Kirito：Zzz...  
-Eugeo：Kirito, wake up. It's morning.  
 Eugeo：Let's see. Where's Triza...  
 ???：Hey, Teline, are those boys the travelers who slept in the barn last night?  
 ???：They must be, Telure. Look at the straw on their clothes.  
@@ -211,10 +178,39 @@ Triza：Oh, please save them!
 Kirito：We promise to bring them home! Is the forest due north from here?  
 Triza：Yes. It's just up north. Oh, please, save my girls...  
 Eugeo：Yes, ma'am! I promise we'll bring them home safe!  
+
+## 场景 novel.story17_4_2
+
+Kirito：Teline! Telure! Where are you?  
+Eugeo：I don't see them here. They might have gone in deeper.  
+Kirito：They seemed really excited.  
+Eugeo：If they went in too deep because they were excited... It’s our fault. We put ideas in their heads.  
+Kirito：Stay calm, Eugeo!   
+Kirito：We need to focus on finding them first. We can play the blame game later!  
+Eugeo：You're right, Kirito. Let's go further inside.  
+Kirito：No, wait...I hear voices. Or is it...growling?  
+
+## 场景 0004（未引用文本，按编号排列）
+
 Wolf：Grrr...  
 Kirito：Wolves. I knew it. Eugeo...!  
 Eugeo：I'm ready! C'mon Kirito, let's go!  
 Eugeo：This is...the last one!  
+
+## 场景 novel.story17_4_6
+
+Kirito：Okay. They're all gone.  
+Eugeo：But where are Teline and Telure?! Don't tell me they...  
+Kirito：No, I don't see torn clothes. If they were attacked, there would be signs of it.  
+Kirito：Maybe they're deeper...hm?  
+Eugeo：What's wrong, Kirito?  
+Kirito：I just felt a tug on my brain... Could they be...this way?  
+Eugeo：Did you find a clue?  
+Kirito：No...I just get the sense that they're over there. Let's go!  
+Eugeo：Kirito, wait!  
+
+## 场景 0004（未引用文本，按编号排列）
+
 Eugeo：Look! There's Teline and Telure!  
 Teline：Hi, Eugeo. Did you come to walk us home?  
 Telure：You're here, too, Kirito? Did Mother put you up to...ahh!  
@@ -272,3 +268,28 @@ Kirito：Sure.
 Telure：Then we'll peel the potatoes. Eugeo! Over here.  
 Eugeo：Um, but, I've never peeled potatoes before.  
 Telure：It's okay, I'll teach you. Come here!  
+
+## 场景 novel.story17_5_2
+
+Cardinal：Humph. You really gave me a scare there.   
+Cardinal：And Charlotte did play quite the prank.  
+Cardinal：I forbade her from direct contact time and time again... Well, what can you do?  
+Cardinal：I suppose I can overlook this incident.  
+Cardinal：But I am impressed by how the boys earned that family's trust.   
+Cardinal：They are indeed amusing.  
+Cardinal：And I saw a very rare scene: a mother's embrace.  
+Cardinal：Well, I suppose it isn't that rare. That is how humans should treat one another.  
+Cardinal：I suppose this just shows how out of touch I am now...  
+Cardinal：Humph...I'm not acting like myself. Let's get back to work.  
+Cardinal：That image just put more pressure on my memory storage. I can't extend it any longer.  
+Cardinal：What should I erase this time... I want to save the actions those boys took today.  
+Cardinal：The best candidates to delete are memories from the past.  
+Cardinal：All that remains are...how to braid hair,  
+Cardinal：I can get by without knowing how to braid my hair.  
+Cardinal：...  
+Cardinal：I could always cut my hair. Then I wouldn't need to secure it.  
+Cardinal：No...I won't do that. Even though my growth is stunted, my body is the same as other humans.  
+Cardinal：Nail and hair growth is like a chronic disease.  
+Cardinal：So it is not a pointless memory. Long hair is a bother if one does not know how to braid it.  
+Cardinal：Yes...so... I will save this memory. Along with the memory of my mother.  
+Cardinal：My memories were overwritten, but it’s like they’ve been a part of me since I was young...  

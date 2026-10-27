@@ -1,5 +1,25 @@
 # story7
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Eight Years Ago - Deusolbert and Alice
+
+Alice：...  
+Deusolbert：...  
+Alice：Hey...  
+Deusolbert：...  
+Alice：Hey...are you deaf?  
+Deusolbert：...  
+Alice：Wait, you can't be deaf. You were talking earlier, back at the village.  
+Alice：So...where are you taking me?  
+Deusolbert：A sinner deserves no answer.  
+Alice：So you can hear me! So, hey...will I really be executed?  
+Alice：I'd at least like to know where my final moments will be.  
+Deusolbert：...  
+Alice：Hey, are you listen...  
+Alice：ah!  
+
 ## 场景 novel.story7_1_1
 
 Deusolbert：Are you all right?!  
@@ -89,26 +109,6 @@ Administrator：I forgive you, Deusolbert. You must be tired. You may rest for a
 Administrator：Go back to your chamber.  
 Deusolbert：Y-yes, your Eminence!  
 Administrator：...  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Eight Years Ago - Deusolbert and Alice
-
-Alice：...  
-Deusolbert：...  
-Alice：Hey...  
-Deusolbert：...  
-Alice：Hey...are you deaf?  
-Deusolbert：...  
-Alice：Wait, you can't be deaf. You were talking earlier, back at the village.  
-Alice：So...where are you taking me?  
-Deusolbert：A sinner deserves no answer.  
-Alice：So you can hear me! So, hey...will I really be executed?  
-Alice：I'd at least like to know where my final moments will be.  
-Deusolbert：...  
-Alice：Hey, are you listen...  
-Alice：ah!  
 
 ## 场景 0003（未引用文本，按编号排列）
 

@@ -45,6 +45,20 @@ Bercouli：It’s near a village.
 Bercouli：Is this really okay? Shouldn’t the people be evacuated or at least ready some guards...?  
 Bercouli：Well, I’m sure the High Pontifex will do something about that. Besides, right now...  
 
+## 场景 0002（未引用文本，按编号排列）
+
+Goblin：Oi, look! An Ium was there!  
+Goblin：Ohoh, it’s true! This world’s got loads of Iums!  
+Bercouli：So, these are Goblins...  
+???：Wait, this Ium has a sword. Leave it to Tataki.  
+Tataki：Ium scum! Allow me, the great Tataki, to kill you!  
+Tataki：Be honored! I shall feast on your flesh after I kill you!  
+Bercouli：Just you and me? I wasn't anticipating a fair duel.  
+Goblin：Kill him! Kill him and let me feed on him, too!  
+Bercouli：I take back what I said... You are indeed pure filth.  
+Tataki：Stop babbling and come at me, white Ium!  
+Bercouli：Yes, come at me!  
+
 ## 场景 novel.story12_2_4
 
 Tataki：N-no... How could Ium scum defeat the great Tataki...  
@@ -116,17 +130,3 @@ Bercouli：No, I don't need it. My Time- Splitting Sword is perfect.
 Bercouli：Some kid will probably come find it later.  
 Bercouli：Well, let's get home.  
 Bercouli：I have many questions for the High Pontifex now.  
-
-## 场景 0002（未引用文本，按编号排列）
-
-Goblin：Oi, look! An Ium was there!  
-Goblin：Ohoh, it’s true! This world’s got loads of Iums!  
-Bercouli：So, these are Goblins...  
-???：Wait, this Ium has a sword. Leave it to Tataki.  
-Tataki：Ium scum! Allow me, the great Tataki, to kill you!  
-Tataki：Be honored! I shall feast on your flesh after I kill you!  
-Bercouli：Just you and me? I wasn't anticipating a fair duel.  
-Goblin：Kill him! Kill him and let me feed on him, too!  
-Bercouli：I take back what I said... You are indeed pure filth.  
-Tataki：Stop babbling and come at me, white Ium!  
-Bercouli：Yes, come at me!  

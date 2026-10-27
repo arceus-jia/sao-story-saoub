@@ -58,6 +58,14 @@ Tiese：That would...be nice.
 Eugeo：I'll say hi if I see you.  
 Tiese：Alright!  
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Primary Trainee Tiese Schtrinen
+
+Eugeo：You're doing well! Now I have to step it up!  
+Eugeo：Don’t forget to heal as you fight!  
+
 ## 场景 novel.story4_2_1
 
 
@@ -133,14 +141,6 @@ Tiese：Your mentor is... Humbert, right?
 Frenica：Yes... I appreciate that he's a good swordsman, but...  
 Tiese：Did he...hurt you?  
 Frenica：Yeah... Don't tell anyone, but...  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Primary Trainee Tiese Schtrinen
-
-Eugeo：You're doing well! Now I have to step it up!  
-Eugeo：Don’t forget to heal as you fight!  
 
 ## 场景 0002（未引用文本，按编号排列）
 

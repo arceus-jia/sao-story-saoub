@@ -1,5 +1,11 @@
 # story66
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Days Spent With You
+
+
 ## 场景 novel.story66_1_1
 
 Kirito：There... I think I've checked out most of this town's shops.  
@@ -125,6 +131,44 @@ Asuna：Hey, don't be shy. I have plenty.
 Kirito：Okay then... Thanks! Ohhh yeah, this ish amazhing.  
 Asuna：Haha. Well, I'm just glad you like it.  
 
+## 场景 0004（未引用文本，按编号排列）
+
+Kirito：Phew, that was delicious. My compliments to the chef!  
+Asuna：My compliments to the eater. You really scarfed that down.  
+Kirito：Yeah. And I can still taste it... You know, you're kind of amazing.  
+Kirito：Lots of players add a skill point to cooking for fun, but nobody has taken their craft as far as you.  
+Asuna：I guess. I only made a box lunch this time, so it was simple food with a long shelf life.  
+Asuna：But if I had a proper kitchen, I'd cook something much fancier.  
+Asuna：Something much tastier than that lunch.  
+Kirito：Something tastier than this...?  
+Kirito：......  
+Asuna：Beg, and maybe I'll be nice and...  
+Asuna：Eek?! Wh-What...?  
+Kirito：Asuna!  
+Asuna：Kirito... Thanks.  
+Kirito：We're in a safe zone. I doubt enemies will appear, but still…  
+Asuna：Kirito, look! The monument!  
+Kirito：The monument? Huh?!  
+Kirito：It's moving... How...?  
+Asuna：It looks like these stairs are leading down to something…  
+Kirito：But why did they form just now? I researched this monument before we came here and came up blank…  
+Kirito：Even Argo's intel didn't mention anything to be wary of…  
+Asuna：Maybe it has...specific conditions?  
+Kirito：Specific conditions?  
+Asuna：Like, the secret reveals itself only when you fulfill certain conditions…  
+Kirito：Right...there's that trope. You're saying we fulfilled those conditions?  
+Asuna：Probably. It's the "Monument for Two," right?  
+Asuna：So maybe the two of us resting or eating here triggered it.  
+Kirito：Makes sense... It's like an event that's only launches if you come here as a pair.  
+Kirito：It's our lucky day, Asuna. We're probably the first.  
+Asuna：Huh? You want to go down there? Like, now?  
+Kirito：Of course. It's not often you get to be the first player to go on a quest.  
+Kirito：Then again, I'm not sure how long this quest is, so if you have plans, we can always part ways here.  
+Asuna：Oh no, I'm coming with you! It'd be horrible of me to leave you now!  
+Kirito：Geez. Why so mad?  
+Asuna：I'm not mad!  
+Kirito：Uh, but you are…  
+
 ## 场景 novel.story66_5_1
 
 Kirito：Whoa, there. Another trap. Man, this secret dungeon is pretty hardcore.  
@@ -211,47 +255,3 @@ Kirito：But I really am looking forward to tasting that recipe.
 Asuna：Me too…  
 Kirito：And I'll help you gather the ingredients, too.  
 Asuna：Okay... Deal. It's a promise, okay?  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Days Spent With You
-
-
-## 场景 0004（未引用文本，按编号排列）
-
-Kirito：Phew, that was delicious. My compliments to the chef!  
-Asuna：My compliments to the eater. You really scarfed that down.  
-Kirito：Yeah. And I can still taste it... You know, you're kind of amazing.  
-Kirito：Lots of players add a skill point to cooking for fun, but nobody has taken their craft as far as you.  
-Asuna：I guess. I only made a box lunch this time, so it was simple food with a long shelf life.  
-Asuna：But if I had a proper kitchen, I'd cook something much fancier.  
-Asuna：Something much tastier than that lunch.  
-Kirito：Something tastier than this...?  
-Kirito：......  
-Asuna：Beg, and maybe I'll be nice and...  
-Asuna：Eek?! Wh-What...?  
-Kirito：Asuna!  
-Asuna：Kirito... Thanks.  
-Kirito：We're in a safe zone. I doubt enemies will appear, but still…  
-Asuna：Kirito, look! The monument!  
-Kirito：The monument? Huh?!  
-Kirito：It's moving... How...?  
-Asuna：It looks like these stairs are leading down to something…  
-Kirito：But why did they form just now? I researched this monument before we came here and came up blank…  
-Kirito：Even Argo's intel didn't mention anything to be wary of…  
-Asuna：Maybe it has...specific conditions?  
-Kirito：Specific conditions?  
-Asuna：Like, the secret reveals itself only when you fulfill certain conditions…  
-Kirito：Right...there's that trope. You're saying we fulfilled those conditions?  
-Asuna：Probably. It's the "Monument for Two," right?  
-Asuna：So maybe the two of us resting or eating here triggered it.  
-Kirito：Makes sense... It's like an event that's only launches if you come here as a pair.  
-Kirito：It's our lucky day, Asuna. We're probably the first.  
-Asuna：Huh? You want to go down there? Like, now?  
-Kirito：Of course. It's not often you get to be the first player to go on a quest.  
-Kirito：Then again, I'm not sure how long this quest is, so if you have plans, we can always part ways here.  
-Asuna：Oh no, I'm coming with you! It'd be horrible of me to leave you now!  
-Kirito：Geez. Why so mad?  
-Asuna：I'm not mad!  
-Kirito：Uh, but you are…  

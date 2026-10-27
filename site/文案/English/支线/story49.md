@@ -1,5 +1,11 @@
 # story49
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Noble Fighter
+
+
 ## 场景 novel.story49_1_1
 
 Examiner：Next, Iskahn!  
@@ -46,6 +52,14 @@ Iskahn：You gave me a run for my money. So I'll give you the best view.
 Iskahn：Witness my stunning victory, Dampa!  
 Danpa：Yeah, you'd better win, Iskahn!  
 
+## 场景 0002（未引用文本，按编号排列）
+
+Male Boxer：Match set! Iskahn wins!  
+Male Boxer：From this day forth, Iskahn shall lead the Pugilists Guild!  
+Tribe：Champion! Champion! Champion!  
+Tribe：Iskahn! Iskahn! Iskahn!  
+Iskahn：Grrraaah!  
+
 ## 场景 novel.story49_2_1
 
 Iskahn：Did you see that, Dampa?!  
@@ -83,6 +97,20 @@ Iskahn：Create a whole new system. One where strength is what counts, not age o
 Iskahn：The strong will rise to the top!  
 Danpa：Aye! I will get right to it!  
 
+## 场景 0003（未引用文本，按编号排列）
+
+Iskahn：Good. Next! Enter!  
+Male Boxer：Um, S-Sir, must I really duel you? This is my first time...  
+Iskahn：What. Are ya scared?  
+Male Boxer：Yes, Sir! Er, I mean, no...  
+Iskahn：You're crippled with fear before the duel has even begun. You call yourself a pugilist?!  
+Iskahn：Our clan has no room for weaklings like you! Get out of my sight!  
+Male Boxer：S-Sorry, Sir! Please, let me fight!  
+Iskahn：No second chances... The next time you flee, I will see to it that you...  
+Male Boxer：I would never flee!  
+Male Boxer：Please, let me fight!  
+Iskahn：Good. Then come at me. I won't pull any punches!  
+
 ## 场景 novel.story49_3_1
 
 Male Boxer：I...I yield! Ow...oh...  
@@ -114,6 +142,68 @@ Danpa：As you wish, Champion.
 Iskahn：Yeah. Let's keep up the training! Bring me your fighters with the most potential!  
 Iskahn：And hopefully, someday, one of them will surpass me, and become the next Champion...  
 Danpa：Haha. That's in the distant future, Sir.  
+
+## 场景 0004（未引用文本，按编号排列）
+
+Iskahn：Well, I'm here. At the Council. What are we gonna talk about, with the Emperor not even here?  
+Iskahn：Hm?  
+Sigrosig：Move it, puny human.  
+Iskahn：What did you say?!  
+Sigrosig：Humph.  
+Iskahn：So that's a giant? Definitely a big guy.  
+Iskahn：But his slowness is fatal. He could never land an attack on anyone from my clan.  
+Iskahn：Who's there?!  
+Dee Eye Ell：Oh, you noticed me? And here I was using magic to erase my presence.  
+Iskahn：Magic? Who are you?  
+Dee Eye Ell：I am Dee Eye Ell, head of the Dark Mages Guild. You're Iskahn, leader of the Pugilists Guild.  
+Dee Eye Ell：Am I right?  
+Iskahn：Oh, so you know my name?  
+Dee Eye Ell：Of course I do. With my magic, there's nothing I don't know.  
+Dee Eye Ell：You must be quite strong, to be the Pugilists' Champion at such a young age.  
+Iskahn：So you're saying... you used dark magic to spy on us?  
+Dee Eye Ell：Hehe. Anything embarrassing you'd rather keep hidden? You're practically naked as it is.  
+Iskahn：I think your strange choice of clothing is much harder to understand than mine.  
+Dee Eye Ell：Oh, do my clothes interest you? Or are you perhaps more interested in what's beneath them?  
+Iskahn：Scum... Why would I be interested in a puny body like yours?  
+Iskahn：Now shut up and go away, witch. You're making me hate you dark mages.  
+Dee Eye Ell：Oooh, I'm shaking. So crass. You sound like an orc or goblin with that potty mouth.  
+Iskahn：I said, shut up, witch.  
+Dee Eye Ell：Hehehe... Well, we'll meet again in the Council of Ten. Have a nice day, Champion.  
+Iskahn：Ack! A dark mage, eh? Every one of them I've met has been so annoying.  
+Iskahn：If she came at me, I'd whack her into the afterlife.  
+Hagashi：Wh-Who are you?! There's a Council meeting today!  
+Hagashi：A dirty cad like you has no right to enter this castle!  
+Hagashi：Only members of the Council of Ten may enter Obsidia Palace!  
+Iskahn：I'm Iskahn. Leader of the Pugilists Guild. I’ve just been named to the Council.  
+Hagashi：The Council of Ten?! A little kid like you?!  
+Hagashi：Ha...hahaha! And a member of the Pugilists Guild, no less!  
+Iskahn：Hey. Dirtbag. You dare insult my guild?  
+Hagashi：Yes! I dare! Your clan is small. You have no power!  
+Hagashi：How do you intend to gain power if you won't breed and increase your herd's numbers?!  
+Iskahn：Please. Maybe you Goblins should breed less. You're running out of food.  
+Iskahn：We pugilists cherish each and every one of our children. We train them to be strong.  
+Iskahn：And we feed them plenty. With nutritious food.  
+Iskahn：And our women fight, too. They don't have time to waste breastfeeding and rocking babies.  
+Hagashi：Heh! Still, with so few of you, your clan will go extinct soon.  
+Iskahn：Wanna speed up the process, then? You and I can decide right here which side goes extinct first.  
+Hagashi：Eep?! B-But this is a c-c-c-castle! The Emperor lives here...  
+Hagashi：B-Besides, if there's a fight... my comrades will come and skewer you like meat!  
+Iskahn：But there's a meeting today, huh? No one else is allowed here. You said so yourself, remember?  
+Hagashi：Huh?! W-Wait a minute...  
+Iskahn：So. Wanna fight? I'm ready anytime.  
+Hagashi：E-Eeep! I...I'll let you go for now...  
+Hagashi：S-So we won't fight here. All is forgiven!  
+Iskahn：Fine... Then get out of my sight.  
+Hagashi：Humph!  
+Iskahn：Is the entire Council that dumb? Damn. This is more exhausting than training in the arena.  
+Lilpilin：So you must be Iskahn, the new Council member.  
+Iskahn：Who is it this time?!  
+Lilpilin：I'm Lilpilin, of da Orc clan. Da Council is meeting in da room o'er...  
+Iskahn：I know! You don't need to tell me!  
+Lilpilin：Why awe you so mad? I was just gonn’a take you to da...  
+Iskahn：I'm not a snot-nosed kid! I can go by myself.  
+Lilpilin：Oh...  
+Iskahn：Damn it... The Council of Ten seems crazier than I thought.  
 
 ## 场景 novel.story49_5_1
 
@@ -251,6 +341,18 @@ Danpa：Oh, well... We must be vigilant.
 Iskahn：Increase our guards. Tell them to destroy anything that looks suspicious.  
 Danpa：As you wish, Sir. Right away.  
 
+## 场景 0007（未引用文本，按编号排列）
+
+Magical Beast：Graaa!  
+Danpa：Champion! This way! It's a monster!  
+Iskahn：Finally found one, eh? There seem to be less and less.  
+Danpa：Well, we do keep hunting the monsters around this area.  
+Danpa：The only survivors are the strongest.  
+Iskahn：Good. Makes for a better workout. Come at me, monsters!  
+Magical Beast：Graaa!  
+Magical Beast：Raaar!  
+Iskahn：Ahh...pathetic.  
+
 ## 场景 novel.story49_7_1
 
 Danpa：That was splendid, Champion!  
@@ -287,106 +389,7 @@ Iskahn：I'll train hard, and I'll kill them before they can kill me.
 Danpa：I see... No, wait, I don't see.  
 Iskahn：I don't blame you. Even I don't quite understand.  
 
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Noble Fighter
-
-
-## 场景 0002（未引用文本，按编号排列）
-
-Male Boxer：Match set! Iskahn wins!  
-Male Boxer：From this day forth, Iskahn shall lead the Pugilists Guild!  
-Tribe：Champion! Champion! Champion!  
-Tribe：Iskahn! Iskahn! Iskahn!  
-Iskahn：Grrraaah!  
-
-## 场景 0003（未引用文本，按编号排列）
-
-Iskahn：Good. Next! Enter!  
-Male Boxer：Um, S-Sir, must I really duel you? This is my first time...  
-Iskahn：What. Are ya scared?  
-Male Boxer：Yes, Sir! Er, I mean, no...  
-Iskahn：You're crippled with fear before the duel has even begun. You call yourself a pugilist?!  
-Iskahn：Our clan has no room for weaklings like you! Get out of my sight!  
-Male Boxer：S-Sorry, Sir! Please, let me fight!  
-Iskahn：No second chances... The next time you flee, I will see to it that you...  
-Male Boxer：I would never flee!  
-Male Boxer：Please, let me fight!  
-Iskahn：Good. Then come at me. I won't pull any punches!  
-
-## 场景 0004（未引用文本，按编号排列）
-
-Iskahn：Well, I'm here. At the Council. What are we gonna talk about, with the Emperor not even here?  
-Iskahn：Hm?  
-Sigrosig：Move it, puny human.  
-Iskahn：What did you say?!  
-Sigrosig：Humph.  
-Iskahn：So that's a giant? Definitely a big guy.  
-Iskahn：But his slowness is fatal. He could never land an attack on anyone from my clan.  
-Iskahn：Who's there?!  
-Dee Eye Ell：Oh, you noticed me? And here I was using magic to erase my presence.  
-Iskahn：Magic? Who are you?  
-Dee Eye Ell：I am Dee Eye Ell, head of the Dark Mages Guild. You're Iskahn, leader of the Pugilists Guild.  
-Dee Eye Ell：Am I right?  
-Iskahn：Oh, so you know my name?  
-Dee Eye Ell：Of course I do. With my magic, there's nothing I don't know.  
-Dee Eye Ell：You must be quite strong, to be the Pugilists' Champion at such a young age.  
-Iskahn：So you're saying... you used dark magic to spy on us?  
-Dee Eye Ell：Hehe. Anything embarrassing you'd rather keep hidden? You're practically naked as it is.  
-Iskahn：I think your strange choice of clothing is much harder to understand than mine.  
-Dee Eye Ell：Oh, do my clothes interest you? Or are you perhaps more interested in what's beneath them?  
-Iskahn：Scum... Why would I be interested in a puny body like yours?  
-Iskahn：Now shut up and go away, witch. You're making me hate you dark mages.  
-Dee Eye Ell：Oooh, I'm shaking. So crass. You sound like an orc or goblin with that potty mouth.  
-Iskahn：I said, shut up, witch.  
-Dee Eye Ell：Hehehe... Well, we'll meet again in the Council of Ten. Have a nice day, Champion.  
-Iskahn：Ack! A dark mage, eh? Every one of them I've met has been so annoying.  
-Iskahn：If she came at me, I'd whack her into the afterlife.  
-Hagashi：Wh-Who are you?! There's a Council meeting today!  
-Hagashi：A dirty cad like you has no right to enter this castle!  
-Hagashi：Only members of the Council of Ten may enter Obsidia Palace!  
-Iskahn：I'm Iskahn. Leader of the Pugilists Guild. I’ve just been named to the Council.  
-Hagashi：The Council of Ten?! A little kid like you?!  
-Hagashi：Ha...hahaha! And a member of the Pugilists Guild, no less!  
-Iskahn：Hey. Dirtbag. You dare insult my guild?  
-Hagashi：Yes! I dare! Your clan is small. You have no power!  
-Hagashi：How do you intend to gain power if you won't breed and increase your herd's numbers?!  
-Iskahn：Please. Maybe you Goblins should breed less. You're running out of food.  
-Iskahn：We pugilists cherish each and every one of our children. We train them to be strong.  
-Iskahn：And we feed them plenty. With nutritious food.  
-Iskahn：And our women fight, too. They don't have time to waste breastfeeding and rocking babies.  
-Hagashi：Heh! Still, with so few of you, your clan will go extinct soon.  
-Iskahn：Wanna speed up the process, then? You and I can decide right here which side goes extinct first.  
-Hagashi：Eep?! B-But this is a c-c-c-castle! The Emperor lives here...  
-Hagashi：B-Besides, if there's a fight... my comrades will come and skewer you like meat!  
-Iskahn：But there's a meeting today, huh? No one else is allowed here. You said so yourself, remember?  
-Hagashi：Huh?! W-Wait a minute...  
-Iskahn：So. Wanna fight? I'm ready anytime.  
-Hagashi：E-Eeep! I...I'll let you go for now...  
-Hagashi：S-So we won't fight here. All is forgiven!  
-Iskahn：Fine... Then get out of my sight.  
-Hagashi：Humph!  
-Iskahn：Is the entire Council that dumb? Damn. This is more exhausting than training in the arena.  
-Lilpilin：So you must be Iskahn, the new Council member.  
-Iskahn：Who is it this time?!  
-Lilpilin：I'm Lilpilin, of da Orc clan. Da Council is meeting in da room o'er...  
-Iskahn：I know! You don't need to tell me!  
-Lilpilin：Why awe you so mad? I was just gonn’a take you to da...  
-Iskahn：I'm not a snot-nosed kid! I can go by myself.  
-Lilpilin：Oh...  
-Iskahn：Damn it... The Council of Ten seems crazier than I thought.  
-
 ## 场景 0007（未引用文本，按编号排列）
 
-Magical Beast：Graaa!  
-Danpa：Champion! This way! It's a monster!  
-Iskahn：Finally found one, eh? There seem to be less and less.  
-Danpa：Well, we do keep hunting the monsters around this area.  
-Danpa：The only survivors are the strongest.  
-Iskahn：Good. Makes for a better workout. Come at me, monsters!  
-Magical Beast：Graaa!  
-Magical Beast：Raaar!  
-Iskahn：Ahh...pathetic.  
 Iskahn：I just... hope it happens someday. That I fight my equal in combat.  
 Iskahn：That's all.  

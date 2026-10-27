@@ -1,5 +1,11 @@
 # story24
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Girl's Night Battlefield
+
+
 ## 场景 novel.story24_1_1
 
 Ronie：Also, I think Kirito is really dashing!  
@@ -242,6 +248,24 @@ Asuna：A surprise-attack on the rear guard at night... Actually, that's a very 
 Alice：We need to hold them back!  
 Asuna：Oh, wait for me!  
 
+## 场景 0007（未引用文本，按编号排列）
+
+Sortiliena：Hah!  
+Goblin：Raaar!  
+Alice：That was the last of them.  
+Asuna：Are you all okay?! Is anyone hurt?  
+Ronie：Huff... Huff...  
+Ronie：I'm...o-okay!  
+Sortiliena：You're a sturdy fighter, primary trainee Arabel. Hard to believe you're just a student.  
+Ronie：Thank you so much! I owe it all to Kirito's fine teaching.  
+Ronie：Then again, that also means I have benefited from your teachings, Chief Guard Serlut.  
+Sortiliena：True... To be praised in this manner is a bit humbling.  
+Sortiliena：Then again, my Serlut Style is a bit different from Aincrad Style.  
+Alice：The mentor-apprentice relationship is truly a beautiful thing.  
+Asuna：Yes... I also had someone like that in my life who taught me what is truly important.  
+Alice：Shall we go back? Leaving Kirito alone worries me.  
+Asuna：Yes, let's go back!  
+
 ## 场景 novel.story24_8_1
 
 Asuna：Phew... So this is war. I hate fighting at night.  
@@ -360,30 +384,6 @@ Asuna：Yes. So until he wakes up, let's fight with all we've got and keep the d
 Ronie：Yes, ma'am! Wow, I suddenly feel very inspired!  
 Sortiliena：Yes, we will win. And we will celebrate our victory with Kirito!  
 Alice：Until that day comes, we'll be here, waiting patiently. So please wake up...Kirito.  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Girl's Night Battlefield
-
-
-## 场景 0007（未引用文本，按编号排列）
-
-Sortiliena：Hah!  
-Goblin：Raaar!  
-Alice：That was the last of them.  
-Asuna：Are you all okay?! Is anyone hurt?  
-Ronie：Huff... Huff...  
-Ronie：I'm...o-okay!  
-Sortiliena：You're a sturdy fighter, primary trainee Arabel. Hard to believe you're just a student.  
-Ronie：Thank you so much! I owe it all to Kirito's fine teaching.  
-Ronie：Then again, that also means I have benefited from your teachings, Chief Guard Serlut.  
-Sortiliena：True... To be praised in this manner is a bit humbling.  
-Sortiliena：Then again, my Serlut Style is a bit different from Aincrad Style.  
-Alice：The mentor-apprentice relationship is truly a beautiful thing.  
-Asuna：Yes... I also had someone like that in my life who taught me what is truly important.  
-Alice：Shall we go back? Leaving Kirito alone worries me.  
-Asuna：Yes, let's go back!  
 
 ## 场景 0016（未引用文本，按编号排列）
 

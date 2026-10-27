@@ -1,26 +1,5 @@
 # story31
 
-## 场景 novel.story31_3_2
-
-Sinon：Looks like we’re all decked out.  
-Asuna：Hehe, you know...we look pretty legit now. Everyone looks really powerful.  
-Kirito：I'd hope so, after everyone got like, the most expensive items from each store.  
-Sinon：But Kirito, don't you still have all that money you won from BoB?  
-Sinon：You should be happy to have the opportunity to make use of all that money you saved.  
-Kirito：Yeah, yeah, go ahead and spin it that way.  
-Asuna：And Shino-non paid, too. Thanks, Shino-non.  
-Sinon：Well, of course I paid. You guys were kind enough to come fight with me.  
-Klein：We're set for wheels, too! Now we don't have to worry about being ambushed on the way.  
-Klein：And since we're pretty souped- up, we can blast through any obstructions we run into, too!  
-Asuna：Good job, Klein!  
-Klein：Oh, you flatter me...  
-Kirito：Okay, guess we're ready for battle!  
-Silica：Y-Yeah, it's finally here!  
-Sinon：A group battle will probably be too hard to start with, so let's practice with single enemies.  
-Sinon：We can get items they drop, and we can earn enough money to buy more ammo.  
-Lisbeth：Yeah, and if we gather enough spare parts, I could make more customizations.  
-Klein：Okay! Let's go on our maiden voyage!  
-
 ## 场景 0001（未引用文本，按编号排列）
 
 
@@ -218,6 +197,27 @@ Lisbeth：I saw a sign over there for a parts shop, sooo...
 Kirito：Oh, Liz, you never change, do you? Okay, I guess we're all buying our own stuff for a bit.  
 Asuna：We'll regroup here after we're done.  
 Lisbeth：Aye, sirrr! Okay, bye!  
+
+## 场景 novel.story31_3_2
+
+Sinon：Looks like we’re all decked out.  
+Asuna：Hehe, you know...we look pretty legit now. Everyone looks really powerful.  
+Kirito：I'd hope so, after everyone got like, the most expensive items from each store.  
+Sinon：But Kirito, don't you still have all that money you won from BoB?  
+Sinon：You should be happy to have the opportunity to make use of all that money you saved.  
+Kirito：Yeah, yeah, go ahead and spin it that way.  
+Asuna：And Shino-non paid, too. Thanks, Shino-non.  
+Sinon：Well, of course I paid. You guys were kind enough to come fight with me.  
+Klein：We're set for wheels, too! Now we don't have to worry about being ambushed on the way.  
+Klein：And since we're pretty souped- up, we can blast through any obstructions we run into, too!  
+Asuna：Good job, Klein!  
+Klein：Oh, you flatter me...  
+Kirito：Okay, guess we're ready for battle!  
+Silica：Y-Yeah, it's finally here!  
+Sinon：A group battle will probably be too hard to start with, so let's practice with single enemies.  
+Sinon：We can get items they drop, and we can earn enough money to buy more ammo.  
+Lisbeth：Yeah, and if we gather enough spare parts, I could make more customizations.  
+Klein：Okay! Let's go on our maiden voyage!  
 
 ## 场景 0004（未引用文本，按编号排列）
 

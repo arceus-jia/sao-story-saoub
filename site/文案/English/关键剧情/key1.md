@@ -1,5 +1,22 @@
 # key1
 
+## 场景 0000（未引用文本，按编号排列）
+
+
+### SAO: The Beginning
+
+
+## 场景 0001（未引用文本，按编号排列）
+
+Gigas Cedar's Roots  
+Kirito：I follow the ways of the "Aincrad style"... That's how I answered Eugeo when he asked.  
+Kirito：Eugeo said it might be the name of my hometown, and he's not exactly wrong.  
+Kirito：I learned how to sword fight in "Aincrad," in the world of SAO.  
+Kirito：In the year 2022— humanity finally perfected virtual reality.  
+Kirito：The name of this virtual game was "Sword Art Online."  
+Kirito：It was the first VRMMORPG where players could "FullDive," or be fully-immersed.  
+Kirito：The game was set in "Aincrad," a giant floating castle with 100 floors.  
+
 ## 场景 novel.key1_1_1
 
 Kirito：After getting my hands on the game by chance, I happily plunged into the world of SAO.  
@@ -19,22 +36,8 @@ Klein：No, it isn't. See? Well, today is launch, after all...
 Kirito：We thought it was odd at the time, but we hadn't begun to fathom the very real danger we were in.  
 Kirito：That would come later, when the creator, Akihiko Kayaba, revealed his “plan.”  
 
-## 场景 0000（未引用文本，按编号排列）
-
-
-### SAO: The Beginning
-
-
 ## 场景 0001（未引用文本，按编号排列）
 
-Gigas Cedar's Roots  
-Kirito：I follow the ways of the "Aincrad style"... That's how I answered Eugeo when he asked.  
-Kirito：Eugeo said it might be the name of my hometown, and he's not exactly wrong.  
-Kirito：I learned how to sword fight in "Aincrad," in the world of SAO.  
-Kirito：In the year 2022— humanity finally perfected virtual reality.  
-Kirito：The name of this virtual game was "Sword Art Online."  
-Kirito：It was the first VRMMORPG where players could "FullDive," or be fully-immersed.  
-Kirito：The game was set in "Aincrad," a giant floating castle with 100 floors.  
 Akihiko Kayaba：Until you reach the top level of this castle, you will not be able to log out of the game.  
 Akihiko Kayaba：Furthermore, if anyone outside the game attempts to tamper with or remove your NerveGear...  
 Akihiko Kayaba：Your brain will be irreparably damaged.  

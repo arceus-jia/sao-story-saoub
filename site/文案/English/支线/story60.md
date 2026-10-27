@@ -1,5 +1,11 @@
 # story60
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### The Founding of the "Human Unification Council"
+
+
 ## 场景 novel.story60_1_1
 
 Fanatio：Once again, thank you all for your service in the war against the Dark Realm.  
@@ -89,9 +95,3 @@ Nergius：No objections.
 Entokia：I approve.  
 Renly：And I wholeheartedly approve!  
 Kirito：Okay, I'll go get Asuna.  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### The Founding of the "Human Unification Council"
-

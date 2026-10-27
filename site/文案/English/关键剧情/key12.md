@@ -1,11 +1,5 @@
 # key12
 
-## 场景 novel.key12_2_2_1
-
-Kirito：Our only choice is to use that...  
-Kirito：Asuna, Klein! Hang in there just 10 more seconds!  
-Kirito：Okay, I'm ready!  Switch!  
-
 ## 场景 0001（未引用文本，按编号排列）
 
 
@@ -41,6 +35,15 @@ Asuna：No...I can't take this anymore...
 Asuna：Don't!!!  
 Kirito：Asuna ignored her own peril and flew into the Boss's lair.  
 Kirito：We were fighting for our lives in a room where teleportation crystals didn't work.  
+
+## 场景 novel.key12_2_2_1
+
+Kirito：Our only choice is to use that...  
+Kirito：Asuna, Klein! Hang in there just 10 more seconds!  
+Kirito：Okay, I'm ready!  Switch!  
+
+## 场景 0002（未引用文本，按编号排列）
+
 Asuna：Kirito!  
 Klein：Kirito!  
 Asuna：Kirito! Don't!  

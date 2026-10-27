@@ -1,5 +1,19 @@
 # story27
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### The Bond Among Knights: Dark Territory
+
+
+### Dark Territory Training School
+
+Umpire：And now, let the mock duel begin. Both sides, ready!  
+Umpire：Think of this as a real duel, with your life on the line.  
+Umpire：Begin!  
+Knight Apprentice A：Graaah! Die!  
+Lipia：Humph.  
+
 ## 场景 novel.story27_2_1
 
 Knight Apprentice A：Urgh! You...slippery brat! Die!  
@@ -30,6 +44,22 @@ Umpire：For now...I will give you this win. But next time, be sure to fight to 
 Lipia：I will...try my best.  
 Umpire：Humph. "Try," you say? I'd do something about that sassy mouth, too, if I were you.  
 Lipia：If you will excuse me.  
+
+## 场景 0002（未引用文本，按编号排列）
+
+Knight Apprentice B：Look, it's Lipia! I hear she just won her mock duel.  
+Lipia：......  
+Knight Apprentice C：But her opponent survived. Even though her sword was real, he survived with little wounding.  
+Knight Apprentice B：How odd... Maybe she wasn't fighting with a sword, but with her "womanly wiles"?  
+Lipia：......  
+Knight Apprentice C：I could see that. Those "weapons" of hers could disarm even the purest of our instructors.  
+Knight Apprentice B：Well, none for me, thanks. She may have a pretty face, but she's an ogre on the inside.  
+Knight Apprentice C：Whoa, don't say that! That's so rude...to ogres.  
+Knight Apprentice B：Bwahahaha! True, so true!  
+Lipia：Hey!  
+Knight Apprentice B：Ooh! I'm sooo scared! Little Miss A+ is mad at me!  
+Knight Apprentice C：Yikes, let's scram!  
+Lipia：Stupid men... Have your fun at my expense while you can.  
 
 ## 场景 novel.story27_3_1
 
@@ -79,6 +109,18 @@ Magician Apprentice B：Yes, we will!
 Lipia：Mmf! Oh...nng...  
 Magician Apprentice A：Hahaha...  
 Magician Apprentice B：Hehehe...  
+
+## 场景 0004（未引用文本，按编号排列）
+
+Lipia：I n-need to break the spell...but where are they?  
+Lipia：I've been following them, but how did I get out here?  
+Lipia：Mm! Ohh, ahh... It...hurts...  
+???：Raaar!  
+Lipia：W-What?!  
+Minion：Graaa!  
+Lipia：A minion... Is this also their doing? Oof!  
+Lipia：W-With such a...pitiful attack...how could... Oof?!  
+Lipia：Damn it. I'm in too much pain to move properly... But I can't let this monster do me in!  
 
 ## 场景 novel.story27_5_1
 
@@ -163,6 +205,11 @@ Dark Knight：I let you off easy since you're a woman, but try it again, and...
 Lipia：Shut up, you jackal.  
 Dark Knight：Grr... G-Go to your room at once!  
 
+## 场景 0007（未引用文本，按编号排列）
+
+Lipia：Shasta...leader of the Dark Knights, eh? But he still rites me off as "just a girl."  
+Lipia：Amusing... I swear it. I will change his way of thinking!  
+
 ## 场景 novel.story27_9_1
 
 Dark Knight：I have a mission for you, scumbags! Many monsters have appeared north of the castle!  
@@ -195,6 +242,21 @@ Shasta：I am not fond of jokes myself. You have my word, as one of the Council 
 Lipia：Understood... Then, I challenge you to a duel.  
 Lipia：To the death!  
 Shasta：Good. I like your dedication, Lipia! Now, show me just how powerful you are!  
+
+## 场景 0011（未引用文本，按编号排列）
+
+Shasta：Mm... Good skills. Very commendable.  
+Lipia：Enjoy your smug confidence while you can! Yahhh!  
+Shasta：Ooh, you can move even faster? Well, well, well...  
+Lipia：Commander, do you want to take back what you said earlier?!  
+Shasta：Of course not. I am a man of my word!  
+Lipia：Have it your way!  
+Shasta：However, I cannot let myself be beaten like a dog!  
+Lipia：Oof... I can't deny...you're stronger than me... But not as fast!  
+Shasta：Hah!  
+Lipia：Huh? He vanished...  
+Shasta：Over here!  
+Lipia：...Agh!  
 
 ## 场景 novel.story27_11_2
 
@@ -327,65 +389,3 @@ Shasta：Yes... You should witness this. The gulf between empires and the Integr
 Shasta：However, you needn't protect me. Concern yourself with your own protection!  
 Lipia：Understood, Sir!  
 Shasta：Well, let's go! Don't lag behind, Lipia!  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### The Bond Among Knights: Dark Territory
-
-
-### Dark Territory Training School
-
-Umpire：And now, let the mock duel begin. Both sides, ready!  
-Umpire：Think of this as a real duel, with your life on the line.  
-Umpire：Begin!  
-Knight Apprentice A：Graaah! Die!  
-Lipia：Humph.  
-
-## 场景 0002（未引用文本，按编号排列）
-
-Knight Apprentice B：Look, it's Lipia! I hear she just won her mock duel.  
-Lipia：......  
-Knight Apprentice C：But her opponent survived. Even though her sword was real, he survived with little wounding.  
-Knight Apprentice B：How odd... Maybe she wasn't fighting with a sword, but with her "womanly wiles"?  
-Lipia：......  
-Knight Apprentice C：I could see that. Those "weapons" of hers could disarm even the purest of our instructors.  
-Knight Apprentice B：Well, none for me, thanks. She may have a pretty face, but she's an ogre on the inside.  
-Knight Apprentice C：Whoa, don't say that! That's so rude...to ogres.  
-Knight Apprentice B：Bwahahaha! True, so true!  
-Lipia：Hey!  
-Knight Apprentice B：Ooh! I'm sooo scared! Little Miss A+ is mad at me!  
-Knight Apprentice C：Yikes, let's scram!  
-Lipia：Stupid men... Have your fun at my expense while you can.  
-
-## 场景 0004（未引用文本，按编号排列）
-
-Lipia：I n-need to break the spell...but where are they?  
-Lipia：I've been following them, but how did I get out here?  
-Lipia：Mm! Ohh, ahh... It...hurts...  
-???：Raaar!  
-Lipia：W-What?!  
-Minion：Graaa!  
-Lipia：A minion... Is this also their doing? Oof!  
-Lipia：W-With such a...pitiful attack...how could... Oof?!  
-Lipia：Damn it. I'm in too much pain to move properly... But I can't let this monster do me in!  
-
-## 场景 0007（未引用文本，按编号排列）
-
-Lipia：Shasta...leader of the Dark Knights, eh? But he still rites me off as "just a girl."  
-Lipia：Amusing... I swear it. I will change his way of thinking!  
-
-## 场景 0011（未引用文本，按编号排列）
-
-Shasta：Mm... Good skills. Very commendable.  
-Lipia：Enjoy your smug confidence while you can! Yahhh!  
-Shasta：Ooh, you can move even faster? Well, well, well...  
-Lipia：Commander, do you want to take back what you said earlier?!  
-Shasta：Of course not. I am a man of my word!  
-Lipia：Have it your way!  
-Shasta：However, I cannot let myself be beaten like a dog!  
-Lipia：Oof... I can't deny...you're stronger than me... But not as fast!  
-Shasta：Hah!  
-Lipia：Huh? He vanished...  
-Shasta：Over here!  
-Lipia：...Agh!  

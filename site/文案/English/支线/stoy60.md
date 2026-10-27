@@ -1,5 +1,63 @@
 # stoy60
 
+## 场景 0003（未引用文本，按编号排列）
+
+Asuna：Whaaat?! Me? Subdelegate of the Human Unification Council?!  
+Asuna：N-No, I can't take on that role! I mean, I don't know anything about this world.  
+Asuna：There must be many others who are more worthy.  
+Renly：But I saw it. You descended from the heavens and saved us all, including me, Ronie, and Tiese.  
+Asuna：B-But I acted purely on impulse. I saw you were about to be killed and I just had to do something.  
+Deusolbert：Rumors of your magnificence have been spreading among the guards as well.  
+Deusolbert：With you as our subdelegate, the people will sleep soundly.  
+Asuna：B-But I'm not Stacia incarnate, you know...  
+Kirito：I'd feel a lot more secure with you by my side, too, Asuna. You'd be a big help.  
+Asuna：Kirito...  
+Kirito：Don't worry. I've only really experienced life in this world for two years myself.  
+Kirito：If you ever get lost there's good people that have your back. You've got this, Asuna.  
+Kirito：Let's rebuild this world together... My Vice Commander.  
+Asuna：Whoa, don't call me that! Jeez... I can't say no to you.  
+Fanatio：I would have taken the job, but I'm in no condition...  
+Kirito：Fanatio's expecting.  
+Asuna：Whoa, really?! Congratulations!  
+Asuna：Okay...I accept.  
+Asuna：I am humbled and I'll strive to do my best.  
+Fanatio：Oh, so you accept the position?  
+Kirito：Thanks, Asuna.  
+Asuna：Be prepared to teach me as we go along, Kirito.  
+Fanatio：All right then, Kirito...I mean, Swordsman Delegate. Please give an inaugural speech for the Council.  
+Kirito：A s-speech?  
+Entokia：Inspire us, Master Kirito.  
+Kirito：Umm...  
+Kirito：I, Swordsman Delegate Kirito, extend my warmest greetings.  
+Fanatio：Kirito, why're you speaking so formally?  
+Kirito：Oh, uh... I thought it would be best.  
+Deusolbert：Swordsman Delegate, speak from the heart. Your words will reach everyone better.  
+Kirito：You think so? Okay then...  
+Kirito：Fanatio said there are many things in the Human Empire that need to be fixed.  
+Kirito：But I know firsthand that the people of the Human Em... no, of Underworld, are very virtuous.  
+Kirito：The Integrity Knights, the residents of Centoria and Rulid— you all taught me this.  
+Kirito：As did...a dear friend of mine.  
+Kirito：There's definitely a lot of work that needs to be done, but I have faith in you all.  
+Kirito：It's going to take all of us working together. I am counting on each and every one of you.  
+Deusolbert：And we on you, Swordsman Delegate.  
+Renly：Thank you!  
+Nergius：Hmph.  
+Entokia：Looks like there's going to be some big changes around here.  
+Sheyta：Good luck.  
+Linel：Kirito, as your first act, make Zel and me Integrity Knights, okay?  
+Fizel：Oh, yes! That's your top priority!  
+Fanatio：Take good care of the Empire, Swordsman Delegate!  
+Asuna：Hehe. Well, Kirito... Onto a new adventure!  
+
+## 场景 0004（未引用文本，按编号排列）
+
+Kirito：So that's how the Human Unification Council came to be, with me as its delegate.  
+Kirito：News of the Council's founding was announced the next day in Centoria and across the empire.  
+Kirito：Since the war was over, the news was generally well- received. However...  
+Kirito：As you'd expect, some groups weren't pleased.  
+Kirito：Like the elite nobles, with the emperors at their head.  
+Kirito：They opposed the policies proposed by the Council, such as abolition of rank and land redistribution.  
+
 ## 场景 novel.story60_4_2
 
 Elite Nobles：We'll never accept this tyranny! Without our lands, how do you expect us to live?!  
@@ -69,6 +127,17 @@ Kirito：Sure. No objections.
 Volo：At long last, this day has finally come... Let's find an appropriate location.  
 Kirito：Looking forward to it!  
 
+## 场景 0005（未引用文本，按编号排列）
+
+Volo：Im...impressive. It's your victory, Kirito.  
+Volo：It would seem the valor with the sword that I sensed from you back then was genuine.  
+Kirito：But the way you handled your sword was just as amazing. A testament to High-Norkian Style.  
+Volo：Heh. Cut the flattery. I'm not naive. I know that you're a better fighter than I am.  
+Volo：So, it's my loss this time. But next time, I will win, I swear it.  
+Sortiliena：Levantein, you truly are as stubborn as an ox.  
+Sortiliena：But it is your stubbornness that gives you your strength. I could learn a thing or two.  
+Kirito：You're always welcome to duel me again! I would be honored!  
+
 ## 场景 novel.story60_6_1
 
 Sortiliena：Have you already begun talks with the other empires, Kirito?  
@@ -110,72 +179,3 @@ Kirito：Don't get me wrong, I do feel uneasy about a few things. But we're stro
 Kirito：So I'll make sure I take the time to really focus on us.  
 Asuna：Cool...  
 Kirito：Okay, I'll just deliver the report to Fanatio and then we're off to Eastavarieth!  
-
-## 场景 0003（未引用文本，按编号排列）
-
-Asuna：Whaaat?! Me? Subdelegate of the Human Unification Council?!  
-Asuna：N-No, I can't take on that role! I mean, I don't know anything about this world.  
-Asuna：There must be many others who are more worthy.  
-Renly：But I saw it. You descended from the heavens and saved us all, including me, Ronie, and Tiese.  
-Asuna：B-But I acted purely on impulse. I saw you were about to be killed and I just had to do something.  
-Deusolbert：Rumors of your magnificence have been spreading among the guards as well.  
-Deusolbert：With you as our subdelegate, the people will sleep soundly.  
-Asuna：B-But I'm not Stacia incarnate, you know...  
-Kirito：I'd feel a lot more secure with you by my side, too, Asuna. You'd be a big help.  
-Asuna：Kirito...  
-Kirito：Don't worry. I've only really experienced life in this world for two years myself.  
-Kirito：If you ever get lost there's good people that have your back. You've got this, Asuna.  
-Kirito：Let's rebuild this world together... My Vice Commander.  
-Asuna：Whoa, don't call me that! Jeez... I can't say no to you.  
-Fanatio：I would have taken the job, but I'm in no condition...  
-Kirito：Fanatio's expecting.  
-Asuna：Whoa, really?! Congratulations!  
-Asuna：Okay...I accept.  
-Asuna：I am humbled and I'll strive to do my best.  
-Fanatio：Oh, so you accept the position?  
-Kirito：Thanks, Asuna.  
-Asuna：Be prepared to teach me as we go along, Kirito.  
-Fanatio：All right then, Kirito...I mean, Swordsman Delegate. Please give an inaugural speech for the Council.  
-Kirito：A s-speech?  
-Entokia：Inspire us, Master Kirito.  
-Kirito：Umm...  
-Kirito：I, Swordsman Delegate Kirito, extend my warmest greetings.  
-Fanatio：Kirito, why're you speaking so formally?  
-Kirito：Oh, uh... I thought it would be best.  
-Deusolbert：Swordsman Delegate, speak from the heart. Your words will reach everyone better.  
-Kirito：You think so? Okay then...  
-Kirito：Fanatio said there are many things in the Human Empire that need to be fixed.  
-Kirito：But I know firsthand that the people of the Human Em... no, of Underworld, are very virtuous.  
-Kirito：The Integrity Knights, the residents of Centoria and Rulid— you all taught me this.  
-Kirito：As did...a dear friend of mine.  
-Kirito：There's definitely a lot of work that needs to be done, but I have faith in you all.  
-Kirito：It's going to take all of us working together. I am counting on each and every one of you.  
-Deusolbert：And we on you, Swordsman Delegate.  
-Renly：Thank you!  
-Nergius：Hmph.  
-Entokia：Looks like there's going to be some big changes around here.  
-Sheyta：Good luck.  
-Linel：Kirito, as your first act, make Zel and me Integrity Knights, okay?  
-Fizel：Oh, yes! That's your top priority!  
-Fanatio：Take good care of the Empire, Swordsman Delegate!  
-Asuna：Hehe. Well, Kirito... Onto a new adventure!  
-
-## 场景 0004（未引用文本，按编号排列）
-
-Kirito：So that's how the Human Unification Council came to be, with me as its delegate.  
-Kirito：News of the Council's founding was announced the next day in Centoria and across the empire.  
-Kirito：Since the war was over, the news was generally well- received. However...  
-Kirito：As you'd expect, some groups weren't pleased.  
-Kirito：Like the elite nobles, with the emperors at their head.  
-Kirito：They opposed the policies proposed by the Council, such as abolition of rank and land redistribution.  
-
-## 场景 0005（未引用文本，按编号排列）
-
-Volo：Im...impressive. It's your victory, Kirito.  
-Volo：It would seem the valor with the sword that I sensed from you back then was genuine.  
-Kirito：But the way you handled your sword was just as amazing. A testament to High-Norkian Style.  
-Volo：Heh. Cut the flattery. I'm not naive. I know that you're a better fighter than I am.  
-Volo：So, it's my loss this time. But next time, I will win, I swear it.  
-Sortiliena：Levantein, you truly are as stubborn as an ox.  
-Sortiliena：But it is your stubbornness that gives you your strength. I could learn a thing or two.  
-Kirito：You're always welcome to duel me again! I would be honored!  

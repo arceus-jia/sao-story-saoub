@@ -24,6 +24,31 @@ Alice：D-does it? Then...I will call you Uncle.
 Bercouli：I wouldn't mind if you relaxed a bit more, too... Well, I'll let that slide.  
 Alice：Th-thank you!  
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Alice and Eydis
+
+Bercouli：Eydis. Didn't know you were back.  
+Eydis：Oh, Commander Bercouli. Long time no see.  
+Eydis：Eydis Synthesis Ten, returning temporarily from the eastern guard post.  
+Bercouli：Cut the formalities, Eydis.  
+Eydis：My apologizes.  But it's rare to see you back here.  
+Bercouli：A new Integrity Knight is to be summoned soon.  
+Eydis：Oh? How many do we number now?  
+Bercouli：Let me see...  
+Bercouli：Hey, Prime Senator, which number is the new Knight?  
+Chudelkin：Number 30! Have you no memory, man?!  
+Chudelkin：Aren't you the head of the Integrity Knights?!  
+Bercouli：Yes, yes. Forgive me.  
+Chudelkin：Good grief... Well, take good care of the new girl!  
+Eydis：Girl?! Is the new recruit female, then?  
+Bercouli：Ooh... How can you know? She hasn't been summoned yet.  
+Chudelkin：O-of course I know!  
+Chudelkin：When you're as powerful as I am, of course you will be privy to that information!  
+Chudelkin：Be sure you teach her proper manners. Understood?!  
+Eydis：Ooh, so it's a girl! I hope she's a sweetheart.  
+
 ## 场景 novel.story20_2_2
 
 Eydis：Hey, Bercouli, what do you think she'll be like?  
@@ -39,6 +64,14 @@ Alice：...
 Bercouli：Hello, there.  
 Alice：Oh, Uncle...  
 Bercouli：So you're the 30th Integrity Knight now, huh?  
+
+## 场景 0001（未引用文本，按编号排列）
+
+Alice：Yes. I've completed my training and was officially given the title of Integrity Knight.  
+Alice：I see.  
+
+## 场景 novel.story20_2_2
+
 Alice：My name is Alice. Alice Synthesis Thirty.  
 Eydis：So, you're called Alice! What a sweet little name.  
 Alice：Wh-who are you?  
@@ -92,61 +125,6 @@ Eydis：But she's not a bad person. Her sense of justice is just a little too st
 Eydis：Well, shall we go?  
 Eydis：Follow closely. This Cathedral is ridiculously spacious.  
 
-## 场景 novel.story20_4_1
-
-Eydis：I think we've visited all the noteworthy spots now.  
-Alice：Thank you very much. I've visited this area during my training,  
-Eydis：Oh, yes this is the section where the trainee nuns live, isn't it?  
-Alice：Yes, but...  
-Eydis：Is something wrong? I didn't think this place was all that interesting...  
-Alice：Ever since I begain my training, this place has felt familiar to me...  
-Alice：Even though it shouldn't...  
-Eydis：Hmmm...  
-Eydis：Maybe it resembles the place you lived in Heaven?  
-Alice：Heaven... That's right. I was summoned from Heaven.  
-Alice：Sometimes...I find myself almost forgetting this.  
-Eydis：It happens to everyone. I know I came from Heaven, but I don't really feel like it.  
-Eydis：I mean, I don't remember it. And no one else does either.  
-Eydis：Oh! Don't tell anyone else I said that, okay?  
-Eydis：Especially Fanatio.   
-Eydis： "An esteemed Integrity Knight should be..."  
-Eydis：She'll go off on her nonsense.  
-Alice：Pffft! Haha...  
-Eydis：Ooh. Was that spot-on?  
-Alice：Noted... So, this conversation is a secret between us?  
-Eydis：A secret! Ooh, that's got a lovely ring to it! Our little secret. Ahhh, how beautiful.  
-Alice：Um, Eydis. I can't breathe...  
-Eydis：Oops! Sorry about that. Well, let's go back to your room.  
-Eydis：You must be tired from all that walking.  
-Alice：Thank you...  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Alice and Eydis
-
-Bercouli：Eydis. Didn't know you were back.  
-Eydis：Oh, Commander Bercouli. Long time no see.  
-Eydis：Eydis Synthesis Ten, returning temporarily from the eastern guard post.  
-Bercouli：Cut the formalities, Eydis.  
-Eydis：My apologizes.  But it's rare to see you back here.  
-Bercouli：A new Integrity Knight is to be summoned soon.  
-Eydis：Oh? How many do we number now?  
-Bercouli：Let me see...  
-Bercouli：Hey, Prime Senator, which number is the new Knight?  
-Chudelkin：Number 30! Have you no memory, man?!  
-Chudelkin：Aren't you the head of the Integrity Knights?!  
-Bercouli：Yes, yes. Forgive me.  
-Chudelkin：Good grief... Well, take good care of the new girl!  
-Eydis：Girl?! Is the new recruit female, then?  
-Bercouli：Ooh... How can you know? She hasn't been summoned yet.  
-Chudelkin：O-of course I know!  
-Chudelkin：When you're as powerful as I am, of course you will be privy to that information!  
-Chudelkin：Be sure you teach her proper manners. Understood?!  
-Eydis：Ooh, so it's a girl! I hope she's a sweetheart.  
-Alice：Yes. I've completed my training and was officially given the title of Integrity Knight.  
-Alice：I see.  
-
 ## 场景 0002（未引用文本，按编号排列）
 
 Eydis：Ta-dah!  
@@ -175,6 +153,34 @@ Alice：But is all of this water continuously heated by Sacred Arts? How powerfu
 Eydis：Hm? Did you say something?  
 Alice：No. It was nothing.  
 Eydis：Oh? Well, let's keep going.  
+
+## 场景 novel.story20_4_1
+
+Eydis：I think we've visited all the noteworthy spots now.  
+Alice：Thank you very much. I've visited this area during my training,  
+Eydis：Oh, yes this is the section where the trainee nuns live, isn't it?  
+Alice：Yes, but...  
+Eydis：Is something wrong? I didn't think this place was all that interesting...  
+Alice：Ever since I begain my training, this place has felt familiar to me...  
+Alice：Even though it shouldn't...  
+Eydis：Hmmm...  
+Eydis：Maybe it resembles the place you lived in Heaven?  
+Alice：Heaven... That's right. I was summoned from Heaven.  
+Alice：Sometimes...I find myself almost forgetting this.  
+Eydis：It happens to everyone. I know I came from Heaven, but I don't really feel like it.  
+Eydis：I mean, I don't remember it. And no one else does either.  
+Eydis：Oh! Don't tell anyone else I said that, okay?  
+Eydis：Especially Fanatio.   
+Eydis： "An esteemed Integrity Knight should be..."  
+Eydis：She'll go off on her nonsense.  
+Alice：Pffft! Haha...  
+Eydis：Ooh. Was that spot-on?  
+Alice：Noted... So, this conversation is a secret between us?  
+Eydis：A secret! Ooh, that's got a lovely ring to it! Our little secret. Ahhh, how beautiful.  
+Alice：Um, Eydis. I can't breathe...  
+Eydis：Oops! Sorry about that. Well, let's go back to your room.  
+Eydis：You must be tired from all that walking.  
+Alice：Thank you...  
 
 ## 场景 0003（未引用文本，按编号排列）
 

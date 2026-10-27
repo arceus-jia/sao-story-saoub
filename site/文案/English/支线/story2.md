@@ -1,5 +1,27 @@
 # story2
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Sortiliena and the Zephyria Flower
+
+Sortiliena：Raaah!  
+Umpire：Match over! The winner, Sortiliena!  
+Noble Child A：The way she moved...  
+Noble Child B：That's not orthodox sword arts.  
+Noble Child A：That's right! She cheated!  
+Sortiliena：How dare you!  
+Sortiliena：I use the traditional Serlut style! It's a proper sword art.  
+Noble Child A：Never heard of it!  
+Noble Child B：Only High-Norkian style is legitimate! Your illegal moves are not a true art!  
+Sortiliena：My technique is not illegal! Take that back at once!  
+Noble Child B：But your technique is illegal! I'm just calling it what it is!  
+Umpire：That's enough! The duel already ended.  
+Sortiliena：But she cheated...  
+Umpire：If you fight outside the confines of a duel, you'll break the Taboo Index.  
+Umpire：Do you want that?  
+Sortiliena：Humph! F-forgive me.  
+
 ## 场景 novel.story2_1_1
 
 Noble Child A：Humph. Cheater. You're just all talk!  
@@ -38,6 +60,14 @@ Sortiliena：How can an illegitimate art win against the real thing?
 Sortiliena：No... In reality, I am winning!  
 Sortiliena：But by illegitimate means...  
 Sortiliena：So...what am I supposed to do?  
+
+## 场景 0002（未引用文本，按编号排列）
+
+Noble Child A：Yahhh! Take this, my Mountain-Splitting Wave!  
+Sortiliena：Mmf! But, I'll respond with Active Water...  
+Noble Child A：Agh! My stance!  
+Sortiliena：Now!  
+Umpire：Match set!  
 
 ## 场景 novel.story2_2_4
 
@@ -81,6 +111,25 @@ Sortiliena：Good point...
 Sortiliena's Mother：Now, let's make some cookie dough!  
 Sortiliena：Zephyria flowers...  
 
+## 场景 0005（未引用文本，按编号排列）
+
+Sortiliena：Found it! Zephyria flowers...  
+Sortiliena：This flower blooms in the West, but it does not emit  
+Sortiliena：much sacred power.  
+Sortiliena：Its leaves and fruit are also inedible, but the seeds can be used as a spice.  
+Sortiliena：This is the Zephyria flower!  
+Sortiliena：But, what pretty violet blooms! The same color as my eyes...  
+Sortiliena：If their only use is as a spice, why are they so beautiful?  
+Sortiliena：This flower reference book said nothing about them either.  
+Sortiliena：No one has seen these blooms.  
+Sortiliena：So...why are they so beautiful?  
+Sortiliena：The Zephyria flower isn’t blooming for anyone. It’s blooming for itself.  
+Sortiliena：I wish I could be like them...  
+
+## 场景 0006（未引用文本，按编号排列）
+
+Sortiliena：Humph! Hah!  
+
 ## 场景 novel.story2_6_4
 
 Sortiliena's Father：You seem awfully inspired today. I was worried that you seemed unmotivated recently.  
@@ -92,6 +141,15 @@ Sortiliena：Even if I'm accused of cheating or being unorthodox...
 Sortiliena：I need to be true to myself.  
 Sortiliena's Father：Hm? I don't understand what you're saying.  
 Sortiliena：I want to bloom for myself, just like the Zephyria. Even if my blooms are useless.  
+
+## 场景 0007（未引用文本，按编号排列）
+
+Kirito：Haaah!  
+Azurika：That's enough. Both sides, pull back!  
+Kirito：Whew... Strong. As expected.  
+Examiner：I've never seen that technique before. But it's inadequate...  
+Kirito：Argh, fine. I'll be careful next time.  
+Examiner：Take it seriously, won't you. Next!  
 
 ## 场景 novel.story2_7_1_1
 
@@ -148,6 +206,10 @@ Sortiliena：Here we go, Kirito.
 Kirito：Alright, Liena!  
 Sortiliena：Don't get distracted by form. Attack me like you mean it!  
 
+## 场景 0008（未引用文本，按编号排列）
+
+Kirito：As you wish... Hah!  
+
 ## 场景 novel.story2_8_3_2
 
 Sortiliena：The way you move... You really are interesting, Kirito!  
@@ -180,6 +242,10 @@ Kirito：Nah, you're so nice I'd never say that!
 Sortiliena：Right... Well, see you tomorrow.  
 Kirito：Okay! Thanks again.  
 
+## 场景 0009（未引用文本，按编号排列）
+
+Sortiliena：Hah!   
+
 ## 场景 novel.story2_9_1_1
 
 Sortiliena：Still a bit too slow. Swing faster...  
@@ -191,6 +257,13 @@ Sortiliena：Aha. Mid-back, eh? In that case, when flipping...
 Sortiliena：Oops, I'm sorry. I'm late for training.  
 Golgorosso：I don't mind. But why are you training so hard?  
 Sortiliena：I must defeat him this time. I lost the last couple times.  
+
+## 场景 0009（未引用文本，按编号排列）
+
+Golgorosso：You mean Volo Levantein? What a bother.  
+Sortiliena：Yes...but I do have some hope.  
+Sortiliena：Kirito... When I watch him, I get the feeling that I, too, am about to grasp something new.  
+Golgorosso：You really have taken a liking to that page of yours.  
 
 ## 场景 novel.story2_9_1_2
 
@@ -206,6 +279,18 @@ Sortiliena：Yes. Real fights don't happen in arenas.
 Kirito：Good point. I'm actually a better fighter outdoors.  
 Sortiliena：Oh? Well, I can't wait to see that.  
 Sortiliena：Let's begin!  
+
+## 场景 0010（未引用文本，按编号排列）
+
+Kirito：Dropping your sword? That's not like you, Liena.  
+Sortiliena：You think? You're naive, Kirito!  
+Kirito：Agh! M-my neck...  
+Sortiliena：Well, Kirito? Do you yield?  
+Kirito：N-not yet...  
+Sortiliena：Oh?  
+Kirito：Oof?! Uncle!  
+Sortiliena：Uncle? Uncle, who?  
+Kirito：I mean, I yield!  
 
 ## 场景 novel.story2_10_3
 
@@ -268,6 +353,10 @@ Kirito：Huh? B-but it was technically a tie.
 Sortiliena：A tie against Levantein is not enough for you?  
 Kirito：Oh, n-no, that's not what I meant.  
 
+## 场景 0012（未引用文本，按编号排列）
+
+Graduation Day...  
+
 ## 场景 novel.story2_12_1
 
 Volo：Your page...Kirito? He's a pretty amusing fellow.  
@@ -287,6 +376,13 @@ Volo：Is that so? But I can’t have you looking down on me like that.
 Volo：Time to get serious.  
 Volo：I’ll hit you with everything I’ve got!  
 
+## 场景 0012（未引用文本，按编号排列）
+
+Volo：Defeat the strongest ones first!  
+Volo：I never expected... that I would be defeated.  
+Sortiliena：Hahhh... Ohhh... I did it, Kirito!  
+Sortiliena：Kirito, did you see that?  
+
 ## 场景 novel.story2_12_3
 
 Kirito：Of course I did! I knew you'd win!  
@@ -298,95 +394,8 @@ Sortiliena：I can't be certain... What about now?
 Kirito：Now's not a good time... I'll be waiting in that forest after graduation.  
 Sortiliena：Okay. I'll be there.  
 
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Sortiliena and the Zephyria Flower
-
-Sortiliena：Raaah!  
-Umpire：Match over! The winner, Sortiliena!  
-Noble Child A：The way she moved...  
-Noble Child B：That's not orthodox sword arts.  
-Noble Child A：That's right! She cheated!  
-Sortiliena：How dare you!  
-Sortiliena：I use the traditional Serlut style! It's a proper sword art.  
-Noble Child A：Never heard of it!  
-Noble Child B：Only High-Norkian style is legitimate! Your illegal moves are not a true art!  
-Sortiliena：My technique is not illegal! Take that back at once!  
-Noble Child B：But your technique is illegal! I'm just calling it what it is!  
-Umpire：That's enough! The duel already ended.  
-Sortiliena：But she cheated...  
-Umpire：If you fight outside the confines of a duel, you'll break the Taboo Index.  
-Umpire：Do you want that?  
-Sortiliena：Humph! F-forgive me.  
-
-## 场景 0002（未引用文本，按编号排列）
-
-Noble Child A：Yahhh! Take this, my Mountain-Splitting Wave!  
-Sortiliena：Mmf! But, I'll respond with Active Water...  
-Noble Child A：Agh! My stance!  
-Sortiliena：Now!  
-Umpire：Match set!  
-
-## 场景 0005（未引用文本，按编号排列）
-
-Sortiliena：Found it! Zephyria flowers...  
-Sortiliena：This flower blooms in the West, but it does not emit  
-Sortiliena：much sacred power.  
-Sortiliena：Its leaves and fruit are also inedible, but the seeds can be used as a spice.  
-Sortiliena：This is the Zephyria flower!  
-Sortiliena：But, what pretty violet blooms! The same color as my eyes...  
-Sortiliena：If their only use is as a spice, why are they so beautiful?  
-Sortiliena：This flower reference book said nothing about them either.  
-Sortiliena：No one has seen these blooms.  
-Sortiliena：So...why are they so beautiful?  
-Sortiliena：The Zephyria flower isn’t blooming for anyone. It’s blooming for itself.  
-Sortiliena：I wish I could be like them...  
-
-## 场景 0006（未引用文本，按编号排列）
-
-Sortiliena：Humph! Hah!  
-
-## 场景 0007（未引用文本，按编号排列）
-
-Kirito：Haaah!  
-Azurika：That's enough. Both sides, pull back!  
-Kirito：Whew... Strong. As expected.  
-Examiner：I've never seen that technique before. But it's inadequate...  
-Kirito：Argh, fine. I'll be careful next time.  
-Examiner：Take it seriously, won't you. Next!  
-
-## 场景 0008（未引用文本，按编号排列）
-
-Kirito：As you wish... Hah!  
-
-## 场景 0009（未引用文本，按编号排列）
-
-Sortiliena：Hah!   
-Golgorosso：You mean Volo Levantein? What a bother.  
-Sortiliena：Yes...but I do have some hope.  
-Sortiliena：Kirito... When I watch him, I get the feeling that I, too, am about to grasp something new.  
-Golgorosso：You really have taken a liking to that page of yours.  
-
-## 场景 0010（未引用文本，按编号排列）
-
-Kirito：Dropping your sword? That's not like you, Liena.  
-Sortiliena：You think? You're naive, Kirito!  
-Kirito：Agh! M-my neck...  
-Sortiliena：Well, Kirito? Do you yield?  
-Kirito：N-not yet...  
-Sortiliena：Oh?  
-Kirito：Oof?! Uncle!  
-Sortiliena：Uncle? Uncle, who?  
-Kirito：I mean, I yield!  
-
 ## 场景 0012（未引用文本，按编号排列）
 
-Graduation Day...  
-Volo：Defeat the strongest ones first!  
-Volo：I never expected... that I would be defeated.  
-Sortiliena：Hahhh... Ohhh... I did it, Kirito!  
-Sortiliena：Kirito, did you see that?  
 Kirito：There you are, Lady Liena.  
 Sortiliena：What is that for?  
 Sortiliena：I hope you aren't asking for a farewell-duel? I'd accept, though.  

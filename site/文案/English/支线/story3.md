@@ -1,5 +1,11 @@
 # story3
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Primary Trainee Ronie Arabel
+
+
 ## 场景 novel.story3_1_1
 
 
@@ -23,11 +29,23 @@ Ronie：N-no! Not weird! I just wasn't expecting my first task to be a duel.
 Kirito：If you don't want to...  
 Ronie：No, I'm honored! I'd love to!  
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Training Area
+
+
 ## 场景 novel.story3_1_2
 
 Kirito：We'll find out... with a true duel.  
 Ronie：A t-true duel?  
 Ronie：Well...let us begin!  
+
+## 场景 0001（未引用文本，按编号排列）
+
+Kirito：Nice going!  
+Kirito：I’ll get a little more serious, too!  
+Ronie：Th-the sword, it...?!  
 
 ## 场景 novel.story3_1_4
 
@@ -72,6 +90,19 @@ Ronie：But he wasn't at all intimidating. Just a bit odd.
 Ronie：His smile reminds me of a child's. He's really cute, too...  
 Ronie：Ah! What am I saying?  
 Ronie：Hehe. Life is going to get busy starting tomorrow.  
+
+## 场景 0002（未引用文本，按编号排列）
+
+
+### Elite Disciples' Dorm - Kirito and Eugeo's Living Room
+
+Ronie：Cough, cough...  
+Tiese：Are you okay, Ronie? You look pale.  
+Eugeo：She's right. You should get home. You finished cleaning, after all.  
+Ronie：Oh, n-no! My duties don't end until I've delivered my report.  
+Ronie：Cough, cough!  
+Tiese：Ronie...  
+Eugeo：What the hell is Kirito doing? Get back here now!  
 
 ## 场景 novel.story3_2_1
 
@@ -205,31 +236,6 @@ Kirito：Uh, I mean...
 Eugeo：That reminds me, Kirito, you wandered off yesterday during morning lessons, right?  
 Kirito：L-let's not dwell on that! Drink up, Ronie.  
 Ronie：Thank you, Kirito!  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Primary Trainee Ronie Arabel
-
-
-### Training Area
-
-Kirito：Nice going!  
-Kirito：I’ll get a little more serious, too!  
-Ronie：Th-the sword, it...?!  
-
-## 场景 0002（未引用文本，按编号排列）
-
-
-### Elite Disciples' Dorm - Kirito and Eugeo's Living Room
-
-Ronie：Cough, cough...  
-Tiese：Are you okay, Ronie? You look pale.  
-Eugeo：She's right. You should get home. You finished cleaning, after all.  
-Ronie：Oh, n-no! My duties don't end until I've delivered my report.  
-Ronie：Cough, cough!  
-Tiese：Ronie...  
-Eugeo：What the hell is Kirito doing? Get back here now!  
 
 ## 场景 0014（未引用文本，按编号排列）
 

@@ -1,11 +1,32 @@
 # key3
 
+## 场景 0001（未引用文本，按编号排列）
+
+Kirito：The night after Eugeo and I both won the Zakkaria tournament,  
+
+### The Dragonmaster Girl
+
+Kirito：I dreamt for the first time in a while about a certain girl.  
+Kirito：And I felt a little guilty that it wasn’t Asuna...  
+Kirito：It must be because today...  
+Kirito：Those of the "As long as the rules aren't broken anything goes" persuasion, they were in SAO, too.  
+Kirito：I first met Silica in Level 35 of SAO.  
+Kirito：She was sobbing, surrounded by Drunken Apes.  
+Kirito：Her frail arms were holding something protectively, shaking with anger and despair.  
+
 ## 场景 novel.key3_2_4_1
 
 Kirito：I'm so sorry... I couldn't save your friend.  
 Silica：Don't apologize.  
 Silica：I was stupid. I thought I could break through the forest all by myself.  
 Silica：Thank you. You saved my life.  
+
+## 场景 0002（未引用文本，按编号排列）
+
+Kirito：Even though Silica had just lost Pina, her best friend, she still thanked me.  
+Kirito：So when I learned Pina's soul was still here, I was relieved for her.  
+Kirito：As long as a familiar’s soul remained, she could be resurrected with an item.  
+Kirito：But, that came with a grim condition.  
 
 ## 场景 novel.key3_2_4_2
 
@@ -46,6 +67,16 @@ Silica：W-wrong?! Nothing!
 Kirito：When we got up to Level 47, Silica seemed very giddy.  
 Kirito：That just goes to show how important reviving Pina was to her.  
 
+## 场景 0003（未引用文本，按编号排列）
+
+Silica：Aaah!!!  
+Kirito：Stay calm, Silica! That monster is really weak!  
+Silica：Kirito! Help! Don't look at me, but help me!  
+Kirito：I think that's impossible...  
+Silica：Argh! Just cut it out!!!  
+Silica：Did you...see anything?  
+Kirito：Nope...I saw nothing.  
+
 ## 场景 novel.key3_4_4
 
 Kirito：As we fought plant monsters along the way, Silica and I made it to the Hill of Memories.  
@@ -58,6 +89,12 @@ Kirito：But there's a lot of powerful monsters around here. Let's hurry back an
 Silica：Okay!  
 Kirito：And that's how we got the Pneuma Flower.  
 Kirito：I'll never forget the happy look on Silica's face then.  
+
+## 场景 0005（未引用文本，按编号排列）
+
+Kirito：After we got the flower, we hurried back to the Teleport Gate to revive Pina.  
+Kirito：And also... to accomplish my side quest.  
+Kirito：Hey, I know you're hiding. Show yourself.  
 
 ## 场景 novel.key3_5_1
 
@@ -92,48 +129,17 @@ Kirito：Where do you think you're going?
 Rosalia：Just try it! I'm green. If you damage me then you'll become orange...  
 Kirito：Just FYI, I'm a solo-player. Becoming orange for a day or two is no big deal to me.  
 
+## 场景 0005（未引用文本，按编号排列）
+
+Kirito：After Rosalia was locked up in the Black Iron Palace dungeons, we went back to Weathercock Pavilion.  
+
 ## 场景 novel.key3_5_3
 
 Kirito：Okay! Time to summon Pina.  
 Silica：Okay!  
 
-## 场景 0001（未引用文本，按编号排列）
-
-Kirito：The night after Eugeo and I both won the Zakkaria tournament,  
-
-### The Dragonmaster Girl
-
-Kirito：I dreamt for the first time in a while about a certain girl.  
-Kirito：And I felt a little guilty that it wasn’t Asuna...  
-Kirito：It must be because today...  
-Kirito：Those of the "As long as the rules aren't broken anything goes" persuasion, they were in SAO, too.  
-Kirito：I first met Silica in Level 35 of SAO.  
-Kirito：She was sobbing, surrounded by Drunken Apes.  
-Kirito：Her frail arms were holding something protectively, shaking with anger and despair.  
-
-## 场景 0002（未引用文本，按编号排列）
-
-Kirito：Even though Silica had just lost Pina, her best friend, she still thanked me.  
-Kirito：So when I learned Pina's soul was still here, I was relieved for her.  
-Kirito：As long as a familiar’s soul remained, she could be resurrected with an item.  
-Kirito：But, that came with a grim condition.  
-
-## 场景 0003（未引用文本，按编号排列）
-
-Silica：Aaah!!!  
-Kirito：Stay calm, Silica! That monster is really weak!  
-Silica：Kirito! Help! Don't look at me, but help me!  
-Kirito：I think that's impossible...  
-Silica：Argh! Just cut it out!!!  
-Silica：Did you...see anything?  
-Kirito：Nope...I saw nothing.  
-
 ## 场景 0005（未引用文本，按编号排列）
 
-Kirito：After we got the flower, we hurried back to the Teleport Gate to revive Pina.  
-Kirito：And also... to accomplish my side quest.  
-Kirito：Hey, I know you're hiding. Show yourself.  
-Kirito：After Rosalia was locked up in the Black Iron Palace dungeons, we went back to Weathercock Pavilion.  
 Kirito：When Silica used the Pneuma Flower, a blue feathery dragon appeared.  
 Kirito：She perched on Silica’s shoulder, nuzzling firmly against her master's cheek.  
 Kirito：It's an expression of affection so real that it's hard to believe she's computer-generated.  

@@ -1,11 +1,40 @@
 # key5
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### ALO: Land of the Fairies
+
+Kirito：Today is our weekly Day of Rest.  
+Kirito：So Eugeo, Ronie, Tiese, and myself are all in the academy's forest, having a picnic.  
+Kirito：I know, I'm on a picnic with girls. If Asuna found out, she'd tear me a new one...  
+Kirito：But, hey. It's all part of mentorship.  
+
 ## 场景 novel.key5_1_1_1
 
 Tiese：Eugeo, are you listening?  
 Eugeo：Sorry, yeah, I'm listening. So... what were you saying?  
 Tiese：I wouldn't call that "listening"!  
 Kirito：Tiese is yelling at Eugeo for being distracted by the golden flying fox in the trees.  
+
+## 场景 0001（未引用文本，按编号排列）
+
+Kirito：I don't blame him for spacing out. This forest is quite magical, with all its tiny animals and plants.  
+Kirito：It reminds me of, you guessed it, the forests in ALO.  
+Kirito：ALO...or Alfheim Online, is a VRMMORPG set in the Land of Fairies.  
+Kirito：Before I started playing ALO, I was still depressed over Asuna being comatose from SAO.  
+Kirito：And through it all, the one who kept me going was Sugu, my little sister.  
+Kirito：Then, thanks to a little intel about Asuna from Agil, I logged in to ALO.  
+Kirito：The first time I logged in to ALO, I was flung into an empty forest.  
+Kirito：At the time, I didn't have the luxury of thoroughly checking out my surroundings.  
+Kirito：All I had to go off of to find Asuna was one picture of a girl who looks like her.  
+Kirito：I didn't know how the game worked, or how to meet other characters.  
+Kirito：But it was there that I was reunited with Yui, the "daughter" Asuna and I love so much.  
+Kirito：I was lucky in that ALO copied over a lot of the data from SAO's servers.  
+Kirito：Yui gave me so much courage...  
+Kirito：Even now, my heart fills with joy whenever I look back on that day.  
+Kirito："Since a miracle like this happened, I'm sure we'll see Asuna again."  
+Kirito：She helped strengthen my convictions.  
 
 ## 场景 novel.key5_1_1_2
 
@@ -15,10 +44,28 @@ Kirito：Even after SAO's servers were destroyed, Asuna hasn’t made it back to
 Kirito：I came to this world because I heard a girl who looks like Asuna was seen at the World Tree.  
 Kirito：Now, I acknowledge that it could have just been her doppelganger...  
 
+## 场景 0001（未引用文本，按编号排列）
+
+Kirito：Though Yui's administrative rights were gone, she still had access to the display map data.  
+Kirito：Using Yui's navigation, I was able to start aiming for the distant, looming top of the World Tree.  
+Kirito：And on the way there, I met a girl named Leafa.  
+Kirito：Leafa was surrounded by three tank-players and was fighting for her virtual life.  
+Kirito：Whenever a fight breaks out between players in an MMORPG, good and evil doesn't apply.  
+Kirito：But ALO did encourage players fighting players, or players killing players.  
+Kirito：But when faced with a lopsided fight like this, of course I'm going to side with the solo girl.  
+Kirito：And of course, at the time, I was completely unaware of her true identity.  
+
 ## 场景 novel.key5_4_1
 
 Kirito：Owww... The landing sure is tricky.  
 Leafa：What are you doing?! Run for your life!  
+
+## 场景 0004（未引用文本，按编号排列）
+
+Kirito：Three against one? Not very chivalrous, if you ask me.  
+Salamander A：We didn't ask you, loser!  
+Salamander B：You're pretty cocky, for a noob!  
+Salamander A：We'll make your death wish a reality!  
 
 ## 场景 novel.key5_4_2_1
 
@@ -63,44 +110,6 @@ Kirito：I can't help but chuckle a little, because her mannerisms remind me of 
 Kirito：I used to scoff at mentoring. I didn't think I'd be a good teacher...  
 Kirito：But I have a feeling that I'll be able to relax, open up, and become friends with these girls.  
 
-## 场景 0001（未引用文本，按编号排列）
-
-
-### ALO: Land of the Fairies
-
-Kirito：Today is our weekly Day of Rest.  
-Kirito：So Eugeo, Ronie, Tiese, and myself are all in the academy's forest, having a picnic.  
-Kirito：I know, I'm on a picnic with girls. If Asuna found out, she'd tear me a new one...  
-Kirito：But, hey. It's all part of mentorship.  
-Kirito：I don't blame him for spacing out. This forest is quite magical, with all its tiny animals and plants.  
-Kirito：It reminds me of, you guessed it, the forests in ALO.  
-Kirito：ALO...or Alfheim Online, is a VRMMORPG set in the Land of Fairies.  
-Kirito：Before I started playing ALO, I was still depressed over Asuna being comatose from SAO.  
-Kirito：And through it all, the one who kept me going was Sugu, my little sister.  
-Kirito：Then, thanks to a little intel about Asuna from Agil, I logged in to ALO.  
-Kirito：The first time I logged in to ALO, I was flung into an empty forest.  
-Kirito：At the time, I didn't have the luxury of thoroughly checking out my surroundings.  
-Kirito：All I had to go off of to find Asuna was one picture of a girl who looks like her.  
-Kirito：I didn't know how the game worked, or how to meet other characters.  
-Kirito：But it was there that I was reunited with Yui, the "daughter" Asuna and I love so much.  
-Kirito：I was lucky in that ALO copied over a lot of the data from SAO's servers.  
-Kirito：Yui gave me so much courage...  
-Kirito：Even now, my heart fills with joy whenever I look back on that day.  
-Kirito："Since a miracle like this happened, I'm sure we'll see Asuna again."  
-Kirito：She helped strengthen my convictions.  
-Kirito：Though Yui's administrative rights were gone, she still had access to the display map data.  
-Kirito：Using Yui's navigation, I was able to start aiming for the distant, looming top of the World Tree.  
-Kirito：And on the way there, I met a girl named Leafa.  
-Kirito：Leafa was surrounded by three tank-players and was fighting for her virtual life.  
-Kirito：Whenever a fight breaks out between players in an MMORPG, good and evil doesn't apply.  
-Kirito：But ALO did encourage players fighting players, or players killing players.  
-Kirito：But when faced with a lopsided fight like this, of course I'm going to side with the solo girl.  
-Kirito：And of course, at the time, I was completely unaware of her true identity.  
-
 ## 场景 0004（未引用文本，按编号排列）
 
-Kirito：Three against one? Not very chivalrous, if you ask me.  
-Salamander A：We didn't ask you, loser!  
-Salamander B：You're pretty cocky, for a noob!  
-Salamander A：We'll make your death wish a reality!  
 Kirito：Someday, I'll take them to the real world with me and introduce them to Asuna and Sugu.  

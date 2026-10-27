@@ -1,5 +1,11 @@
 # story46
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Continuing My Journey with You
+
+
 ## 场景 novel.story46_1_1
 
 Tiese：Brr... It's so cold today. Feels like it might snow, too.  
@@ -120,6 +126,36 @@ Tiese's Father：Haha, as am I. We seldom go out like this.
 Tiese's Father：When you put it that way, this outing is exciting.  
 Tiese：Yes, sir!  
 
+## 场景 0003（未引用文本，按编号排列）
+
+Elite Nobles：Well, hello there, Schtrinen! We've been waiting.  
+Tiese's Father：Thank you so much for honoring us with an invitation to your home, sir.  
+Elite Nobles：So, this is your daughter?  
+Tiese：Nice to meet you, sir. I'm Tiese. My father has told me what a good man you are.  
+Elite Nobles：Well, what a proper little lady. And as beautiful as they say.  
+Tiese's Father：Your praise honors me, sir... There is still much she has yet to learn, though...  
+Elite Nobles：Now, now, you have a very good daughter, Schtrinen. Take pride in that.  
+Elite Nobles：Now, I'll just summon my son. Are you there? Come on in.  
+Elite Nobleman's Son：Yes, Father!  
+Elite Nobleman's Son：So you're Schtrinen's daughter?  
+Tiese：Yes. I'm Tiese...  
+Elite Nobleman's Son：Hmm... Interesting.  
+Tiese：......  
+Tiese：(He's staring at me a lot... With what can only be described as leering eyes.)  
+Elite Nobleman's Son：Yeah. I like her, Father.  
+Elite Nobles：Do you? Good.  
+Elite Nobles：Well then, Schtrinen, let's have you organize those documents.  
+Tiese's Father：Yes, sir...  
+Elite Nobles：You'll be handsomely rewarded for working on your Day of Rest.  
+Tiese's Father：Oh, I don't deserve...  
+Elite Nobles：No, I insist. A token of my appreciation for your family's future cooperation. Come with me.  
+Tiese：S-So...what should I do?  
+Elite Nobleman's Son：You'll keep me company. Come here.  
+Tiese：A-Alright... Well, Father, see you after work.  
+Tiese's Father：Have a nice time, Tiese...  
+Elite Nobleman's Son：Just be at ease. I'm going to show you something you've never seen before.  
+Elite Nobleman's Son：This way!  
+
 ## 场景 novel.story46_3_2
 
 Elite Nobleman's Son：It's in this room! Hehehe... Amazing, eh?  
@@ -166,6 +202,73 @@ Elite Nobleman's Son：Consider yourself lucky, girl! Not many people in Norlang
 Elite Nobleman's Son：You can brag to your friends about it if you wish. You'll be the envy of everyone.  
 Tiese：Thank you...  
 
+## 场景 0004（未引用文本，按编号排列）
+
+Elite Nobles：Did you have fun at my house?  
+Tiese：Yes, I did, thank you.  
+Elite Nobleman's Son：Of course you did! You saw beautiful art, and you ate delicious sweets, too!  
+Tiese's Father：Yes, thank you very much for your hospitality.  
+Elite Nobles：Oh, come, Schtrinen. We're practically family.  
+Elite Nobles：You helped me organize my library, and you made this day very productive indeed!  
+Tiese's Father：I'm simply glad that I could be of service to you, sir.  
+Tiese's Father：Well, we don't want to outstay our welcome, so let's excuse ourselves, Tiese.  
+Tiese：Yes, Father!  
+Elite Nobleman's Son：What. Leaving already?!  
+Elite Nobles：Come on, stay longer. Have dinner with us.  
+Tiese：Huh? Dinner...  
+Tiese's Father：Oh, but...it will take us a while to get home, so...  
+Elite Nobles：I see. What a pity.  
+Tiese：(Whew. What a relief.)  
+Elite Nobleman's Son：Hey, Father. You said she can swordfight, right?  
+Elite Nobles：Ah, yes indeed. I heard she trains daily at home.  
+Tiese's Father：Yes... It's not much, but I'm doing my nobleman's duty to teach her basic fighting skills.  
+Elite Nobles：That is truly commendable. I've been teaching my son a thing or two as well.  
+Elite Nobleman's Son：Yeah, just look! Here's our family's sword!  
+Tiese's Father：Wow... This is splendidly made!  
+Elite Nobles：Of course it is! It cost lots of money, too!  
+Elite Nobleman's Son：Say, Father! Let's have a match!  
+Elite Nobles：A match?  
+Elite Nobleman's Son：That's right. She knows how to swordfight too, right?  
+Elite Nobleman's Son：I wouldn't mind teaching her a move or two.  
+Tiese's Father：Oh, no, my daughter is still a novice. She could never duel someone with such a fine sword as...  
+Elite Nobleman's Son：Don't worry, I'm not quite ready for this sword yet anyway. We will fight with practice swords.  
+Elite Nobles：What do you say, Schtrinen? Would you like to compare our children's skills?  
+Elite Nobles：Naturally, we will not draw blood. I promise no one will get hurt.  
+Tiese's Father：But sir...  
+Tiese：I'll be fine, Father.  
+Tiese's Father：But Tiese...  
+Elite Nobles：Wow, your daughter understands.  
+Tiese：I look forward to it. I hope I can learn something.  
+Elite Nobleman's Son：Sure thing! I promise it won't hurt.  
+Tiese：Yes, sir...  
+Elite Nobles：Let's move to the garden. We'll see what House Schtrinen is made of.  
+Tiese's Father：Tiese, be careful.  
+Tiese：I'll be fine, Father! You did a good job training me.  
+Elite Nobleman's Son：Haha. Ooh, you sure talk big. I guess I'll have to take you more seriously!  
+Tiese：Yahhh!! Hah!  
+Elite Nobleman's Son：Oof... Why, you! Why, you little!  
+Elite Nobleman's Son：I...I can't get a hit in! Why?!  
+Tiese：(He...doesn't even understand the fundamentals. He's letting the sword swing him around.)  
+Tiese：(He must have never really trained properly...)  
+Elite Nobleman's Son：Hey, quit dodging! Damn it!  
+Tiese：(But, if I win this duel, it will hurt Father's standing...)  
+Tiese：Yahh...  
+Elite Nobleman's Son：Oh! S-So many openings!  
+Tiese：......  
+Elite Nobleman's Son：Huff...huff...huff... Okay! I did it!  
+Tiese：I yield.  
+Elite Nobles：Match set! Well, what a spirited bout that was, eh, Schtrinen?  
+Tiese's Father：Yes. A splendid victory.  
+Elite Nobleman's Son：Hahaha! Yeah! Behold my might!  
+Tiese：You were perfect.  
+Elite Nobleman's Son：You were pretty good, too. But you shouldn't get sloppy at the end.  
+Elite Nobleman's Son：In battle, a moment's hesitation can spell your death!  
+Tiese：Thank you for the words of wisdom.  
+Tiese's Father：Well, we must be off now. Thank you for having us over.  
+Tiese：Thank you very much. The sweets were delicious.  
+Elite Nobleman's Son：Come again sometime! I'll show you even fancier treasures next time!  
+Tiese：Yes, sir...  
+
 ## 场景 novel.story46_5_1
 
 Tiese's Father：Tiese, thank you for restraining yourself. You did that to help me save face, didn't you?  
@@ -194,6 +297,26 @@ Tiese's Father：Everyone, hide in the shadows! I will drive them back!
 Tiese：Father! Will you be okay?  
 Tiese's Father：Yes. I must protect these people. Tiese, you need to fight, too.  
 Tiese：Y-Yes, sir!  
+
+## 场景 0005（未引用文本，按编号排列）
+
+Beast：Grrr...  
+Tiese：F-Fight these beasts?!  
+Tiese's Father：That's right. We can't let those people be hurt!  
+Tiese's Father：Don't worry. I know you can do it.  
+Tiese：Y-Yes, sir!  
+Tiese：Huff...huff...just a bit more! A bit more...and all the beasts...  
+Beast：Grar!!!  
+Tiese：Wha...?!  
+Tiese's Father：Tiese! Watch out!  
+Tiese：F-Father?!  
+Tiese's Father：U-Uh...  
+Tiese：Y-You fiend! How dare you hurt my father!  
+Beast：Skree! Grrr...  
+Tiese：I-Is it over now? Father... Father are you okay?  
+Tiese's Father：I'm fine... Are the others okay?  
+Tiese：Um...yes. Some are a little wounded, but everyone is alive.  
+Tiese's Father：Good...  
 
 ## 场景 novel.story46_5_2
 
@@ -276,129 +399,6 @@ Eugeo：Still, he must be quite skilled to have taught you the fundamentals so w
 Tiese：Thank you. My father will be pleased!  
 Tiese：Oh! It's my curfew... Sorry, I have to go!  
 Eugeo：No, sorry I kept you. See you tomorrow!  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Continuing My Journey with You
-
-
-## 场景 0003（未引用文本，按编号排列）
-
-Elite Nobles：Well, hello there, Schtrinen! We've been waiting.  
-Tiese's Father：Thank you so much for honoring us with an invitation to your home, sir.  
-Elite Nobles：So, this is your daughter?  
-Tiese：Nice to meet you, sir. I'm Tiese. My father has told me what a good man you are.  
-Elite Nobles：Well, what a proper little lady. And as beautiful as they say.  
-Tiese's Father：Your praise honors me, sir... There is still much she has yet to learn, though...  
-Elite Nobles：Now, now, you have a very good daughter, Schtrinen. Take pride in that.  
-Elite Nobles：Now, I'll just summon my son. Are you there? Come on in.  
-Elite Nobleman's Son：Yes, Father!  
-Elite Nobleman's Son：So you're Schtrinen's daughter?  
-Tiese：Yes. I'm Tiese...  
-Elite Nobleman's Son：Hmm... Interesting.  
-Tiese：......  
-Tiese：(He's staring at me a lot... With what can only be described as leering eyes.)  
-Elite Nobleman's Son：Yeah. I like her, Father.  
-Elite Nobles：Do you? Good.  
-Elite Nobles：Well then, Schtrinen, let's have you organize those documents.  
-Tiese's Father：Yes, sir...  
-Elite Nobles：You'll be handsomely rewarded for working on your Day of Rest.  
-Tiese's Father：Oh, I don't deserve...  
-Elite Nobles：No, I insist. A token of my appreciation for your family's future cooperation. Come with me.  
-Tiese：S-So...what should I do?  
-Elite Nobleman's Son：You'll keep me company. Come here.  
-Tiese：A-Alright... Well, Father, see you after work.  
-Tiese's Father：Have a nice time, Tiese...  
-Elite Nobleman's Son：Just be at ease. I'm going to show you something you've never seen before.  
-Elite Nobleman's Son：This way!  
-
-## 场景 0004（未引用文本，按编号排列）
-
-Elite Nobles：Did you have fun at my house?  
-Tiese：Yes, I did, thank you.  
-Elite Nobleman's Son：Of course you did! You saw beautiful art, and you ate delicious sweets, too!  
-Tiese's Father：Yes, thank you very much for your hospitality.  
-Elite Nobles：Oh, come, Schtrinen. We're practically family.  
-Elite Nobles：You helped me organize my library, and you made this day very productive indeed!  
-Tiese's Father：I'm simply glad that I could be of service to you, sir.  
-Tiese's Father：Well, we don't want to outstay our welcome, so let's excuse ourselves, Tiese.  
-Tiese：Yes, Father!  
-Elite Nobleman's Son：What. Leaving already?!  
-Elite Nobles：Come on, stay longer. Have dinner with us.  
-Tiese：Huh? Dinner...  
-Tiese's Father：Oh, but...it will take us a while to get home, so...  
-Elite Nobles：I see. What a pity.  
-Tiese：(Whew. What a relief.)  
-Elite Nobleman's Son：Hey, Father. You said she can swordfight, right?  
-Elite Nobles：Ah, yes indeed. I heard she trains daily at home.  
-Tiese's Father：Yes... It's not much, but I'm doing my nobleman's duty to teach her basic fighting skills.  
-Elite Nobles：That is truly commendable. I've been teaching my son a thing or two as well.  
-Elite Nobleman's Son：Yeah, just look! Here's our family's sword!  
-Tiese's Father：Wow... This is splendidly made!  
-Elite Nobles：Of course it is! It cost lots of money, too!  
-Elite Nobleman's Son：Say, Father! Let's have a match!  
-Elite Nobles：A match?  
-Elite Nobleman's Son：That's right. She knows how to swordfight too, right?  
-Elite Nobleman's Son：I wouldn't mind teaching her a move or two.  
-Tiese's Father：Oh, no, my daughter is still a novice. She could never duel someone with such a fine sword as...  
-Elite Nobleman's Son：Don't worry, I'm not quite ready for this sword yet anyway. We will fight with practice swords.  
-Elite Nobles：What do you say, Schtrinen? Would you like to compare our children's skills?  
-Elite Nobles：Naturally, we will not draw blood. I promise no one will get hurt.  
-Tiese's Father：But sir...  
-Tiese：I'll be fine, Father.  
-Tiese's Father：But Tiese...  
-Elite Nobles：Wow, your daughter understands.  
-Tiese：I look forward to it. I hope I can learn something.  
-Elite Nobleman's Son：Sure thing! I promise it won't hurt.  
-Tiese：Yes, sir...  
-Elite Nobles：Let's move to the garden. We'll see what House Schtrinen is made of.  
-Tiese's Father：Tiese, be careful.  
-Tiese：I'll be fine, Father! You did a good job training me.  
-Elite Nobleman's Son：Haha. Ooh, you sure talk big. I guess I'll have to take you more seriously!  
-Tiese：Yahhh!! Hah!  
-Elite Nobleman's Son：Oof... Why, you! Why, you little!  
-Elite Nobleman's Son：I...I can't get a hit in! Why?!  
-Tiese：(He...doesn't even understand the fundamentals. He's letting the sword swing him around.)  
-Tiese：(He must have never really trained properly...)  
-Elite Nobleman's Son：Hey, quit dodging! Damn it!  
-Tiese：(But, if I win this duel, it will hurt Father's standing...)  
-Tiese：Yahh...  
-Elite Nobleman's Son：Oh! S-So many openings!  
-Tiese：......  
-Elite Nobleman's Son：Huff...huff...huff... Okay! I did it!  
-Tiese：I yield.  
-Elite Nobles：Match set! Well, what a spirited bout that was, eh, Schtrinen?  
-Tiese's Father：Yes. A splendid victory.  
-Elite Nobleman's Son：Hahaha! Yeah! Behold my might!  
-Tiese：You were perfect.  
-Elite Nobleman's Son：You were pretty good, too. But you shouldn't get sloppy at the end.  
-Elite Nobleman's Son：In battle, a moment's hesitation can spell your death!  
-Tiese：Thank you for the words of wisdom.  
-Tiese's Father：Well, we must be off now. Thank you for having us over.  
-Tiese：Thank you very much. The sweets were delicious.  
-Elite Nobleman's Son：Come again sometime! I'll show you even fancier treasures next time!  
-Tiese：Yes, sir...  
-
-## 场景 0005（未引用文本，按编号排列）
-
-Beast：Grrr...  
-Tiese：F-Fight these beasts?!  
-Tiese's Father：That's right. We can't let those people be hurt!  
-Tiese's Father：Don't worry. I know you can do it.  
-Tiese：Y-Yes, sir!  
-Tiese：Huff...huff...just a bit more! A bit more...and all the beasts...  
-Beast：Grar!!!  
-Tiese：Wha...?!  
-Tiese's Father：Tiese! Watch out!  
-Tiese：F-Father?!  
-Tiese's Father：U-Uh...  
-Tiese：Y-You fiend! How dare you hurt my father!  
-Beast：Skree! Grrr...  
-Tiese：I-Is it over now? Father... Father are you okay?  
-Tiese's Father：I'm fine... Are the others okay?  
-Tiese：Um...yes. Some are a little wounded, but everyone is alive.  
-Tiese's Father：Good...  
 
 ## 场景 0006（未引用文本，按编号排列）
 

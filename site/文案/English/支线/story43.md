@@ -1,5 +1,29 @@
 # story43
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Eydis's War of Underworld - Ghosts of War
+
+Eydis：It's over...  
+Kirito：Yes, the war is over. Everything is over.  
+Eydis：Where's Alice?  
+Kirito：She went...to our world. To rescue everyone in Underworld.  
+Eydis：Then why are you still here?  
+Kirito：I decided to stay behind. There's someone here I have to defeat.  
+Eydis：Oh...  
+Kirito：Aren't you angry? I thought you loved Alice...  
+Eydis：When we met at the Cathedral, I knew this day would come.  
+Kirito：Oh...  
+Eydis：Also, you're suffering right now. Even I know how staying behind must make you feel.  
+Kirito：...  
+Eydis：But, are you sure she can be happy if you’re not there?  
+Kirito：My world is even more complicated and ugly than this. But my friends will make sure she is happy.  
+Kirito：But my friends will make sure she is happy.  
+Eydis：That's good to hear.  
+Kirito：Wh-What?  
+Eydis：But you're still gonna pay for taking Alice away from me. Okay?  
+
 ## 场景 novel.story43_2_1
 
 Kirito：P-Pay for it? Wh-What do you mean?  
@@ -101,6 +125,14 @@ Kirito：I know it's a dangerous task. Think it over. Even if you agree, we'll n
 Eydis：But...it sounds like fun! Sure. I'll go check it out!  
 Kirito：Huh?! Just like that?  
 Eydis：It's best to strike while the iron is hot! If we twiddle our thumbs, our opportunity might escape.  
+
+## 场景 0004（未引用文本，按编号排列）
+
+Eydis：Besides, they might already be preparing for war over there. That's also worth investigating.  
+Kirito：War... I hadn't considered it, but it does seem possible.  
+
+## 场景 novel.story43_4_1
+
 Eydis：Besides, there might be cute girls over there!  
 Kirito：Cute girls?  
 Eydis：And if those cuties are in trouble, I need to help them out! So I'll go right away.  
@@ -111,6 +143,31 @@ Kirito：Yeah, this could change the future of Underworld.
 Eydis：Alice is doing her part to protect this world, too.  
 Eydis：I can't let her outshine me! I've gotta do her proud so she'll praise me when she comes back.  
 Kirito：I'm sure she'll be happy to see you.  
+
+## 场景 0005（未引用文本，按编号排列）
+
+Mary：Hey, will you tell me another story?  
+Eydis：Sure. One day, I went to the lake and...  
+Mary：Already heard that one!  
+Eydis：Oh dear, oh dear. Okay, then...  
+Eydis：I know! Shall I tell you about the mysterious spider?  
+Mary：Mysterious spider?  
+Eydis：Yes. Remember the story about the End Mountains I told you the other day?  
+Mary：Yeah.  
+Eydis：That was the first time I saw the spider on the tree trunk.  
+Mary：But there are lots of spiders in the forest.  
+Eydis：I know, but that spider was also there at the lake!  
+Eydis：When I saw her, she quickly hid...  
+Eydis：When I went to look for her, a big wave crashed where I used to be.  
+Mary：Did the spider save you?  
+Eydis：Yes. I think she did. I see her every so often now.  
+Eydis：I even saw her near the village. I believe she's been watching over me.  
+Mary：I wish I could see that spider.  
+Eydis：You will see her. She's always nearby.  
+Eydis：Maybe we should go out now.  
+Mary：Nooo! Let's stay in longer!  
+Eydis：Okay, to the count of ten, then.  
+Mary：Okay!  Onnne, twooo, threee, fooour, fiiive...  
 
 ## 场景 novel.story43_6_1
 
@@ -149,60 +206,6 @@ Mary：Promise?
 Eydis：Yes. Promise.  
 Mary：Okay... Well, goodnight.  
 Eydis：Goodnight. Sweet dreams.  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Eydis's War of Underworld - Ghosts of War
-
-Eydis：It's over...  
-Kirito：Yes, the war is over. Everything is over.  
-Eydis：Where's Alice?  
-Kirito：She went...to our world. To rescue everyone in Underworld.  
-Eydis：Then why are you still here?  
-Kirito：I decided to stay behind. There's someone here I have to defeat.  
-Eydis：Oh...  
-Kirito：Aren't you angry? I thought you loved Alice...  
-Eydis：When we met at the Cathedral, I knew this day would come.  
-Kirito：Oh...  
-Eydis：Also, you're suffering right now. Even I know how staying behind must make you feel.  
-Kirito：...  
-Eydis：But, are you sure she can be happy if you’re not there?  
-Kirito：My world is even more complicated and ugly than this. But my friends will make sure she is happy.  
-Kirito：But my friends will make sure she is happy.  
-Eydis：That's good to hear.  
-Kirito：Wh-What?  
-Eydis：But you're still gonna pay for taking Alice away from me. Okay?  
-
-## 场景 0004（未引用文本，按编号排列）
-
-Eydis：Besides, they might already be preparing for war over there. That's also worth investigating.  
-Kirito：War... I hadn't considered it, but it does seem possible.  
-
-## 场景 0005（未引用文本，按编号排列）
-
-Mary：Hey, will you tell me another story?  
-Eydis：Sure. One day, I went to the lake and...  
-Mary：Already heard that one!  
-Eydis：Oh dear, oh dear. Okay, then...  
-Eydis：I know! Shall I tell you about the mysterious spider?  
-Mary：Mysterious spider?  
-Eydis：Yes. Remember the story about the End Mountains I told you the other day?  
-Mary：Yeah.  
-Eydis：That was the first time I saw the spider on the tree trunk.  
-Mary：But there are lots of spiders in the forest.  
-Eydis：I know, but that spider was also there at the lake!  
-Eydis：When I saw her, she quickly hid...  
-Eydis：When I went to look for her, a big wave crashed where I used to be.  
-Mary：Did the spider save you?  
-Eydis：Yes. I think she did. I see her every so often now.  
-Eydis：I even saw her near the village. I believe she's been watching over me.  
-Mary：I wish I could see that spider.  
-Eydis：You will see her. She's always nearby.  
-Eydis：Maybe we should go out now.  
-Mary：Nooo! Let's stay in longer!  
-Eydis：Okay, to the count of ten, then.  
-Mary：Okay!  Onnne, twooo, threee, fooour, fiiive...  
 
 ## 场景 0007（未引用文本，按编号排列）
 

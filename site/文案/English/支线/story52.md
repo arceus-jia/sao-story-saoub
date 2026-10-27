@@ -1,5 +1,11 @@
 # story52
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Tears for Someone
+
+
 ## 场景 novel.story52_1_1
 
 Lilpilin：......  
@@ -163,9 +169,3 @@ Leafa：I know it's probably not customary in your kingdom, but I was hoping to 
 Lilpilin：Why would you pray for orcs?  
 Lilpilin：Dank you, Leafa... I know Len and da others appreciate it.  
 Leafa：I hope so.  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Tears for Someone
-

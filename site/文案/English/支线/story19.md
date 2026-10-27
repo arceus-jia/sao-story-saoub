@@ -1,5 +1,11 @@
 # story19
 
+## 场景 0001（未引用文本，按编号排列）
+
+
+### Kirito and Eugeo's Style
+
+
 ## 场景 novel.story19_1_1
 
 
@@ -228,12 +234,6 @@ Tiese：It is my duty to serve!
 Eugeo：Well, then...thanks. You're always such a great help, Tiese.  
 Kirito：And thank you, Ronie. I'll buy you something next time I'm in town.  
 Ronie：Thank you! I can't wait.  
-
-## 场景 0001（未引用文本，按编号排列）
-
-
-### Kirito and Eugeo's Style
-
 
 ## 场景 0002（未引用文本，按编号排列）
 
