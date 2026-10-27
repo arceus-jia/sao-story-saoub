@@ -6,7 +6,7 @@
 
 ## 页面预览
 
-![网站首页](docs/screenshots/home.webp)
+![网站首页](docs/screenshots/home-game-title.webp)
 
 ![剧情阅读示例](docs/screenshots/reader.webp)
 
