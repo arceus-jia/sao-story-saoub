@@ -1,4 +1,4 @@
-# Only the website, its screenshots and publishing configuration belong here.
+# Only the website, original images, screenshots and publishing configuration belong here.
 *
 !/.gitignore
 !/README.md
@@ -8,6 +8,10 @@
 !/docs/
 !/docs/screenshots/
 !/docs/screenshots/*.webp
+!/image-originals/
+!/image-originals/README.md
+!/image-originals/*.jpg
+!/image-originals/*.png
 !/site/
 !/site/**/
 !/site/**/*.html
