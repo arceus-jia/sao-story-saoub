@@ -2,7 +2,7 @@
 
 主线、支线活动、月之摇篮与角色故事。可在线阅读，也可下载后离线打开，支持原声播放和图片查看。
 
-**[在线阅读](https://arceus-jia.github.io/sao-story-saoub/) · [纯文案目录](https://arceus-jia.github.io/sao-story-saoub/文案目录.html) · [下载纯文案 ZIP](https://arceus-jia.github.io/sao-story-saoub/downloads/sao-story-saoub-texts.zip)**
+**[在线阅读](https://arceus-jia.github.io/sao-story-saoub/) · [动画影像](https://arceus-jia.github.io/sao-story-saoub/动画影像.html) · [纯文案目录](https://arceus-jia.github.io/sao-story-saoub/文案目录.html) · [下载纯文案 ZIP](https://arceus-jia.github.io/sao-story-saoub/downloads/sao-story-saoub-texts.zip)**
 
 ## 使用方式
 
@@ -10,12 +10,14 @@
 
 打开上方网站，选择篇章即可阅读。台词旁的播放按钮可收听原声，点击图片可放大查看。
 
+“动画影像”中可观看或下载游戏原有的视频，支持按名称搜索和类型筛选。
+
 只看文字时，可进入“纯文案目录”按章节阅读，也可下载纯文案 ZIP，解压后阅读 Markdown 文本。
 
 ### 离线阅读
 
 1. [下载完整网站 ZIP](https://github.com/arceus-jia/sao-story-saoub/archive/refs/heads/main.zip)，并完整解压。
-2. 用浏览器打开解压后文件夹内的 `site/index.html`，即可离线阅读、看图和听配音。
+2. 用浏览器打开解压后文件夹内的 `site/index.html`，即可离线阅读、看图、听配音和播放视频。
 
 请保留整个 `site` 文件夹，转发给朋友时也一起打包。纯文案 ZIP 只含文字，离线看图、听配音需要下载完整网站。
 

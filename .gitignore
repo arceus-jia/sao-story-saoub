@@ -20,6 +20,7 @@
 !/site/**/*.png
 !/site/**/*.webp
 !/site/**/*.mp3
+!/site/**/*.mp4
 !/site/downloads/*-texts.zip
 !/site/.nojekyll
 
