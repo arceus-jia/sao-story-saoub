@@ -2,7 +2,22 @@
 
 主线、支线活动、月之摇篮与角色故事。可在线阅读，也可下载后离线打开，支持原声播放和图片查看。
 
-**[打开网站](https://arceus-jia.github.io/sao-story-saoub/) · [一键下载纯文案 ZIP](https://arceus-jia.github.io/sao-story-saoub/downloads/sao-story-saoub-texts.zip) · [剧情阅读](https://arceus-jia.github.io/sao-story-saoub/剧情阅读.html)**
+**[在线阅读](https://arceus-jia.github.io/sao-story-saoub/) · [纯文案目录](https://arceus-jia.github.io/sao-story-saoub/文案目录.html) · [下载纯文案 ZIP](https://arceus-jia.github.io/sao-story-saoub/downloads/sao-story-saoub-texts.zip)**
+
+## 使用方式
+
+### 在线阅读
+
+打开上方网站，选择篇章即可阅读。台词旁的播放按钮可收听原声，点击图片可放大查看。
+
+只看文字时，可进入“纯文案目录”按章节阅读，也可下载纯文案 ZIP，解压后阅读 Markdown 文本。
+
+### 离线阅读
+
+1. [下载完整网站 ZIP](https://github.com/arceus-jia/sao-story-saoub/archive/refs/heads/main.zip)，并完整解压。
+2. 用浏览器打开解压后文件夹内的 `site/index.html`，即可离线阅读、看图和听配音。
+
+请保留整个 `site` 文件夹，转发给朋友时也一起打包。纯文案 ZIP 只含文字，离线看图、听配音需要下载完整网站。
 
 ## 页面预览
 
@@ -12,34 +27,10 @@
 
 ![图片与画册浏览示例](docs/screenshots/gallery.webp)
 
-## 收录内容
+## 阅读说明
 
-- 纯文案：中文 260 份、English 260 份 Markdown；下载包只含这些文档，不含图片、声音或制作数据。
-- 文案来源：简体由包内繁体转换，保留已有英文和日文对照。
-- 图片：1,052 张剧情图片；1,222 处正文图片引用按邻近对白的脚本顺序整理。静态阅读不重现原游戏的转场、叠放和同屏可见状态。
-- 语音：4,256 个原声文件对应 8,952 条文案；6 个未定位的声音引用没有补配。 部分是短句或语气音，并非整句朗读；没有确认关联的台词不显示播放按钮。
-
-范围限于本次提供的本地游戏资源，不保证覆盖游戏历史上所有版本、更新或服务器下载内容。图文是静态阅读档案，不模拟完整游戏演出。
-
-## 使用方式
-
-在线访问上方网站，按目录选择篇章；有播放按钮的台词可收听原声，图片可点击放大。音频按需加载，不会一次下载整站。
-
-只看文字时，可从网站的“纯文案”进入 HTML 目录按章节阅读，也可点击“下载文案 ZIP”保存原始 Markdown。
-
-离线阅读整个网站时，下载本仓库 ZIP 并完整解压，用浏览器打开 `site/index.html`，保留 `site/assets`、`site/文案` 和 `site/downloads`。不需要安装依赖或启动服务器。
-
-## 仓库与部署
-
-```text
-site/                 网站、阅读所需资源、Markdown 与纯文案下载包
-docs/screenshots/     README 中的真实页面截图
-.github/workflows/   GitHub Pages 静态部署
-```
-
-向 `main` 推送后，GitHub Actions 仅将 `site/` 发布到 Pages。网站使用相对路径，无框架构建、外部字体或 CDN 依赖。修改文件后保持资源路径一致即可。
-
-仓库采用允许清单式 `.gitignore`。原始 APK/游戏包、提取缓存、数据库、数据表、凭据和整个网站的重复打包 ZIP 均不提交。
+- 部分配音是短句或语气音，并非整句朗读；有播放按钮的台词才可收听原声。
+- 收录范围以现有游戏资源为准，页面未复原原游戏的完整动画与镜头演出。
 
 ## 同系列档案
 
