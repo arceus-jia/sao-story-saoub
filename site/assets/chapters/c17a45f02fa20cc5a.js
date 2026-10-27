@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c17a45f02fa20cc5a"]={"id":"c17a45f02fa20cc5a","lines":[{"uid":"talk.bercouli_counter#originalText","id":"talk.bercouli_counter","speaker":{},"text":{"cn":"贝尔库利在这空间留下了斩击！","en":"Bercouli left a Slash attack in the air!","ja":"ベルクーリは空間に斬撃を残した!"},"kind":"narration"}]};

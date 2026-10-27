@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb46b5e8c19cd96f1"]={"id":"cb46b5e8c19cd96f1","lines":[{"uid":"talk.key1_0_1000#originalText","id":"talk.key1_0_1000","speaker":{"cn":"caption","en":"caption","ja":"キャプション"},"text":{"cn":"SAO《初始之日》","en":"SAO: The Beginning","ja":"SAO《はじまりの日》"},"kind":"caption"}]};

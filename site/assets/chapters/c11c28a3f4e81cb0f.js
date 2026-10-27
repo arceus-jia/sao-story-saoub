@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c11c28a3f4e81cb0f"]={"id":"c11c28a3f4e81cb0f","lines":[{"uid":"talk.goblin_counter#originalText","id":"talk.goblin_counter","speaker":{},"text":{"cn":"正在准备反击！","en":"It’s counterattacking!","ja":"反撃の態勢を取っている！"},"kind":"narration"}]};

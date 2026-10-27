@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ccce4c007dad9c194"]={"id":"ccce4c007dad9c194","lines":[{"uid":"talk.golem_provoke#originalText","id":"talk.golem_provoke","speaker":{},"text":{"cn":"花岗岩石头怪在保护他的伙伴。","en":"Granite Elemental is covering its ally!","ja":"敵が仲間をかばっている"},"kind":"narration"}]};

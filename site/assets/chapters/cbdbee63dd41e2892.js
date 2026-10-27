@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cbdbee63dd41e2892"]={"id":"cbdbee63dd41e2892","lines":[{"uid":"talk.boss_common#originalText","id":"talk.boss_common","speaker":{},"text":{"cn":"要和空间头目战斗吗？","en":"Battle the field boss?","ja":"フィールドボスと戦いますか?"},"kind":"narration"}]};

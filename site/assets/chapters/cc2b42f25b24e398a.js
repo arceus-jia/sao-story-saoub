@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc2b42f25b24e398a"]={"id":"cc2b42f25b24e398a","lines":[{"uid":"talk.8014001001_1_1#originalText","id":"talk.8014001001_1_1","speaker":{},"text":{"ja":"ゼーファン・インフェルノが怒り狂っている"},"kind":"narration"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5bacc6debb35fa45"]={"id":"c5bacc6debb35fa45","lines":[{"uid":"talk.story32_6_1001#originalText","id":"talk.story32_6_1001","speaker":{"cn":"桐人","en":"Kirito","ja":"キリト"},"text":{"cn":"我们上吧，大家！","en":"Let's go!","ja":"行こう、みんな!"},"kind":"dialogue"}]};

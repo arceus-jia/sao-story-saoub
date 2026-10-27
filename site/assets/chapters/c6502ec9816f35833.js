@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c6502ec9816f35833"]={"id":"c6502ec9816f35833","lines":[{"uid":"talk.story3_liena_buff#originalText","id":"talk.story3_liena_buff","speaker":{},"text":{"cn":"索尔缇莉娜的心意充能率和心意中断率提升125%！","en":"Sortiliena's Incarnation Charge Rate and Incarnation Break Rate increased by 125%!","ja":"ソルティリーナの心意チャージ率と心意ブレイク率が125%UP！"},"kind":"narration"}]};

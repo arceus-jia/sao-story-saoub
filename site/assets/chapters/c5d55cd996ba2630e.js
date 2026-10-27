@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5d55cd996ba2630e"]={"id":"c5d55cd996ba2630e","lines":[{"uid":"talk.stop_common#originalText","id":"talk.stop_common","speaker":{},"text":{"cn":"这里已经是尽头。","en":"It's a dead end up ahead!","ja":"この先は行き止まりだ"},"kind":"narration"}]};

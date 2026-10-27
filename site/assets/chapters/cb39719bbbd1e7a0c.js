@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb39719bbbd1e7a0c"]={"id":"cb39719bbbd1e7a0c","lines":[{"uid":"talk.cannot_command#originalText","id":"talk.cannot_command","speaker":{},"text":{"cn":"晕眩状态时无法行动！","en":"Stunned! Can’t move!","ja":"スタンで行動できない!"},"kind":"narration"}]};

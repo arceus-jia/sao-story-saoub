@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c4d3d2057a9186ee0"]={"id":"c4d3d2057a9186ee0","lines":[{"uid":"talk.physical_counter#originalText","id":"talk.physical_counter","speaker":{},"text":{"cn":"正在准备反击！","en":"It’s counterattacking!","ja":"反撃の態勢を取っている！"},"kind":"narration"}]};

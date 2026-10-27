@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c884bec7fb5303506"]={"id":"c884bec7fb5303506","lines":[{"uid":"talk.story24_16_1000#originalText","id":"talk.story24_16_1000","speaker":{"cn":"亚丝娜","en":"Asuna","ja":"アスナ"},"text":{"cn":"我不会手下留情的！！","en":"I won't go easy on you guys!","ja":"手加減はしないわ!!"},"kind":"dialogue"}]};

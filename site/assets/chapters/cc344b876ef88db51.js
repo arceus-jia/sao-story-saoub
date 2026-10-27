@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc344b876ef88db51"]={"id":"cc344b876ef88db51","lines":[{"uid":"talk.slime_preburst#originalText","id":"talk.slime_preburst","speaker":{},"text":{"cn":"史莱姆看起来很奇怪","en":"Something's off about that Slime.","ja":"スライムの様子がおかしい"},"kind":"narration"}]};

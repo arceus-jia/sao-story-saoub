@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c762617209e1774f5"]={"id":"c762617209e1774f5","lines":[{"uid":"talk.fire_demon_appear#originalText","id":"talk.fire_demon_appear","speaker":{},"text":{"cn":"火焰巨人出现了！","en":"A fire being appeared!","ja":"炎の魔人が現れた！"},"kind":"narration"}]};

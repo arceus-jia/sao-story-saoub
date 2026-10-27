@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c2c522ac54c000af0"]={"id":"c2c522ac54c000af0","lines":[{"uid":"talk.cumulative_dot_damage_single_effect#originalText","id":"talk.cumulative_dot_damage_single_effect","speaker":{},"text":{"cn":"因{}发生累积持续伤害！","en":"Total continuous damage has activated from {}!","ja":"{}による累積継続ダメージが発生!"},"kind":"narration"}]};

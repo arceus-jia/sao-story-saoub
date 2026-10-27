@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c57ed43f5b4d23082"]={"id":"c57ed43f5b4d23082","lines":[{"uid":"talk.ch0_stop_1#originalText","id":"talk.ch0_stop_1","speaker":{"cn":"桐人","en":"Kirito","ja":"キリト"},"text":{"cn":"为了寻找赛鲁卡，继续前进吧。","en":"Go to the point before searching for Selka.","ja":"セルカを捜しに前へ進もう"},"kind":"dialogue"}]};
